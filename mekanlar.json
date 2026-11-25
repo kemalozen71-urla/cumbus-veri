@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-25T20:47+03:00",
+ "guncelleme": "2026-11-25T20:52+03:00",
  "sehir": "İzmir",
  "mekanlar": [
   {
@@ -2881,6 +2881,24 @@
    "enlem": 38.79485,
    "boylam": 26.96527,
    "durum": "Açık (web teyitli)"
+  },
+  {
+   "id": "IZM-0161",
+   "ad": "Tarihi Asansör",
+   "ilce": "Konak",
+   "semt": "Karataş",
+   "acikKapali": "Duruma göre",
+   "kategori": "Kültür-Sanat",
+   "tur": "Tarihi yapı / teras",
+   "adres": "Mithatpaşa Cad., Dario Moreno Sk., Karataş, Konak",
+   "telefon": "",
+   "ulasim": "",
+   "googleMaps": "https://www.google.com/maps/search/?api=1&query=Tarihi%20Asans%C3%B6r%2C%20Dario%20Moreno%20Sk.%2C%20Konak%2C%20%C4%B0zmir",
+   "appleMaps": "https://maps.apple.com/?q=Tarihi%20Asans%C3%B6r&address=Dario%20Moreno%20Sk.%2C%20Konak%2C%20%C4%B0zmir",
+   "web": "",
+   "enlem": null,
+   "boylam": null,
+   "durum": "Aktif (İzBB etkinlik akışında)"
   }
  ]
 }
