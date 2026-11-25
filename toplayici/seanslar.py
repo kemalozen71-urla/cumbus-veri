@@ -52,7 +52,7 @@ TUR_TR = {
     "DOCUMENTARY": "Belgesel", "MUSICAL": "Müzikal", "CRIME": "Suç", "WAR": "Savaş",
     "HISTORICAL": "Tarih", "MYSTERY": "Gizem", "WESTERN": "Western",
 }
-SURUM = {"LOCAL": "Yerli", "DUBBED": "Dublaj", "DUBBED_ST": "Dublaj", "ORIGINAL": "Altyazılı"}
+SURUM = {"LOCAL": "Türkçe", "DUBBED": "Dublaj", "DUBBED_ST": "Dublaj", "ORIGINAL": "Altyazılı"}
 
 oturum = requests.Session()
 oturum.headers.update(H)
@@ -206,6 +206,7 @@ def main():
                             "cocuk": bool(COCUK_TURLERI & set(turler)),
                             "yas": "",
                             "url": f"{SITE}/filmler/film-{fid}/",
+                            "yerli": (film.get("languages") or []) == ["TURKISH"],
                         }
                     for liste in (sonuc.get("showtimes") or {}).values():
                         for se in liste or []:
@@ -217,9 +218,12 @@ def main():
                             ekstra = [x for x in (se.get("projection") or []) if x not in ("DIGITAL",)]
                             if se.get("experience"):
                                 ekstra += se["experience"] if isinstance(se["experience"], list) else [se["experience"]]
+                            surum = SURUM.get(se.get("diffusionVersion") or "", "")
+                            if filmler[fid]["yerli"]:
+                                surum = "Türkçe"  # Türk filmleri bazı salonlarda yanlışlıkla 'dublaj' görünüyor
                             seanslar.append({
                                 "f": fid, "s": s["id"], "t": bas[:16],
-                                "v": SURUM.get(se.get("diffusionVersion") or "", ""),
+                                "v": surum,
                                 "x": " ".join(str(e) for e in ekstra),
                             })
                 sayfalama = veri.get("pagination") or {}
