@@ -1,6 +1,8 @@
 {
  "IZM-0001": [
   "AASSM",
+  "Adnan Saygun Sanat Merkezi",
+  "Ahmed Adnan Saygun",
   "Ahmed Adnan Saygun Sanat Merkezi",
   "Ahmed Adnan Saygun Sanat Merkezi (AASSM)"
  ],
@@ -63,6 +65,7 @@
   "Bornova Aşık Veysel Rekreasyon Alanı Amfi Tiyatrosu"
  ],
  "IZM-0013": [
+  "Atlas Pavyonu",
   "Kültürpark Atlas Pavyonu"
  ],
  "IZM-0014": [
@@ -131,7 +134,8 @@
   "Han Tiyatrosu"
  ],
  "IZM-0030": [
-  "Konak Metro Sanat Galerisi"
+  "Konak Metro Sanat Galerisi",
+  "Metro Sanat Galerisi"
  ],
  "IZM-0031": [
   "Kültürpak Ahşap Sahne",
@@ -579,5 +583,8 @@
  ],
  "IZM-0160": [
   "Aliağa Enka Spor Salonu"
+ ],
+ "IZM-0161": [
+  "Tarihi Asansör"
  ]
 }

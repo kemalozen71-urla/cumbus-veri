@@ -49,6 +49,19 @@ def sec(kayit: dict, *adaylar: str):
     return None
 
 
+def adlar(v) -> str:
+    """{'ad': ..} ya da [{'ad': ..}, ..] biçimindeki alanları metne çevirir."""
+    if isinstance(v, dict):
+        return str(v.get("ad") or v.get("adi") or "")
+    if isinstance(v, list):
+        return ", ".join(a for a in (adlar(x) for x in v) if a)
+    return str(v or "")
+
+
+MEKAN_KALIBI = re.compile(
+    r"(?:Mekân|Mekan|YER|Yer)\s*:\s*([^\n]{3,80}?)(?=\s+(?:SAAT|Saat|Tarih|TARİH|Katılım|Etkinlik)\b|\n|$)")
+
+
 def temiz_metin(s) -> str:
     if not s:
         return ""
@@ -146,9 +159,9 @@ def eslestirici(mekanlar):
 
 # ---------------------------------------------------------------- kategori
 KAT_KURALLARI = [
-    ("Sinema", ("sinema", "film", "gosterim")),
+    ("Sinema", ("sinema", "sinematek", "film", "gosterim")),
     ("Konser", ("konser", "resital", "muzik", "senfoni", "orkestra", "koro", "caz", "jazz", "dinleti")),
-    ("Çocuk", ("cocuk", "masal", "kukla", "atolye cocuk")),
+    ("Çocuk", ("cocuk", "masal", "kukla")),
     ("Festival", ("festival", "senlik", "fest ")),
     ("Fuar", ("fuar", "expo")),
     ("Spor", ("spor", "kosu", "maraton", "turnuva", "yuruyus", "bisiklet", "mac ")),
@@ -200,26 +213,35 @@ def izbb_etkinlikleri(bul, mekan_sozlugu):
         aciklama = temiz_metin(sec(r, "Aciklama", "KisaAciklama", "Detay", "Icerik"))
         mekan_metni = temiz_metin(sec(r, "EtkinlikMerkezi", "EtkinlikMerkezAdi", "MekanAdi",
                                       "Mekan", "Yer", "SalonAdi") or "")
-        tur = temiz_metin(sec(r, "Tur", "Turu", "EtkinlikTuru", "Kategori") or "")
-        yas = temiz_metin(str(sec(r, "YasSiniri", "YasSinir", "Yas") or ""))
-        mekan_id = bul(mekan_metni, aciklama[:600], ad)
+        tur = temiz_metin(adlar(sec(r, "kategoriler", "Tur", "Turu", "EtkinlikTuru", "Kategori")))
+        alt_tur = temiz_metin(adlar(sec(r, "turler")))
+        yas = temiz_metin(str(sec(r, "yasSiniriAdi", "YasSiniri", "YasSinir", "Yas") or ""))
+        if yas in ("0", "Genel izleyici"):
+            yas = ""
+        if not mekan_metni:
+            mm = MEKAN_KALIBI.search(aciklama)
+            if mm:
+                mekan_metni = mm.group(1).strip(" .,:;")
+        mekan_id = bul(mekan_metni, ad, aciklama)
         if not mekan_id:
             k = mekan_metni or aciklama[:80]
             eslesmeyen[k] = eslesmeyen.get(k, 0) + 1
         mekan = mekan_sozlugu.get(mekan_id) or {}
         ucretsiz = sec(r, "UcretsizMi", "Ucretsiz", "Ucret")
+        if ucretsiz is None and re.search(r"[üÜ]cretsiz|ÜCRETSİZ", aciklama):
+            ucretsiz = True
         if isinstance(ucretsiz, str):
             u = sadelestir(ucretsiz)
             ucretsiz = True if ("ucretsiz" in u or u.strip() in ("true", "evet")) else (
                 False if u.strip() else None)
-        gorsel = sec(r, "Resim", "BuyukAfis", "KucukAfis", "Gorsel", "Afis", "ResimUrl")
+        gorsel = sec(r, "gorselUrl", "Resim", "BuyukAfis", "KucukAfis", "Gorsel", "Afis", "ResimUrl")
         kid = sec(r, "Id", "EtkinlikId", "ID")
         cikti.append({
             "id": f"izbb-{kid}" if kid else "izbb-" + str(abs(hash(ad + str(basla))))[:10],
             "ad": ad,
             "aciklama": aciklama[:1500],
-            "kategori": kategori_bul(tur, ad, yas),
-            "tur": tur,
+            "kategori": kategori_bul(f"{tur} {alt_tur}", ad, yas),
+            "tur": ", ".join(x for x in (tur, alt_tur) if x),
             "baslangic": iso(basla),
             "bitis": iso(bitis),
             "ucretsiz": ucretsiz if isinstance(ucretsiz, bool) else None,
@@ -227,7 +249,7 @@ def izbb_etkinlikleri(bul, mekan_sozlugu):
             "gorsel": gorsel if isinstance(gorsel, str) and gorsel.startswith("http") else None,
             "biletUrl": sec(r, "BiletSatisLinki", "BiletLinki", "BiletUrl"),
             "kaynakUrl": sec(r, "EtkinlikUrl", "Url", "Link") or "https://kultursanat.izmir.bel.tr",
-            "organizator": temiz_metin(sec(r, "Organizator", "Duzenleyen", "Organizatoru") or ""),
+            "organizator": temiz_metin(adlar(sec(r, "organizator", "Duzenleyen", "Organizatoru"))),
             "mekanId": mekan_id,
             "mekanMetni": mekan_metni,
             "acikKapali": mekan.get("acikKapali"),
