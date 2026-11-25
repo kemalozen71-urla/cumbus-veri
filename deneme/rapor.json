@@ -1,0 +1,25 @@
+{
+ "https://www.beyazperde.com/sinemalar/bolgeye/154190/": 200,
+ "https://www.beyazperde.com/sinemalar/bolgeye/154190/?page=2": 200,
+ "https://www.beyazperde.com/sinemalar/bolgeye/154190/?page=3": 200,
+ "https://www.beyazperde.com/sinemalar/bolgeye/154190/?page=4": 200,
+ "https://www.beyazperde.com/sinemalar/bolgeye/154190/?page=5": 200,
+ "sinemalar": {
+  "/sinemalar/sinema-T2938/": "İzmir Bayındır Cinetolium",
+  "/sinemalar/sinema-G01S1/": "Univercity Park Avm Sinemasi",
+  "/sinemalar/sinema-T0621/": "İzmir Bergama BerKM Sinegama",
+  "/sinemalar/sinema-T2917/": "Aliağa Gençlik Merkezi (Erşan)",
+  "/sinemalar/sinema-T2904/": "Urla Bamboo AVM My CineLife",
+  "/sinemalar/sinema-T2943/": "Izmir Sinevizyon Sinemalari",
+  "/sinemalar/sinema-T0440/": "Paribu Cineverse Optimum Izmir",
+  "/sinemalar/sinema-G01S0/": "Istinyepark Renk Sinemasi",
+  "/sinemalar/sinema-T0576/": "İzmir Folkart Cinema Pink"
+ },
+ "ilk_sinema": [
+  "/sinemalar/sinema-G01S0/",
+  200
+ ],
+ "https://www.beyazperde.com/_/showtimes/theater-G01S0/d-2026-11-25/": 200,
+ "https://www.beyazperde.com/_/showtimes/theater-G01S0/": 200,
+ "https://www.beyazperde.com/sinemalar/sinema-G01S0/seanslar/d-2026-11-25/": 404
+}
