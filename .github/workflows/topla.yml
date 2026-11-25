@@ -1,0 +1,38 @@
+name: Etkinlik verisi topla
+
+on:
+  schedule:
+    - cron: "23 3,9,15 * * *"   # Günde 3 kez: 06:23, 12:23, 18:23 (Türkiye saati)
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [toplayici/**, mekanlar.csv, mekan_adlari.json, .github/workflows/topla.yml]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: topla
+  cancel-in-progress: false
+
+jobs:
+  topla:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - name: En güncel veriyle başla
+        run: git pull --ff-only origin main
+      - run: python toplayici/topla.py
+      - name: Veriyi kaydet
+        run: |
+          git config user.name "cumbus-bot"
+          git config user.email "bot@cumbus.local"
+          git add mekanlar.json etkinlikler.json eslesmeyen_mekanlar.json kaynak_ornegi.json
+          git commit -m "Etkinlik verisi ($(date +%F\ %H:%M))" || echo "Değişiklik yok"
+          git pull --rebase
+          git push

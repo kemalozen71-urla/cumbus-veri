@@ -1,0 +1,583 @@
+{
+ "IZM-0001": [
+  "AASSM",
+  "Ahmed Adnan Saygun Sanat Merkezi",
+  "Ahmed Adnan Saygun Sanat Merkezi (AASSM)"
+ ],
+ "IZM-0002": [
+  "İzmir Sanat",
+  "İzmir Sanat (Kültürpark)"
+ ],
+ "IZM-0003": [
+  "İsmet İnönü Sanat Merkezi",
+  "İsmet İnönü Sanat Merkezi (İzBB Şehir Tiyatroları sahnesi)",
+  "İzBBŞT İsmet İnönü Sahnesi"
+ ],
+ "IZM-0004": [
+  "Tarihi Havagazı Fabrikası",
+  "Tarihi Havagazı Fabrikası Kültür Merkezi"
+ ],
+ "IZM-0005": [
+  "Fuar Gençlik Tiyatro",
+  "Fuar Gençlik Tiyatrosu",
+  "Kültürpark Gençlik Tiyatro",
+  "Kültürpark Gençlik Tiyatrosu"
+ ],
+ "IZM-0006": [
+  "APİKAM",
+  "Ahmet Piriştina Kent Arşivi ve Müzesi",
+  "Ahmet Piriştina Kent Arşivi ve Müzesi (APİKAM)"
+ ],
+ "IZM-0007": [
+  "Elhamra Sahnesi"
+ ],
+ "IZM-0008": [
+  "Aziz Vukolos Kilisesi Kültür Merkezi"
+ ],
+ "IZM-0009": [
+  "Hikmet Şimşek Sanat Merkezi",
+  "Karşıyaka Hikmet Şimşek Sanat Merkezi"
+ ],
+ "IZM-0010": [
+  "Tarihi Bıçakçı Han"
+ ],
+ "IZM-0011": [
+  "Atatürk Açık Hava Tiyatrosu",
+  "Atatürk Açıkhava Tiyatro",
+  "Atatürk Açıkhava Tiyatrosu",
+  "Fuar Atatürk Açık Hava Tiyatro",
+  "Fuar Atatürk Açık Hava Tiyatrosu",
+  "Fuar Atatürk Açıkhava Tiyatrosu",
+  "Kültürpark Atatürk Açık Hava Tiyatrosu",
+  "Kültürpark Atatürk Açıkhava Tiyatro",
+  "Kültürpark Atatürk Açıkhava Tiyatrosu",
+  "Kültürpark Açık Hava",
+  "Kültürpark Açıkhava"
+ ],
+ "IZM-0012": [
+  "Aşık Veysel Amfi",
+  "Aşık Veysel Rekreasyon",
+  "Bornova Aşık Veysel Amfi Tiyatro",
+  "Bornova Aşık Veysel Rekreasyon Alanı",
+  "Bornova Aşık Veysel Rekreasyon Alanı Amfi Tiyatro",
+  "Bornova Aşık Veysel Rekreasyon Alanı Amfi Tiyatrosu"
+ ],
+ "IZM-0013": [
+  "Kültürpark Atlas Pavyonu"
+ ],
+ "IZM-0014": [
+  "Fransız Kültür Merkezi",
+  "Institut français İzmir",
+  "Institut français İzmir (Fransız Kültür Merkezi)"
+ ],
+ "IZM-0015": [
+  "Bergama Kültür Merkezi"
+ ],
+ "IZM-0016": [
+  "Güzelbahçe Atatürk Kültür Merkezi"
+ ],
+ "IZM-0017": [
+  "Tire Belediyesi Kültür Merkezi"
+ ],
+ "IZM-0018": [
+  "Torbalı Belediyesi Kültür Merkezi"
+ ],
+ "IZM-0019": [
+  "D.E.Ü. Sabancı Kültür Merkezi",
+  "DEÜ Sabancı Kültür Sarayı",
+  "Sabancı Kültür Merkezi"
+ ],
+ "IZM-0020": [
+  "Uzundere Çocuk (ve Gençlik) Merkezi",
+  "Uzundere Çocuk Merkezi",
+  "Uzundere Çocuk ve Gençlik Merkezi",
+  "ve Gençlik"
+ ],
+ "IZM-0021": [
+  "Tepekule Kongre ve Sergi Merkezi"
+ ],
+ "IZM-0022": [
+  "Gaziemir Atatürk Kültür Merkezi",
+  "Gaziemir Belediyesi Atatürk Kültür Merkezi"
+ ],
+ "IZM-0023": [
+  "Dikili Belediyesi Mustafa Kemal Atatürk Kültür Merkezi",
+  "Dikili Mustafa Kemal Atatürk Kültür Merkezi"
+ ],
+ "IZM-0024": [
+  "Pakistan Pavyonu",
+  "Pakistan Pavyonu (Kültürpark)",
+  "Pakistan Pavyonu Turizm Bilgilendirme Ofisi ve Sergi Alanı"
+ ],
+ "IZM-0025": [
+  "Konak Selahattin Akçiçek Kültür Merkezi",
+  "Selahattin Akçiçek Kültür Merkezi"
+ ],
+ "IZM-0026": [
+  "Kültürpark, eski Resim Heykel Müzesi binası",
+  "Mehmet Tüzüm Kızılcan Sanat Galerisi",
+  "Mehmet Tüzüm Kızılcan Sanat Galerisi (Kültürpark, eski Resim Heykel Müzesi binası)",
+  "Mehmet Tüzüm Kızılcan Sanat Galerisi-Kültürpark",
+  "İzmir Resim Heykel Müzesi Kültürpark Sanat Galerisi"
+ ],
+ "IZM-0027": [
+  "Narlıdere Atatürk Kültür Merkezi"
+ ],
+ "IZM-0028": [
+  "Ödemiş Belediyesi Kültür Merkezi"
+ ],
+ "IZM-0029": [
+  "Han Tiyatro",
+  "Han Tiyatrosu"
+ ],
+ "IZM-0030": [
+  "Konak Metro Sanat Galerisi"
+ ],
+ "IZM-0031": [
+  "Kültürpak Ahşap Sahne",
+  "Kültürpark Ahşap Sahne"
+ ],
+ "IZM-0032": [
+  "D.E.Ü. Güzel Sanatlar Fakültesi",
+  "DEÜ Güzel Sanatlar Fakültesi",
+  "DEÜ Güzel Sanatlar Fakültesi (Özdemir Nutku Sahnesi)",
+  "Özdemir Nutku Sahnesi"
+ ],
+ "IZM-0033": [
+  "Tiyatro Peron",
+  "Tiyatro Peron / Peron Sanat"
+ ],
+ "IZM-0034": [
+  "Bostanlı Suat Taşer Tiyatro",
+  "Bostanlı Suat Taşer Tiyatrosu"
+ ],
+ "IZM-0035": [
+  "Beydağ Belediyesi Kültür Merkezi"
+ ],
+ "IZM-0036": [
+  "Sahne Tozu Tiyatrosu Haldun Dormen Sahnesi"
+ ],
+ "IZM-0037": [
+  "Bayetav Sanat"
+ ],
+ "IZM-0038": [
+  "Batı Sahne"
+ ],
+ "IZM-0039": [
+  "Foça Beşkapılar Kalesi Amfi Tiyatro"
+ ],
+ "IZM-0040": [
+  "UrlaDam"
+ ],
+ "IZM-0041": [
+  "Kültürpark",
+  "Kültürpark (genel alan)"
+ ],
+ "IZM-0042": [
+  "Alsancak Gündoğdu Meydanı",
+  "Gündoğdu Meydanı"
+ ],
+ "IZM-0043": [
+  "Kültürpark Kaskatlı Havuz"
+ ],
+ "IZM-0044": [
+  "Cumhuriyet Meydanı"
+ ],
+ "IZM-0045": [
+  "Vasıf Çınar Meydanı"
+ ],
+ "IZM-0046": [
+  "İnciraltı Süleyman Demirel Meydanı"
+ ],
+ "IZM-0047": [
+  "İnciraltı Kent Ormanı"
+ ],
+ "IZM-0048": [
+  "Kadifekale"
+ ],
+ "IZM-0049": [
+  "Konak Meydanı"
+ ],
+ "IZM-0050": [
+  "Karşıyaka Vapur İskelesi"
+ ],
+ "IZM-0051": [
+  "İnciraltı Demokrasi Meydanı",
+  "İnciraltı Demokrasi Meydanı - Adalet Heykeli"
+ ],
+ "IZM-0052": [
+  "Karaburun Cumhuriyet Meydanı"
+ ],
+ "IZM-0053": [
+  "Menemen Cumhuriyet Meydanı"
+ ],
+ "IZM-0054": [
+  "Çeşme Cumhuriyet Meydanı"
+ ],
+ "IZM-0055": [
+  "Atatürk Bulvarı Festival Alanı",
+  "Gaziemir Atatürk Bulvarı Festival Alanı"
+ ],
+ "IZM-0056": [
+  "Lozan Meydanı",
+  "Lozan meydanı"
+ ],
+ "IZM-0057": [
+  "Uğur Mumcu Parkı"
+ ],
+ "IZM-0058": [
+  "Yurtoğlu Parkı"
+ ],
+ "IZM-0059": [
+  "Çetin Emeç Sanat Galerisi"
+ ],
+ "IZM-0060": [
+  "Seferihisar Kültür Merkezi"
+ ],
+ "IZM-0061": [
+  "Yeşilyurt Mustafa Necati Kültür Merkezi"
+ ],
+ "IZM-0062": [
+  "Çiğli Belediyesi Kültür Merkezi"
+ ],
+ "IZM-0063": [
+  "Bornova Kültür Merkezi",
+  "İzmir Büyükşehir Belediyesi Bornova Kültür Merkezi"
+ ],
+ "IZM-0064": [
+  "Güzelyalı",
+  "Güzelyalı Nazım Hikmet Kültür Merkezi",
+  "Nazım Hikmet Kültür Merkezi",
+  "Nazım Hikmet Kültür Merkezi (Güzelyalı)"
+ ],
+ "IZM-0065": [
+  "Foça Reha Midilli Kültür Merkezi"
+ ],
+ "IZM-0066": [
+  "Fuar İzmir",
+  "Gaziemir Fuar İzmir"
+ ],
+ "IZM-0067": [
+  "İnciraltı Açık Hava Tiyatrosu",
+  "İnciraltı Açıkhava Tiyatro",
+  "İnciraltı Açıkhava Tiyatrosu"
+ ],
+ "IZM-0068": [
+  "Aliağa Kültür Merkezi",
+  "Aliağa Kültür merkezi"
+ ],
+ "IZM-0069": [
+  "Buca - Olimpik Yüzme Havuzu Kongre Merkezi",
+  "Buca Olimpik Yüzme Havuzu Kongre Merkezi"
+ ],
+ "IZM-0070": [
+  "Bornova Çamdibi Nedret Güvenç Sahnesi",
+  "Çamdibi Nedret Güvenç Sahnesi"
+ ],
+ "IZM-0071": [
+  "Çiğli Belediyesi Fakir Baykurt Konferans Salonu",
+  "Çiğli Fakir Baykurt Konferans Salonu"
+ ],
+ "IZM-0072": [
+  "Bergama Asklepion Antik Tiyatro",
+  "Bergama Asklepion Antik Tiyatrosu"
+ ],
+ "IZM-0073": [
+  "Selçuk Kültür Merkezi"
+ ],
+ "IZM-0074": [
+  "Bornova Altındağ AKM - Yıldız Kenter Sahnesi",
+  "Bornova Belediyesi Altındağ AKM - Yıldız Kenter Sahnesi"
+ ],
+ "IZM-0075": [
+  "Bozyaka Kültür Merkezi"
+ ],
+ "IZM-0076": [
+  "Çeşme Çakabey Kültür Merkezi"
+ ],
+ "IZM-0077": [
+  "Çeşme Aya Haralambos Kilisesi",
+  "Çeşme Aya HaralambosKilisesi"
+ ],
+ "IZM-0078": [
+  "Bornova Doğanlar Şapel Kültür Merkezi"
+ ],
+ "IZM-0079": [
+  "Gültepe Kültür Merkezi"
+ ],
+ "IZM-0080": [
+  "Gümüldür Amfi Tiyatro",
+  "Menderes Gümüldür Amfi Tiyatro"
+ ],
+ "IZM-0081": [
+  "Karaburun Belediye Salonu"
+ ],
+ "IZM-0082": [
+  "Kemalpaşa Belediyesi Dere Kültür Merkezi",
+  "Kemalpaşa Dere Kültür Merkezi"
+ ],
+ "IZM-0083": [
+  "Menderes Belediyesi Nikah Sarayı Kongre ve Sanat Merkezi",
+  "Menderes Nikah Sarayı Kongre ve Sanat Merkezi"
+ ],
+ "IZM-0084": [
+  "BAYRAKLI BELEDİYESİ OSMANGAZİ KONFERANS SALONU",
+  "Bayraklı Belediyesi Osmangazi Konferans Salonu"
+ ],
+ "IZM-0085": [
+  "Urla Atatürk Kültür Merkezi",
+  "Urla Belediyesi Atatürk Kültür Merkezi"
+ ],
+ "IZM-0086": [
+  "İBB Çetin Emeç Toplantı Salonu"
+ ],
+ "IZM-0087": [
+  "Mogambo Gazinosu",
+  "Mogambo Gazinosu (Kültürpark)"
+ ],
+ "IZM-0088": [
+  "Kent Kütüphanesi",
+  "İzmir Kent Kütüphanesi"
+ ],
+ "IZM-0089": [
+  "Casa Italia",
+  "Casa Italia (İtalya Evi)",
+  "İtalya Evi",
+  "İtalya Evi ( Casa Italia )"
+ ],
+ "IZM-0090": [
+  "Ahmet Piriştina Kültür Merkezi"
+ ],
+ "IZM-0091": [
+  "Bostanlı Rekreasyon Alanı"
+ ],
+ "IZM-0092": [
+  "Konak Milli Kütüphane"
+ ],
+ "IZM-0093": [
+  "Kiraz Belediyesi Düğün Salonu"
+ ],
+ "IZM-0094": [
+  "Aliağa Kültür Merkezi Cemevi"
+ ],
+ "IZM-0095": [
+  "Balçova Cemevi"
+ ],
+ "IZM-0096": [
+  "Bayındır Şehir Stadyumu"
+ ],
+ "IZM-0097": [
+  "Çukurhan"
+ ],
+ "IZM-0098": [
+  "Kemalpaşa Belediyesi Mesire Alanı Atatürk Düğün Salonu",
+  "Kemalpaşa Mesire Alanı Atatürk Düğün Salonu"
+ ],
+ "IZM-0099": [
+  "Kınık Öğretmenevi Konferans Salonu"
+ ],
+ "IZM-0100": [
+  "Kınık Mustafa Kemal İlkokulu"
+ ],
+ "IZM-0101": [
+  "Mimarlar Odası",
+  "Mimarlar Odası İzmir Şubesi"
+ ],
+ "IZM-0102": [
+  "Portekiz Sinagogu"
+ ],
+ "IZM-0103": [
+  "İzmir Tarih Tasarım Atölyesi"
+ ],
+ "IZM-0104": [
+  "Adnan Menderes Havalimanı",
+  "TAV Galeri",
+  "TAV Galeri (Adnan Menderes Havalimanı)",
+  "İzmir Adnan Menderes Havalimanı"
+ ],
+ "IZM-0105": [
+  "Yamanlar Cemevi"
+ ],
+ "IZM-0106": [
+  "AKM - Resim ve Heykel Müzesi",
+  "AKM - İzmir Devlet Resim ve Heykel Müzesi binası",
+  "AKM - İzmir Devlet Resim ve Heykel Müzesi binası (Konak)",
+  "Konak"
+ ],
+ "IZM-0107": [
+  "Karşıyaka Deniz Baykal Kültür Merkezi"
+ ],
+ "IZM-0108": [
+  "İKSF",
+  "İzmir Kültür Sanat Fabrikası",
+  "İzmir Kültür Sanat Fabrikası (İKSF)"
+ ],
+ "IZM-0109": [
+  "Arkas Sanat Merkezi"
+ ],
+ "IZM-0110": [
+  "Arkas Sanat Göztepe",
+  "Arkas Sanat Göztepe (Ayşe–Seniha Mayda Köşkü)",
+  "Ayşe–Seniha Mayda Köşkü"
+ ],
+ "IZM-0111": [
+  "Lucien Arkas Sanat Merkezi"
+ ],
+ "IZM-0112": [
+  "Arkas Sanat Urla"
+ ],
+ "IZM-0113": [
+  "Arkas Sanat Alaçatı"
+ ],
+ "IZM-0114": [
+  "Arkas Deniz Tarihi Merkezi"
+ ],
+ "IZM-0115": [
+  "İzmir Devlet Tiyatrosu Konak Sahnesi"
+ ],
+ "IZM-0116": [
+  "Karşıyaka Ragıp Haykır Sahnesi"
+ ],
+ "IZM-0117": [
+  "Bornova Kültür ve Sanat Merkezi",
+  "Bornova Kültür ve Sanat Merkezi (Bozkurt Kuruç, Necdet Aydın, Rakım Elkutlu salonları)",
+  "Bozkurt Kuruç, Necdet Aydın, Rakım Elkutlu salonları"
+ ],
+ "IZM-0118": [
+  "Ege Üniversitesi Atatürk Kültür Merkezi",
+  "Ege Üniversitesi Atatürk Kültür Merkezi (Yunus Emre Salonu)",
+  "Yunus Emre Salonu"
+ ],
+ "IZM-0119": [
+  "Bornova Ayfer Feray Açık Hava Tiyatrosu",
+  "Bornova Ayfer Feray Açıkhava Tiyatro",
+  "Bornova Ayfer Feray Açıkhava Tiyatrosu"
+ ],
+ "IZM-0120": [
+  "Bornova Uğur Mumcu Kültür ve Sanat Merkezi",
+  "Bornova Uğur Mumcu Kültür ve Sanat Merkezi (Sevda Şener Sahnesi)",
+  "Sevda Şener Sahnesi"
+ ],
+ "IZM-0121": [
+  "Karşıyaka Yunus Emre Kültür ve Sanat Merkezi"
+ ],
+ "IZM-0122": [
+  "K2 Güncel Sanat Merkezi"
+ ],
+ "IZM-0123": [
+  "Tiyatrolog Akademi"
+ ],
+ "IZM-0124": [
+  "İzmir Arena"
+ ],
+ "IZM-0125": [
+  "İstinyeArt %100 Performans Arena"
+ ],
+ "IZM-0126": [
+  "SoldOut Performance Hall"
+ ],
+ "IZM-0127": [
+  "Volume Alsancak"
+ ],
+ "IZM-0128": [
+  "Ooze Venue"
+ ],
+ "IZM-0129": [
+  "Hangout PSM"
+ ],
+ "IZM-0130": [
+  "KALT Performance Hall"
+ ],
+ "IZM-0131": [
+  "Cliff Venue"
+ ],
+ "IZM-0132": [
+  "Holly Stone İzmir"
+ ],
+ "IZM-0133": [
+  "İzmir Performance Hall"
+ ],
+ "IZM-0134": [
+  "Sardunya Alsancak"
+ ],
+ "IZM-0135": [
+  "Dinozor Bar"
+ ],
+ "IZM-0136": [
+  "Bios"
+ ],
+ "IZM-0137": [
+  "İzmir Karaca Sineması"
+ ],
+ "IZM-0138": [
+  "Paribu Cineverse Point Bornova"
+ ],
+ "IZM-0139": [
+  "Paribu Cineverse Forum Bornova"
+ ],
+ "IZM-0140": [
+  "Paribu Cineverse İzmir Park"
+ ],
+ "IZM-0141": [
+  "Paribu Cineverse Optimum İzmir"
+ ],
+ "IZM-0142": [
+  "İstinyePark Renk Sineması"
+ ],
+ "IZM-0143": [
+  "Folkart Cinema Pink"
+ ],
+ "IZM-0144": [
+  "Agora Balçova Sineması"
+ ],
+ "IZM-0145": [
+  "Konak Pier AVM Sineması"
+ ],
+ "IZM-0146": [
+  "Park Bornova AVM Sineması"
+ ],
+ "IZM-0147": [
+  "Bornova Batı Sineması"
+ ],
+ "IZM-0148": [
+  "Novada Menemen My CineLife"
+ ],
+ "IZM-0149": [
+  "Sinema Çeşme"
+ ],
+ "IZM-0150": [
+  "Torbalı Sinevizyon"
+ ],
+ "IZM-0151": [
+  "Tire Şehir Sineması"
+ ],
+ "IZM-0152": [
+  "Tire Seha Gidel Sineması"
+ ],
+ "IZM-0153": [
+  "Bergama BerKM Sinegama"
+ ],
+ "IZM-0154": [
+  "Gürsel Aksel Stadyumu"
+ ],
+ "IZM-0155": [
+  "Alsancak Mustafa Denizli Stadyumu"
+ ],
+ "IZM-0156": [
+  "İzmir Atatürk Stadyumu"
+ ],
+ "IZM-0157": [
+  "Karşıyaka Arena",
+  "Karşıyaka Arena (Mustafa Kemal Atatürk Karşıyaka Spor Salonu)",
+  "Mustafa Kemal Atatürk Karşıyaka Spor Salonu"
+ ],
+ "IZM-0158": [
+  "Halkapınar Spor Salonu"
+ ],
+ "IZM-0159": [
+  "İzmir Atatürk Voleybol Salonu"
+ ],
+ "IZM-0160": [
+  "Aliağa Enka Spor Salonu"
+ ]
+}
