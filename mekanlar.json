@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-25T20:52+03:00",
+ "guncelleme": "2026-11-26T00:02+03:00",
  "sehir": "İzmir",
  "mekanlar": [
   {
@@ -2899,6 +2899,60 @@
    "enlem": null,
    "boylam": null,
    "durum": "Aktif (İzBB etkinlik akışında)"
+  },
+  {
+   "id": "IZM-0162",
+   "ad": "Hayal Kahvesi İzmir",
+   "ilce": "Konak",
+   "semt": "Çınarlı",
+   "acikKapali": "Kapalı",
+   "kategori": "Konser",
+   "tur": "Konser kulübü",
+   "adres": "Çınarlı Mah., Ozan Abay Cad. No:8, Ege Perla AVM, Konak",
+   "telefon": "",
+   "ulasim": "Metro: Halkapınar durağından kısa yürüyüş; Ozan Abay Cad. üzerindeki ESHOT durakları",
+   "googleMaps": "https://www.google.com/maps/search/?api=1&query=Hayal%20Kahvesi%20%C4%B0zmir%20Ege%20Perla",
+   "appleMaps": "https://maps.apple.com/?q=Hayal%20Kahvesi%20%C4%B0zmir&address=Ozan%20Abay%20Cad.%20No%3A8%2C%20Konak%2C%20%C4%B0zmir",
+   "web": "https://www.hayalkahvesi.com.tr",
+   "enlem": null,
+   "boylam": null,
+   "durum": "Aktif (bilet sitelerinde güncel konser)"
+  },
+  {
+   "id": "IZM-0163",
+   "ad": "Hayal Kahvesi Optimum İzmir",
+   "ilce": "Gaziemir",
+   "semt": "",
+   "acikKapali": "Kapalı",
+   "kategori": "Konser",
+   "tur": "Konser kulübü",
+   "adres": "Optimum İzmir AVM, Gaziemir",
+   "telefon": "",
+   "ulasim": "",
+   "googleMaps": "https://www.google.com/maps/search/?api=1&query=Hayal%20Kahvesi%20Optimum%20%C4%B0zmir",
+   "appleMaps": "https://maps.apple.com/?q=Hayal%20Kahvesi%20Optimum&address=Optimum%20AVM%2C%20Gaziemir%2C%20%C4%B0zmir",
+   "web": "https://www.hayalkahvesi.com.tr",
+   "enlem": null,
+   "boylam": null,
+   "durum": "Kontrol edilmeli"
+  },
+  {
+   "id": "IZM-0164",
+   "ad": "Skaff PSM Alsancak",
+   "ilce": "Konak",
+   "semt": "Alsancak",
+   "acikKapali": "Kapalı",
+   "kategori": "Konser",
+   "tur": "Konser / gece kulübü",
+   "adres": "",
+   "telefon": "",
+   "ulasim": "",
+   "googleMaps": "https://www.google.com/maps/search/?api=1&query=Skaff%20PSM%20Alsancak%20%C4%B0zmir",
+   "appleMaps": "https://maps.apple.com/?q=Skaff%20PSM&address=Alsancak%2C%20Konak%2C%20%C4%B0zmir",
+   "web": "",
+   "enlem": null,
+   "boylam": null,
+   "durum": "Kontrol edilmeli"
   }
  ]
 }
