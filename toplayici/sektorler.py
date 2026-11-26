@@ -59,8 +59,10 @@ def kultur(m):
 
 
 def acik(m):
-    t = _metin(m)
-    return m.get("Kategori") == "Açık alan" or any(k in t for k in ("meydan", "park", "acik alan", "tarihi alan", "antik"))
+    if m.get("Açık / Kapalı") == "Kapalı":
+        return False
+    t = sadelestir(m.get("Tür", ""))
+    return m.get("Kategori") == "Açık alan" or any(k in t for k in ("meydan", "park", "acik alan", "tarihi alan", "antik", "acik hava"))
 
 
 def fuar(m):
