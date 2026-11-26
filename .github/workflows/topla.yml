@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: [toplayici/**, mekanlar.csv, mekan_adlari.json, .github/workflows/topla.yml]
+    paths: [toplayici/**, arastirma/**, mekanlar.csv, mekan_adlari.json, .github/workflows/topla.yml]
 
 permissions:
   contents: write
