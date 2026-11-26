@@ -44,6 +44,13 @@ ILCE_MERKEZ = {
     "Tire": (38.090, 27.730), "Torbalı": (38.150, 27.360), "Urla": (38.320, 26.765),
 }
 SEMT_ILCE = {"alsancak": "Konak", "mavisehir": "Karşıyaka", "tinaztepe": "Buca", "bostanli": "Karşıyaka"}
+# Bölge listesinde çıkmayan ama Beyazperde'de seans yayımlayan sinemalar
+EK_SINEMALAR = [
+    {"id": "T0582", "ad": "Paribu Cineverse MaviBahçe",
+     "adres": "Mavişehir Mah. Caher Dudayev Blv. (MaviBahçe AVM) Karşıyaka", "ilce": "Karşıyaka"},
+    {"id": "T2911", "ad": "Paribu Cineverse Karşıyaka Hilltown",
+     "adres": "Yalı Mah. 6522 Sk. No:3 (Hilltown AVM) Karşıyaka", "ilce": "Karşıyaka"},
+]
 COCUK_TURLERI = {"ANIMATION", "FAMILY"}
 TUR_TR = {
     "ACTION": "Aksiyon", "ADVENTURE": "Macera", "ANIMATION": "Animasyon", "BIOPIC": "Biyografi",
@@ -138,6 +145,10 @@ def sinemalari_topla():
                 sinemalar[-1]["adres"] = re.sub(r"\s+", " ", html.unescape(m.group(3))).strip()
         if yeni == 0:
             break
+    for ek in EK_SINEMALAR:
+        if ek["id"] not in gorulen:
+            gorulen.add(ek["id"])
+            sinemalar.append(dict(ek))
     for s in sinemalar:
         s["ilce"] = ilce_bul(s["adres"], s["ilce"])
         mekan = bul(s["ad"], s["ilce"])
