@@ -348,5 +348,316 @@
  "IZM-0071": {
   "ad": "Çiğli Fakir Baykurt Konferans Salonu",
   "denendi": "2026-11-26T18:14:40+03:00"
+ },
+ "IZM-0072": {
+  "ad": "Bergama Asklepion Antik Tiyatrosu",
+  "denendi": "2026-11-26T19:28:56+03:00"
+ },
+ "IZM-0073": {
+  "ad": "Selçuk Kültür Merkezi",
+  "denendi": "2026-11-26T19:28:56+03:00"
+ },
+ "IZM-0074": {
+  "ad": "Bornova Altındağ AKM - Yıldız Kenter Sahnesi",
+  "denendi": "2026-11-26T19:28:56+03:00"
+ },
+ "IZM-0075": {
+  "ad": "Bozyaka Kültür Merkezi",
+  "denendi": "2026-11-26T19:28:56+03:00"
+ },
+ "IZM-0076": {
+  "ad": "Çeşme Çakabey Kültür Merkezi",
+  "denendi": "2026-11-26T19:28:56+03:00"
+ },
+ "IZM-0077": {
+  "ad": "Çeşme Aya Haralambos Kilisesi",
+  "denendi": "2026-11-26T19:28:56+03:00"
+ },
+ "IZM-0078": {
+  "ad": "Bornova Doğanlar Şapel Kültür Merkezi",
+  "denendi": "2026-11-26T19:28:56+03:00"
+ },
+ "IZM-0079": {
+  "ad": "Gültepe Kültür Merkezi",
+  "denendi": "2026-11-26T19:28:56+03:00"
+ },
+ "IZM-0080": {
+  "ad": "Gümüldür Amfi Tiyatro",
+  "denendi": "2026-11-26T19:28:56+03:00"
+ },
+ "IZM-0081": {
+  "ad": "Karaburun Belediye Salonu",
+  "denendi": "2026-11-26T19:28:56+03:00"
+ },
+ "IZM-0082": {
+  "ad": "Kemalpaşa Dere Kültür Merkezi",
+  "denendi": "2026-11-26T19:28:56+03:00"
+ },
+ "IZM-0083": {
+  "ad": "Menderes Nikah Sarayı Kongre ve Sanat Merkezi",
+  "denendi": "2026-11-26T19:28:56+03:00"
+ },
+ "IZM-0084": {
+  "ad": "Bayraklı Belediyesi Osmangazi Konferans Salonu",
+  "denendi": "2026-11-26T19:28:56+03:00"
+ },
+ "IZM-0085": {
+  "ad": "Urla Atatürk Kültür Merkezi",
+  "denendi": "2026-11-26T19:28:56+03:00"
+ },
+ "IZM-0086": {
+  "ad": "İBB Çetin Emeç Toplantı Salonu",
+  "denendi": "2026-11-26T19:28:56+03:00"
+ },
+ "IZM-0087": {
+  "ad": "Mogambo Gazinosu (Kültürpark)",
+  "denendi": "2026-11-26T19:28:56+03:00"
+ },
+ "IZM-0088": {
+  "ad": "İzmir Kent Kütüphanesi",
+  "boylam": 27.147328,
+  "bulundu": "2026-11-26T19:28:56+03:00",
+  "enlem": 38.438052,
+  "kaynak": "OpenStreetMap"
+ },
+ "IZM-0089": {
+  "ad": "Casa Italia (İtalya Evi)",
+  "denendi": "2026-11-26T19:28:56+03:00"
+ },
+ "IZM-0090": {
+  "ad": "Ahmet Piriştina Kültür Merkezi",
+  "boylam": 27.097206,
+  "bulundu": "2026-11-26T19:28:56+03:00",
+  "enlem": 38.473739,
+  "kaynak": "OpenStreetMap"
+ },
+ "IZM-0091": {
+  "ad": "Bostanlı Rekreasyon Alanı",
+  "boylam": 27.086274,
+  "bulundu": "2026-11-26T19:28:56+03:00",
+  "enlem": 38.460507,
+  "kaynak": "OpenStreetMap"
+ },
+ "IZM-0092": {
+  "ad": "Konak Milli Kütüphane",
+  "boylam": 27.129324,
+  "bulundu": "2026-11-26T19:28:56+03:00",
+  "enlem": 38.416592,
+  "kaynak": "OpenStreetMap"
+ },
+ "IZM-0093": {
+  "ad": "Kiraz Belediyesi Düğün Salonu",
+  "denendi": "2026-11-26T19:28:56+03:00"
+ },
+ "IZM-0094": {
+  "ad": "Aliağa Kültür Merkezi Cemevi",
+  "denendi": "2026-11-26T19:28:56+03:00"
+ },
+ "IZM-0095": {
+  "ad": "Balçova Cemevi",
+  "denendi": "2026-11-26T19:28:56+03:00"
+ },
+ "IZM-0096": {
+  "ad": "Bayındır Şehir Stadyumu",
+  "boylam": 27.646532,
+  "bulundu": "2026-11-26T19:28:56+03:00",
+  "enlem": 38.219964,
+  "kaynak": "OpenStreetMap"
+ },
+ "IZM-0097": {
+  "ad": "Çukurhan",
+  "denendi": "2026-11-26T19:28:56+03:00"
+ },
+ "IZM-0098": {
+  "ad": "Kemalpaşa Mesire Alanı Atatürk Düğün Salonu",
+  "denendi": "2026-11-26T19:28:56+03:00"
+ },
+ "IZM-0099": {
+  "ad": "Kınık Öğretmenevi Konferans Salonu",
+  "denendi": "2026-11-26T19:28:56+03:00"
+ },
+ "IZM-0100": {
+  "ad": "Kınık Mustafa Kemal İlkokulu",
+  "denendi": "2026-11-26T19:28:56+03:00"
+ },
+ "IZM-0101": {
+  "ad": "Mimarlar Odası İzmir Şubesi",
+  "denendi": "2026-11-26T19:28:56+03:00"
+ },
+ "IZM-0102": {
+  "ad": "Portekiz Sinagogu",
+  "boylam": 27.13649,
+  "bulundu": "2026-11-26T19:28:56+03:00",
+  "enlem": 38.418874,
+  "kaynak": "OpenStreetMap"
+ },
+ "IZM-0103": {
+  "ad": "İzmir Tarih Tasarım Atölyesi",
+  "boylam": 27.141894,
+  "bulundu": "2026-11-26T19:28:56+03:00",
+  "enlem": 38.41894,
+  "kaynak": "OpenStreetMap"
+ },
+ "IZM-0104": {
+  "ad": "TAV Galeri (Adnan Menderes Havalimanı)",
+  "denendi": "2026-11-26T19:28:56+03:00"
+ },
+ "IZM-0105": {
+  "ad": "Yamanlar Cemevi",
+  "denendi": "2026-11-26T19:28:56+03:00"
+ },
+ "IZM-0106": {
+  "ad": "AKM - İzmir Devlet Resim ve Heykel Müzesi binası (Konak)",
+  "denendi": "2026-11-26T19:28:56+03:00"
+ },
+ "IZM-0107": {
+  "ad": "Karşıyaka Deniz Baykal Kültür Merkezi",
+  "denendi": "2026-11-26T19:28:56+03:00"
+ },
+ "IZM-0108": {
+  "ad": "İzmir Kültür Sanat Fabrikası (İKSF)",
+  "boylam": 27.148215,
+  "bulundu": "2026-11-26T19:28:56+03:00",
+  "enlem": 38.436287,
+  "kaynak": "OpenStreetMap"
+ },
+ "IZM-0110": {
+  "ad": "Arkas Sanat Göztepe (Ayşe–Seniha Mayda Köşkü)",
+  "denendi": "2026-11-26T19:28:56+03:00"
+ },
+ "IZM-0111": {
+  "ad": "Lucien Arkas Sanat Merkezi",
+  "denendi": "2026-11-26T19:28:56+03:00"
+ },
+ "IZM-0112": {
+  "ad": "Arkas Sanat Urla",
+  "boylam": 26.795313,
+  "bulundu": "2026-11-26T19:28:56+03:00",
+  "enlem": 38.330375,
+  "kaynak": "OpenStreetMap"
+ },
+ "IZM-0113": {
+  "ad": "Arkas Sanat Alaçatı",
+  "boylam": 26.369761,
+  "bulundu": "2026-11-26T19:28:56+03:00",
+  "enlem": 38.284789,
+  "kaynak": "OpenStreetMap"
+ },
+ "IZM-0114": {
+  "ad": "Arkas Deniz Tarihi Merkezi",
+  "denendi": "2026-11-26T19:28:56+03:00"
+ },
+ "IZM-0115": {
+  "ad": "İzmir Devlet Tiyatrosu Konak Sahnesi",
+  "boylam": 27.123603,
+  "bulundu": "2026-11-26T19:28:56+03:00",
+  "enlem": 38.414678,
+  "kaynak": "OpenStreetMap"
+ },
+ "IZM-0116": {
+  "ad": "Karşıyaka Ragıp Haykır Sahnesi",
+  "denendi": "2026-11-26T19:28:56+03:00"
+ },
+ "IZM-0117": {
+  "ad": "Bornova Kültür ve Sanat Merkezi (Bozkurt Kuruç, Necdet Aydın, Rakım Elkutlu salonları)",
+  "denendi": "2026-11-26T19:28:56+03:00"
+ },
+ "IZM-0118": {
+  "ad": "Ege Üniversitesi Atatürk Kültür Merkezi (Yunus Emre Salonu)",
+  "boylam": 27.12596,
+  "bulundu": "2026-11-26T19:28:56+03:00",
+  "enlem": 38.415584,
+  "kaynak": "OpenStreetMap"
+ },
+ "IZM-0119": {
+  "ad": "Bornova Ayfer Feray Açıkhava Tiyatrosu",
+  "denendi": "2026-11-26T19:28:56+03:00"
+ },
+ "IZM-0120": {
+  "ad": "Bornova Uğur Mumcu Kültür ve Sanat Merkezi (Sevda Şener Sahnesi)",
+  "denendi": "2026-11-26T19:28:56+03:00"
+ },
+ "IZM-0121": {
+  "ad": "Karşıyaka Yunus Emre Kültür ve Sanat Merkezi",
+  "denendi": "2026-11-26T19:28:56+03:00"
+ },
+ "IZM-0122": {
+  "ad": "K2 Güncel Sanat Merkezi",
+  "denendi": "2026-11-26T19:28:56+03:00"
+ },
+ "IZM-0123": {
+  "ad": "Tiyatrolog Akademi",
+  "denendi": "2026-11-26T19:28:56+03:00"
+ },
+ "IZM-0124": {
+  "ad": "İzmir Arena",
+  "boylam": 27.144764,
+  "bulundu": "2026-11-26T19:28:56+03:00",
+  "enlem": 38.465,
+  "kaynak": "OpenStreetMap"
+ },
+ "IZM-0125": {
+  "ad": "İstinyeArt %100 Performans Arena",
+  "denendi": "2026-11-26T19:28:56+03:00"
+ },
+ "IZM-0126": {
+  "ad": "SoldOut Performance Hall",
+  "boylam": 27.075503,
+  "bulundu": "2026-11-26T19:28:56+03:00",
+  "enlem": 38.474493,
+  "kaynak": "OpenStreetMap"
+ },
+ "IZM-0127": {
+  "ad": "Volume Alsancak",
+  "denendi": "2026-11-26T19:28:56+03:00"
+ },
+ "IZM-0128": {
+  "ad": "Ooze Venue",
+  "denendi": "2026-11-26T19:28:56+03:00"
+ },
+ "IZM-0129": {
+  "ad": "Hangout PSM",
+  "denendi": "2026-11-26T19:28:56+03:00"
+ },
+ "IZM-0130": {
+  "ad": "KALT Performance Hall",
+  "denendi": "2026-11-26T19:28:56+03:00"
+ },
+ "IZM-0131": {
+  "ad": "Cliff Venue",
+  "denendi": "2026-11-26T19:28:56+03:00"
+ },
+ "IZM-0132": {
+  "ad": "Holly Stone İzmir",
+  "denendi": "2026-11-26T19:28:56+03:00"
+ },
+ "IZM-0133": {
+  "ad": "İzmir Performance Hall",
+  "boylam": 27.211116,
+  "bulundu": "2026-11-26T19:28:56+03:00",
+  "enlem": 38.459499,
+  "kaynak": "OpenStreetMap"
+ },
+ "IZM-0134": {
+  "ad": "Sardunya Alsancak",
+  "boylam": 27.142877,
+  "bulundu": "2026-11-26T19:28:56+03:00",
+  "enlem": 38.437252,
+  "kaynak": "OpenStreetMap"
+ },
+ "IZM-0135": {
+  "ad": "Dinozor Bar",
+  "boylam": 27.145887,
+  "bulundu": "2026-11-26T19:28:56+03:00",
+  "enlem": 38.439085,
+  "kaynak": "OpenStreetMap"
+ },
+ "IZM-0136": {
+  "ad": "Bios",
+  "denendi": "2026-11-26T19:28:56+03:00"
+ },
+ "IZM-0137": {
+  "ad": "İzmir Karaca Sineması",
+  "denendi": "2026-11-26T19:28:56+03:00"
  }
 }

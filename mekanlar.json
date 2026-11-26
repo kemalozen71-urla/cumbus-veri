@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-26T18:16+03:00",
+ "guncelleme": "2026-11-26T19:30+03:00",
  "sehir": "İzmir",
  "mekanlar": [
   {
@@ -1636,10 +1636,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=%C4%B0zmir%20Kent%20K%C3%BCt%C3%BCphanesi%2C%20Konak%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=%C4%B0zmir%20Kent%20K%C3%BCt%C3%BCphanesi&address=Konak%2C%20%C4%B0zmir",
    "web": "kultursanat.izmir.bel.tr",
-   "enlem": 38.418,
-   "boylam": 27.129,
-   "durum": "Düşük öncelik",
-   "konumYaklasik": true
+   "enlem": 38.438052,
+   "boylam": 27.147328,
+   "durum": "Düşük öncelik"
   },
   {
    "id": "IZM-0089",
@@ -1674,10 +1673,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Ahmet%20Piri%C5%9Ftina%20K%C3%BClt%C3%BCr%20Merkezi%2C%20%C5%9Eemikler%20Mah.%206274/1%20Sk.%2C%2035560%20Kar%C5%9F%C4%B1yaka%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=Ahmet%20Piri%C5%9Ftina%20K%C3%BClt%C3%BCr%20Merkezi&address=%2C%20%C4%B0zmir",
    "web": "",
-   "enlem": 38.46,
-   "boylam": 27.11,
-   "durum": "Düşük öncelik",
-   "konumYaklasik": true
+   "enlem": 38.473739,
+   "boylam": 27.097206,
+   "durum": "Düşük öncelik"
   },
   {
    "id": "IZM-0091",
@@ -1693,10 +1691,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Bostanl%C4%B1%20Rekreasyon%20Alan%C4%B1%2C%20Kar%C5%9F%C4%B1yaka%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=Bostanl%C4%B1%20Rekreasyon%20Alan%C4%B1&address=Kar%C5%9F%C4%B1yaka%2C%20%C4%B0zmir",
    "web": "",
-   "enlem": 38.46,
-   "boylam": 27.11,
-   "durum": "Düşük öncelik",
-   "konumYaklasik": true
+   "enlem": 38.460507,
+   "boylam": 27.086274,
+   "durum": "Düşük öncelik"
   },
   {
    "id": "IZM-0092",
@@ -1712,10 +1709,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Konak%20Milli%20K%C3%BCt%C3%BCphane%2C%20Konak%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=Konak%20Milli%20K%C3%BCt%C3%BCphane&address=Konak%2C%20%C4%B0zmir",
    "web": "",
-   "enlem": 38.418,
-   "boylam": 27.129,
-   "durum": "Düşük öncelik",
-   "konumYaklasik": true
+   "enlem": 38.416592,
+   "boylam": 27.129324,
+   "durum": "Düşük öncelik"
   },
   {
    "id": "IZM-0093",
@@ -1788,10 +1784,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Bay%C4%B1nd%C4%B1r%20%C5%9Eehir%20Stadyumu%2C%20Bay%C4%B1nd%C4%B1r%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=Bay%C4%B1nd%C4%B1r%20%C5%9Eehir%20Stadyumu&address=Bay%C4%B1nd%C4%B1r%2C%20%C4%B0zmir",
    "web": "",
-   "enlem": 38.218,
-   "boylam": 27.648,
-   "durum": "Düşük öncelik",
-   "konumYaklasik": true
+   "enlem": 38.219964,
+   "boylam": 27.646532,
+   "durum": "Düşük öncelik"
   },
   {
    "id": "IZM-0097",
@@ -1902,10 +1897,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Portekiz%20Sinagogu%2C%20Konak%20%28Kemeralt%C4%B1%29%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=Portekiz%20Sinagogu&address=Konak%20%28Kemeralt%C4%B1%29%2C%20%C4%B0zmir",
    "web": "",
-   "enlem": 38.418,
-   "boylam": 27.129,
-   "durum": "Düşük öncelik",
-   "konumYaklasik": true
+   "enlem": 38.418874,
+   "boylam": 27.13649,
+   "durum": "Düşük öncelik"
   },
   {
    "id": "IZM-0103",
@@ -1921,10 +1915,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=%C4%B0zmir%20Tarih%20Tasar%C4%B1m%20At%C3%B6lyesi%2C%20Konak%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=%C4%B0zmir%20Tarih%20Tasar%C4%B1m%20At%C3%B6lyesi&address=Konak%2C%20%C4%B0zmir",
    "web": "kultursanat.izmir.bel.tr",
-   "enlem": 38.418,
-   "boylam": 27.129,
-   "durum": "Düşük öncelik",
-   "konumYaklasik": true
+   "enlem": 38.41894,
+   "boylam": 27.141894,
+   "durum": "Düşük öncelik"
   },
   {
    "id": "IZM-0104",
@@ -2016,10 +2009,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=%C4%B0zmir%20K%C3%BClt%C3%BCr%20Sanat%20Fabrikas%C4%B1%20%28%C4%B0KSF%29%2C%20Alsancak%20%28eski%20Tekel%20Fabrikas%C4%B1%29%2C%20Konak%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=%C4%B0zmir%20K%C3%BClt%C3%BCr%20Sanat%20Fabrikas%C4%B1%20%28%C4%B0KSF%29&address=Alsancak%20%28eski%20Tekel%20Fabrikas%C4%B1%29%2C%20Konak%2C%20%C4%B0zmir",
    "web": "",
-   "enlem": 38.418,
-   "boylam": 27.129,
-   "durum": "Açık (web teyitli)",
-   "konumYaklasik": true
+   "enlem": 38.436287,
+   "boylam": 27.148215,
+   "durum": "Açık (web teyitli)"
   },
   {
    "id": "IZM-0109",
@@ -2091,10 +2083,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Arkas%20Sanat%20Urla%2C%20Urla%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=Arkas%20Sanat%20Urla&address=Urla%2C%20%C4%B0zmir",
    "web": "",
-   "enlem": 38.32,
-   "boylam": 26.765,
-   "durum": "Kontrol edilmeli",
-   "konumYaklasik": true
+   "enlem": 38.330375,
+   "boylam": 26.795313,
+   "durum": "Kontrol edilmeli"
   },
   {
    "id": "IZM-0113",
@@ -2110,10 +2101,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Arkas%20Sanat%20Ala%C3%A7at%C4%B1%2C%20%C3%87e%C5%9Fme%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=Arkas%20Sanat%20Ala%C3%A7at%C4%B1&address=%C3%87e%C5%9Fme%2C%20%C4%B0zmir",
    "web": "",
-   "enlem": 38.324,
-   "boylam": 26.304,
-   "durum": "Kontrol edilmeli",
-   "konumYaklasik": true
+   "enlem": 38.284789,
+   "boylam": 26.369761,
+   "durum": "Kontrol edilmeli"
   },
   {
    "id": "IZM-0114",
@@ -2148,10 +2138,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=%C4%B0zmir%20Devlet%20Tiyatrosu%20Konak%20Sahnesi%2C%20Selimiye%20Mah.%20Mithatpa%C5%9Fa%20Cad.%20No%3A10%2C%20Konak%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=%C4%B0zmir%20Devlet%20Tiyatrosu%20Konak%20Sahnesi&address=Selimiye%20Mah.%20Mithatpa%C5%9Fa%20Cad.%20No%3A10%2C%20Konak%2C%20%C4%B0zmir",
    "web": "",
-   "enlem": 38.418,
-   "boylam": 27.129,
-   "durum": "Açık (web teyitli)",
-   "konumYaklasik": true
+   "enlem": 38.414678,
+   "boylam": 27.123603,
+   "durum": "Açık (web teyitli)"
   },
   {
    "id": "IZM-0116",
@@ -2205,10 +2194,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Ege%20%C3%9Cniversitesi%20Atat%C3%BCrk%20K%C3%BClt%C3%BCr%20Merkezi%20%28Yunus%20Emre%20Salonu%29%2C%20Mithatpa%C5%9Fa%20Cad.%2C%20Konak%20%28tam%20adres%20do%C4%9Frulanmal%C4%B1%29%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=Ege%20%C3%9Cniversitesi%20Atat%C3%BCrk%20K%C3%BClt%C3%BCr%20Merkezi%20%28Yunus%20Emre%20Salonu%29&address=Mithatpa%C5%9Fa%20Cad.%2C%20Konak%20%28tam%20adres%20do%C4%9Frulanmal%C4%B1%29%2C%20%C4%B0zmir",
    "web": "",
-   "enlem": 38.418,
-   "boylam": 27.129,
-   "durum": "Kontrol edilmeli",
-   "konumYaklasik": true
+   "enlem": 38.415584,
+   "boylam": 27.12596,
+   "durum": "Kontrol edilmeli"
   },
   {
    "id": "IZM-0119",
@@ -2319,10 +2307,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=%C4%B0zmir%20Arena%2C%20Turan%20Mah.%201649%20Sk.%20No%3A107%2C%2035540%20Bayrakl%C4%B1%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=%C4%B0zmir%20Arena&address=Turan%20Mah.%201649%20Sk.%20No%3A107%2C%2035540%20Bayrakl%C4%B1%2C%20%C4%B0zmir",
    "web": "",
-   "enlem": 38.462,
-   "boylam": 27.165,
-   "durum": "Açık (web teyitli)",
-   "konumYaklasik": true
+   "enlem": 38.465,
+   "boylam": 27.144764,
+   "durum": "Açık (web teyitli)"
   },
   {
    "id": "IZM-0125",
@@ -2357,10 +2344,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=SoldOut%20Performance%20Hall%2C%20Mavi%C5%9Fehir%2C%20Caher%20Dudayev%20Blv.%20No%3A40%2C%2035550%20Kar%C5%9F%C4%B1yaka%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=SoldOut%20Performance%20Hall&address=Mavi%C5%9Fehir%2C%20Caher%20Dudayev%20Blv.%20No%3A40%2C%2035550%20Kar%C5%9F%C4%B1yaka%2C%20%C4%B0zmir",
    "web": "",
-   "enlem": 38.46,
-   "boylam": 27.11,
-   "durum": "Açık (web teyitli)",
-   "konumYaklasik": true
+   "enlem": 38.474493,
+   "boylam": 27.075503,
+   "durum": "Açık (web teyitli)"
   },
   {
    "id": "IZM-0127",
@@ -2490,10 +2476,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=%C4%B0zmir%20Performance%20Hall%2C%20Kaz%C4%B1mdirik%2C%2035100%20Bornova%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=%C4%B0zmir%20Performance%20Hall&address=Kaz%C4%B1mdirik%2C%2035100%20Bornova%2C%20%C4%B0zmir",
    "web": "",
-   "enlem": 38.466,
-   "boylam": 27.22,
-   "durum": "Kontrol edilmeli",
-   "konumYaklasik": true
+   "enlem": 38.459499,
+   "boylam": 27.211116,
+   "durum": "Kontrol edilmeli"
   },
   {
    "id": "IZM-0134",
@@ -2509,10 +2494,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Sardunya%20Alsancak%2C%20Alsancak%2C%20Muzaffer%20%C4%B0zg%C3%BC%20Sk.%20No%3A11%2C%2035220%20Konak%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=Sardunya%20Alsancak&address=Alsancak%2C%20Muzaffer%20%C4%B0zg%C3%BC%20Sk.%20No%3A11%2C%2035220%20Konak%2C%20%C4%B0zmir",
    "web": "",
-   "enlem": 38.418,
-   "boylam": 27.129,
-   "durum": "Kontrol edilmeli",
-   "konumYaklasik": true
+   "enlem": 38.437252,
+   "boylam": 27.142877,
+   "durum": "Kontrol edilmeli"
   },
   {
    "id": "IZM-0135",
@@ -2528,10 +2512,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Dinozor%20Bar%2C%20Alsancak%201469%20Sk.%20No%3A86%2C%2035220%20Konak%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=Dinozor%20Bar&address=Alsancak%201469%20Sk.%20No%3A86%2C%2035220%20Konak%2C%20%C4%B0zmir",
    "web": "",
-   "enlem": 38.418,
-   "boylam": 27.129,
-   "durum": "Kontrol edilmeli",
-   "konumYaklasik": true
+   "enlem": 38.439085,
+   "boylam": 27.145887,
+   "durum": "Kontrol edilmeli"
   },
   {
    "id": "IZM-0136",
