@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-26T18:14+03:00",
+ "guncelleme": "2026-11-26T18:16+03:00",
  "sehir": "İzmir",
  "mekanlar": [
   {
@@ -34,10 +34,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=%C4%B0zmir%20Sanat%20%28K%C3%BClt%C3%BCrpark%29%2C%20K%C3%BClt%C3%BCrpark%2C%20Mimar%20Sinan%20Mah.%20%C5%9Eair%20E%C5%9Fref%20Blv.%20No%3A50%2C%20Konak%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=%C4%B0zmir%20Sanat%20%28K%C3%BClt%C3%BCrpark%29&address=K%C3%BClt%C3%BCrpark%2C%20Mimar%20Sinan%20Mah.%20%C5%9Eair%20E%C5%9Fref%20Blv.%20No%3A50%2C%20Konak%2C%20%C4%B0zmir",
    "web": "kulturparkizmir.org / kultursanat.izmir.bel.tr",
-   "enlem": 38.418,
-   "boylam": 27.129,
-   "durum": "Aktif (CSV'de son 18 ayda etkinlik)",
-   "konumYaklasik": true
+   "enlem": 38.43003,
+   "boylam": 27.146699,
+   "durum": "Aktif (CSV'de son 18 ayda etkinlik)"
   },
   {
    "id": "IZM-0003",
@@ -53,10 +52,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=%C4%B0smet%20%C4%B0n%C3%B6n%C3%BC%20Sanat%20Merkezi%20%28%C4%B0zBB%20%C5%9Eehir%20Tiyatrolar%C4%B1%20sahnesi%29%2C%20Konak%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=%C4%B0smet%20%C4%B0n%C3%B6n%C3%BC%20Sanat%20Merkezi%20%28%C4%B0zBB%20%C5%9Eehir%20Tiyatrolar%C4%B1%20sahnesi%29&address=Konak%2C%20%C4%B0zmir",
    "web": "kultursanat.izmir.bel.tr",
-   "enlem": 38.418,
-   "boylam": 27.129,
-   "durum": "Aktif (CSV'de son 18 ayda etkinlik)",
-   "konumYaklasik": true
+   "enlem": 38.43071,
+   "boylam": 27.143802,
+   "durum": "Aktif (CSV'de son 18 ayda etkinlik)"
   },
   {
    "id": "IZM-0004",
@@ -110,10 +108,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Ahmet%20Piri%C5%9Ftina%20Kent%20Ar%C5%9Fivi%20ve%20M%C3%BCzesi%20%28AP%C4%B0KAM%29%2C%20%C3%87ankaya%2C%20Konak%20%28tarihi%20itfaiye%20binas%C4%B1%29%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=Ahmet%20Piri%C5%9Ftina%20Kent%20Ar%C5%9Fivi%20ve%20M%C3%BCzesi%20%28AP%C4%B0KAM%29&address=%C3%87ankaya%2C%20Konak%20%28tarihi%20itfaiye%20binas%C4%B1%29%2C%20%C4%B0zmir",
    "web": "apikam.org.tr",
-   "enlem": 38.418,
-   "boylam": 27.129,
-   "durum": "Aktif (CSV'de son 18 ayda etkinlik)",
-   "konumYaklasik": true
+   "enlem": 38.42498,
+   "boylam": 27.137918,
+   "durum": "Aktif (CSV'de son 18 ayda etkinlik)"
   },
   {
    "id": "IZM-0007",
@@ -129,10 +126,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Elhamra%20Sahnesi%2C%20Konak%20Mah.%20Milli%20K%C3%BCt%C3%BCphane%20Cd.%20No%3A37%2C%2035250%20Konak%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=Elhamra%20Sahnesi&address=Konak%20Mah.%20Milli%20K%C3%BCt%C3%BCphane%20Cd.%20No%3A37%2C%2035250%20Konak%2C%20%C4%B0zmir",
    "web": "Devlet Opera ve Balesi sitesi",
-   "enlem": 38.418,
-   "boylam": 27.129,
-   "durum": "Aktif (CSV'de son 18 ayda etkinlik)",
-   "konumYaklasik": true
+   "enlem": 38.416592,
+   "boylam": 27.129324,
+   "durum": "Aktif (CSV'de son 18 ayda etkinlik)"
   },
   {
    "id": "IZM-0008",
@@ -185,10 +181,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Tarihi%20B%C4%B1%C3%A7ak%C3%A7%C4%B1%20Han%2C%20Konak%20%28Kemeralt%C4%B1%29%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=Tarihi%20B%C4%B1%C3%A7ak%C3%A7%C4%B1%20Han&address=Konak%20%28Kemeralt%C4%B1%29%2C%20%C4%B0zmir",
    "web": "kultursanat.izmir.bel.tr",
-   "enlem": 38.418,
-   "boylam": 27.129,
-   "durum": "Aktif (CSV'de son 18 ayda etkinlik)",
-   "konumYaklasik": true
+   "enlem": 38.422138,
+   "boylam": 27.145307,
+   "durum": "Aktif (CSV'de son 18 ayda etkinlik)"
   },
   {
    "id": "IZM-0011",
@@ -280,10 +275,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Bergama%20K%C3%BClt%C3%BCr%20Merkezi%2C%20Bergama%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=Bergama%20K%C3%BClt%C3%BCr%20Merkezi&address=Bergama%2C%20%C4%B0zmir",
    "web": "bergama.bel.tr (ilçe belediyesi)",
-   "enlem": 39.12,
-   "boylam": 27.18,
-   "durum": "Aktif (CSV'de son 18 ayda etkinlik)",
-   "konumYaklasik": true
+   "enlem": 39.114037,
+   "boylam": 27.176202,
+   "durum": "Aktif (CSV'de son 18 ayda etkinlik)"
   },
   {
    "id": "IZM-0016",
@@ -299,10 +293,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=G%C3%BCzelbah%C3%A7e%20Atat%C3%BCrk%20K%C3%BClt%C3%BCr%20Merkezi%2C%20G%C3%BCzelbah%C3%A7e%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=G%C3%BCzelbah%C3%A7e%20Atat%C3%BCrk%20K%C3%BClt%C3%BCr%20Merkezi&address=G%C3%BCzelbah%C3%A7e%2C%20%C4%B0zmir",
    "web": "guzelbahce.bel.tr (ilçe belediyesi)",
-   "enlem": 38.37,
-   "boylam": 26.89,
-   "durum": "Aktif (CSV'de son 18 ayda etkinlik)",
-   "konumYaklasik": true
+   "enlem": 38.375661,
+   "boylam": 26.892181,
+   "durum": "Aktif (CSV'de son 18 ayda etkinlik)"
   },
   {
    "id": "IZM-0017",
@@ -337,10 +330,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Torbal%C4%B1%20Belediyesi%20K%C3%BClt%C3%BCr%20Merkezi%2C%20Torbal%C4%B1%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=Torbal%C4%B1%20Belediyesi%20K%C3%BClt%C3%BCr%20Merkezi&address=Torbal%C4%B1%2C%20%C4%B0zmir",
    "web": "torbali.bel.tr (ilçe belediyesi)",
-   "enlem": 38.15,
-   "boylam": 27.36,
-   "durum": "Aktif (CSV'de son 18 ayda etkinlik)",
-   "konumYaklasik": true
+   "enlem": 38.153673,
+   "boylam": 27.356661,
+   "durum": "Aktif (CSV'de son 18 ayda etkinlik)"
   },
   {
    "id": "IZM-0019",
@@ -451,10 +443,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Pakistan%20Pavyonu%20%28K%C3%BClt%C3%BCrpark%29%2C%20K%C3%BClt%C3%BCrpark%2C%20Mimar%20Sinan%20Mah.%20%C5%9Eair%20E%C5%9Fref%20Blv.%20No%3A50%2C%20Konak%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=Pakistan%20Pavyonu%20%28K%C3%BClt%C3%BCrpark%29&address=K%C3%BClt%C3%BCrpark%2C%20Mimar%20Sinan%20Mah.%20%C5%9Eair%20E%C5%9Fref%20Blv.%20No%3A50%2C%20Konak%2C%20%C4%B0zmir",
    "web": "kulturparkizmir.org / kultursanat.izmir.bel.tr",
-   "enlem": 38.418,
-   "boylam": 27.129,
-   "durum": "Aktif (CSV'de son 18 ayda etkinlik)",
-   "konumYaklasik": true
+   "enlem": 38.430025,
+   "boylam": 27.143317,
+   "durum": "Aktif (CSV'de son 18 ayda etkinlik)"
   },
   {
    "id": "IZM-0025",
@@ -470,10 +461,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Selahattin%20Ak%C3%A7i%C3%A7ek%20K%C3%BClt%C3%BCr%20Merkezi%2C%20%C4%B0n%C3%B6n%C3%BC%20Cad.%202%2F1%2C%20Bayramyeri%2C%20Konak%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=Selahattin%20Ak%C3%A7i%C3%A7ek%20K%C3%BClt%C3%BCr%20Merkezi&address=%C4%B0n%C3%B6n%C3%BC%20Cad.%202%2F1%2C%20Bayramyeri%2C%20Konak%2C%20%C4%B0zmir",
    "web": "konak.bel.tr (ilçe belediyesi)",
-   "enlem": 38.418,
-   "boylam": 27.129,
-   "durum": "Aktif (CSV'de son 18 ayda etkinlik)",
-   "konumYaklasik": true
+   "enlem": 38.410837,
+   "boylam": 27.127938,
+   "durum": "Aktif (CSV'de son 18 ayda etkinlik)"
   },
   {
    "id": "IZM-0026",
@@ -489,10 +479,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Mehmet%20T%C3%BCz%C3%BCm%20K%C4%B1z%C4%B1lcan%20Sanat%20Galerisi%20%28K%C3%BClt%C3%BCrpark%2C%20eski%20Resim%20Heykel%20M%C3%BCzesi%20binas%C4%B1%29%2C%20K%C3%BClt%C3%BCrpark%2C%20Mimar%20Sinan%20Mah.%20%C5%9Eair%20E%C5%9Fref%20Blv.%20No%3A50%2C%20Konak%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=Mehmet%20T%C3%BCz%C3%BCm%20K%C4%B1z%C4%B1lcan%20Sanat%20Galerisi%20%28K%C3%BClt%C3%BCrpark%2C%20eski%20Resim%20Heykel%20M%C3%BCzesi%20binas%C4%B1%29&address=K%C3%BClt%C3%BCrpark%2C%20Mimar%20Sinan%20Mah.%20%C5%9Eair%20E%C5%9Fref%20Blv.%20No%3A50%2C%20Konak%2C%20%C4%B0zmir",
    "web": "kulturparkizmir.org / kultursanat.izmir.bel.tr",
-   "enlem": 38.418,
-   "boylam": 27.129,
-   "durum": "Açık (web teyitli)",
-   "konumYaklasik": true
+   "enlem": 38.427033,
+   "boylam": 27.142971,
+   "durum": "Açık (web teyitli)"
   },
   {
    "id": "IZM-0027",
@@ -508,10 +497,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Narl%C4%B1dere%20Atat%C3%BCrk%20K%C3%BClt%C3%BCr%20Merkezi%2C%20Narl%C4%B1dere%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=Narl%C4%B1dere%20Atat%C3%BCrk%20K%C3%BClt%C3%BCr%20Merkezi&address=Narl%C4%B1dere%2C%20%C4%B0zmir",
    "web": "narlidere.bel.tr (ilçe belediyesi)",
-   "enlem": 38.395,
-   "boylam": 26.99,
-   "durum": "Aktif (CSV'de son 18 ayda etkinlik)",
-   "konumYaklasik": true
+   "enlem": 38.395772,
+   "boylam": 26.996656,
+   "durum": "Aktif (CSV'de son 18 ayda etkinlik)"
   },
   {
    "id": "IZM-0028",
@@ -789,10 +777,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=G%C3%BCndo%C4%9Fdu%20Meydan%C4%B1%2C%20Konak%20%28Alsancak%29%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=G%C3%BCndo%C4%9Fdu%20Meydan%C4%B1&address=Konak%20%28Alsancak%29%2C%20%C4%B0zmir",
    "web": "",
-   "enlem": 38.418,
-   "boylam": 27.129,
-   "durum": "Açık alan (sürekli)",
-   "konumYaklasik": true
+   "enlem": 38.435722,
+   "boylam": 27.139629,
+   "durum": "Açık alan (sürekli)"
   },
   {
    "id": "IZM-0043",
@@ -827,10 +814,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Cumhuriyet%20Meydan%C4%B1%2C%20Konak%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=Cumhuriyet%20Meydan%C4%B1&address=Konak%2C%20%C4%B0zmir",
    "web": "",
-   "enlem": 38.418,
-   "boylam": 27.129,
-   "durum": "Açık alan (sürekli)",
-   "konumYaklasik": true
+   "enlem": 38.429042,
+   "boylam": 27.134329,
+   "durum": "Açık alan (sürekli)"
   },
   {
    "id": "IZM-0045",
@@ -884,10 +870,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=%C4%B0nciralt%C4%B1%20Kent%20Orman%C4%B1%2C%20Bal%C3%A7ova%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=%C4%B0nciralt%C4%B1%20Kent%20Orman%C4%B1&address=Bal%C3%A7ova%2C%20%C4%B0zmir",
    "web": "",
-   "enlem": 38.389,
-   "boylam": 27.05,
-   "durum": "Açık alan (sürekli)",
-   "konumYaklasik": true
+   "enlem": 38.410353,
+   "boylam": 27.060896,
+   "durum": "Açık alan (sürekli)"
   },
   {
    "id": "IZM-0048",
@@ -903,10 +888,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Kadifekale%2C%20Konak%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=Kadifekale&address=Konak%2C%20%C4%B0zmir",
    "web": "",
-   "enlem": 38.418,
-   "boylam": 27.129,
-   "durum": "Açık alan (sürekli)",
-   "konumYaklasik": true
+   "enlem": 38.413784,
+   "boylam": 27.144956,
+   "durum": "Açık alan (sürekli)"
   },
   {
    "id": "IZM-0049",
@@ -922,10 +906,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Konak%20Meydan%C4%B1%2C%20Konak%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=Konak%20Meydan%C4%B1&address=Konak%2C%20%C4%B0zmir",
    "web": "",
-   "enlem": 38.418,
-   "boylam": 27.129,
-   "durum": "Açık alan (sürekli)",
-   "konumYaklasik": true
+   "enlem": 38.419013,
+   "boylam": 27.12864,
+   "durum": "Açık alan (sürekli)"
   },
   {
    "id": "IZM-0050",
@@ -941,10 +924,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Kar%C5%9F%C4%B1yaka%20Vapur%20%C4%B0skelesi%2C%20Kar%C5%9F%C4%B1yaka%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=Kar%C5%9F%C4%B1yaka%20Vapur%20%C4%B0skelesi&address=Kar%C5%9F%C4%B1yaka%2C%20%C4%B0zmir",
    "web": "",
-   "enlem": 38.46,
-   "boylam": 27.11,
-   "durum": "Açık alan (sürekli)",
-   "konumYaklasik": true
+   "enlem": 38.454924,
+   "boylam": 27.120462,
+   "durum": "Açık alan (sürekli)"
   },
   {
    "id": "IZM-0051",
@@ -1017,10 +999,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=%C3%87e%C5%9Fme%20Cumhuriyet%20Meydan%C4%B1%2C%20%C3%87e%C5%9Fme%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=%C3%87e%C5%9Fme%20Cumhuriyet%20Meydan%C4%B1&address=%C3%87e%C5%9Fme%2C%20%C4%B0zmir",
    "web": "cesme.bel.tr (ilçe belediyesi)",
-   "enlem": 38.324,
-   "boylam": 26.304,
-   "durum": "Açık alan (sürekli)",
-   "konumYaklasik": true
+   "enlem": 38.324115,
+   "boylam": 26.302477,
+   "durum": "Açık alan (sürekli)"
   },
   {
    "id": "IZM-0055",
@@ -1055,10 +1036,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Lozan%20Meydan%C4%B1%2C%20Konak%20%28Alsancak%29%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=Lozan%20Meydan%C4%B1&address=Konak%20%28Alsancak%29%2C%20%C4%B0zmir",
    "web": "",
-   "enlem": 38.418,
-   "boylam": 27.129,
-   "durum": "Açık alan (sürekli)",
-   "konumYaklasik": true
+   "enlem": 38.42993,
+   "boylam": 27.141658,
+   "durum": "Açık alan (sürekli)"
   },
   {
    "id": "IZM-0057",
@@ -1074,8 +1054,8 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=U%C4%9Fur%20Mumcu%20Park%C4%B1%2C%20%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=U%C4%9Fur%20Mumcu%20Park%C4%B1&address=%2C%20%C4%B0zmir",
    "web": "",
-   "enlem": null,
-   "boylam": null,
+   "enlem": 38.402914,
+   "boylam": 27.117513,
    "durum": "Açık alan (sürekli)"
   },
   {
@@ -1110,10 +1090,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=%C3%87etin%20Eme%C3%A7%20Sanat%20Galerisi%2C%20Konak%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=%C3%87etin%20Eme%C3%A7%20Sanat%20Galerisi&address=Konak%2C%20%C4%B0zmir",
    "web": "kultursanat.izmir.bel.tr",
-   "enlem": 38.418,
-   "boylam": 27.129,
-   "durum": "Kontrol edilmeli",
-   "konumYaklasik": true
+   "enlem": 38.421875,
+   "boylam": 27.132918,
+   "durum": "Kontrol edilmeli"
   },
   {
    "id": "IZM-0060",
@@ -1186,10 +1165,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Bornova%20K%C3%BClt%C3%BCr%20Merkezi%2C%20Bornova%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=Bornova%20K%C3%BClt%C3%BCr%20Merkezi&address=Bornova%2C%20%C4%B0zmir",
    "web": "bornova.bel.tr (ilçe belediyesi)",
-   "enlem": 38.466,
-   "boylam": 27.22,
-   "durum": "Kontrol edilmeli",
-   "konumYaklasik": true
+   "enlem": 38.463372,
+   "boylam": 27.211147,
+   "durum": "Kontrol edilmeli"
   },
   {
    "id": "IZM-0064",
@@ -1205,10 +1183,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Naz%C4%B1m%20Hikmet%20K%C3%BClt%C3%BCr%20Merkezi%20%28G%C3%BCzelyal%C4%B1%29%2C%20Konak%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=Naz%C4%B1m%20Hikmet%20K%C3%BClt%C3%BCr%20Merkezi%20%28G%C3%BCzelyal%C4%B1%29&address=Konak%2C%20%C4%B0zmir",
    "web": "konak.bel.tr (ilçe belediyesi)",
-   "enlem": 38.418,
-   "boylam": 27.129,
-   "durum": "Kontrol edilmeli",
-   "konumYaklasik": true
+   "enlem": 38.418273,
+   "boylam": 27.130175,
+   "durum": "Kontrol edilmeli"
   },
   {
    "id": "IZM-0065",
@@ -1243,10 +1220,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Fuar%20%C4%B0zmir%2C%20Zafer%20Mah.%20840%20Sk.%20Fuar%20Alan%C4%B1%20No%3A2%2C%20Gaziemir%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=Fuar%20%C4%B0zmir&address=Zafer%20Mah.%20840%20Sk.%20Fuar%20Alan%C4%B1%20No%3A2%2C%20Gaziemir%2C%20%C4%B0zmir",
    "web": "izfas.com.tr",
-   "enlem": 38.32,
-   "boylam": 27.13,
-   "durum": "Kontrol edilmeli",
-   "konumYaklasik": true
+   "enlem": 38.347218,
+   "boylam": 27.119658,
+   "durum": "Kontrol edilmeli"
   },
   {
    "id": "IZM-0067",
@@ -1281,10 +1257,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Alia%C4%9Fa%20K%C3%BClt%C3%BCr%20Merkezi%2C%20Alia%C4%9Fa%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=Alia%C4%9Fa%20K%C3%BClt%C3%BCr%20Merkezi&address=Alia%C4%9Fa%2C%20%C4%B0zmir",
    "web": "aliaga.bel.tr (ilçe belediyesi)",
-   "enlem": 38.8,
-   "boylam": 26.972,
-   "durum": "Kontrol edilmeli",
-   "konumYaklasik": true
+   "enlem": 38.799725,
+   "boylam": 26.978936,
+   "durum": "Kontrol edilmeli"
   },
   {
    "id": "IZM-0069",

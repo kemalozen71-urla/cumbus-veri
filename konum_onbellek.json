@@ -1,0 +1,352 @@
+{
+ "IZM-0002": {
+  "ad": "İzmir Sanat (Kültürpark)",
+  "boylam": 27.146699,
+  "bulundu": "2026-11-26T18:14:40+03:00",
+  "enlem": 38.43003,
+  "kaynak": "OpenStreetMap"
+ },
+ "IZM-0003": {
+  "ad": "İsmet İnönü Sanat Merkezi (İzBB Şehir Tiyatroları sahnesi)",
+  "boylam": 27.143802,
+  "bulundu": "2026-11-26T18:14:40+03:00",
+  "enlem": 38.43071,
+  "kaynak": "OpenStreetMap"
+ },
+ "IZM-0004": {
+  "ad": "Tarihi Havagazı Fabrikası Kültür Merkezi",
+  "denendi": "2026-11-26T18:14:40+03:00"
+ },
+ "IZM-0005": {
+  "ad": "Kültürpark Gençlik Tiyatrosu",
+  "denendi": "2026-11-26T18:14:40+03:00"
+ },
+ "IZM-0006": {
+  "ad": "Ahmet Piriştina Kent Arşivi ve Müzesi (APİKAM)",
+  "boylam": 27.137918,
+  "bulundu": "2026-11-26T18:14:40+03:00",
+  "enlem": 38.42498,
+  "kaynak": "OpenStreetMap"
+ },
+ "IZM-0007": {
+  "ad": "Elhamra Sahnesi",
+  "boylam": 27.129324,
+  "bulundu": "2026-11-26T18:14:40+03:00",
+  "enlem": 38.416592,
+  "kaynak": "OpenStreetMap"
+ },
+ "IZM-0009": {
+  "ad": "Karşıyaka Hikmet Şimşek Sanat Merkezi",
+  "denendi": "2026-11-26T18:14:40+03:00"
+ },
+ "IZM-0010": {
+  "ad": "Tarihi Bıçakçı Han",
+  "boylam": 27.145307,
+  "bulundu": "2026-11-26T18:14:40+03:00",
+  "enlem": 38.422138,
+  "kaynak": "OpenStreetMap"
+ },
+ "IZM-0011": {
+  "ad": "Kültürpark Atatürk Açıkhava Tiyatrosu",
+  "denendi": "2026-11-26T18:14:40+03:00"
+ },
+ "IZM-0012": {
+  "ad": "Bornova Aşık Veysel Rekreasyon Alanı Amfi Tiyatrosu",
+  "denendi": "2026-11-26T18:14:40+03:00"
+ },
+ "IZM-0013": {
+  "ad": "Kültürpark Atlas Pavyonu",
+  "denendi": "2026-11-26T18:14:40+03:00"
+ },
+ "IZM-0014": {
+  "ad": "Institut français İzmir (Fransız Kültür Merkezi)",
+  "denendi": "2026-11-26T18:14:40+03:00"
+ },
+ "IZM-0015": {
+  "ad": "Bergama Kültür Merkezi",
+  "boylam": 27.176202,
+  "bulundu": "2026-11-26T18:14:40+03:00",
+  "enlem": 39.114037,
+  "kaynak": "OpenStreetMap"
+ },
+ "IZM-0016": {
+  "ad": "Güzelbahçe Atatürk Kültür Merkezi",
+  "boylam": 26.892181,
+  "bulundu": "2026-11-26T18:14:40+03:00",
+  "enlem": 38.375661,
+  "kaynak": "OpenStreetMap"
+ },
+ "IZM-0017": {
+  "ad": "Tire Belediyesi Kültür Merkezi",
+  "denendi": "2026-11-26T18:14:40+03:00"
+ },
+ "IZM-0018": {
+  "ad": "Torbalı Belediyesi Kültür Merkezi",
+  "boylam": 27.356661,
+  "bulundu": "2026-11-26T18:14:40+03:00",
+  "enlem": 38.153673,
+  "kaynak": "OpenStreetMap"
+ },
+ "IZM-0019": {
+  "ad": "DEÜ Sabancı Kültür Sarayı",
+  "denendi": "2026-11-26T18:14:40+03:00"
+ },
+ "IZM-0020": {
+  "ad": "Uzundere Çocuk (ve Gençlik) Merkezi",
+  "denendi": "2026-11-26T18:14:40+03:00"
+ },
+ "IZM-0021": {
+  "ad": "Tepekule Kongre ve Sergi Merkezi",
+  "denendi": "2026-11-26T18:14:40+03:00"
+ },
+ "IZM-0022": {
+  "ad": "Gaziemir Atatürk Kültür Merkezi",
+  "denendi": "2026-11-26T18:14:40+03:00"
+ },
+ "IZM-0023": {
+  "ad": "Dikili Mustafa Kemal Atatürk Kültür Merkezi",
+  "denendi": "2026-11-26T18:14:40+03:00"
+ },
+ "IZM-0024": {
+  "ad": "Pakistan Pavyonu (Kültürpark)",
+  "boylam": 27.143317,
+  "bulundu": "2026-11-26T18:14:40+03:00",
+  "enlem": 38.430025,
+  "kaynak": "OpenStreetMap"
+ },
+ "IZM-0025": {
+  "ad": "Selahattin Akçiçek Kültür Merkezi",
+  "boylam": 27.127938,
+  "bulundu": "2026-11-26T18:14:40+03:00",
+  "enlem": 38.410837,
+  "kaynak": "OpenStreetMap"
+ },
+ "IZM-0026": {
+  "ad": "Mehmet Tüzüm Kızılcan Sanat Galerisi (Kültürpark, eski Resim Heykel Müzesi binası)",
+  "boylam": 27.142971,
+  "bulundu": "2026-11-26T18:14:40+03:00",
+  "enlem": 38.427033,
+  "kaynak": "OpenStreetMap"
+ },
+ "IZM-0027": {
+  "ad": "Narlıdere Atatürk Kültür Merkezi",
+  "boylam": 26.996656,
+  "bulundu": "2026-11-26T18:14:40+03:00",
+  "enlem": 38.395772,
+  "kaynak": "OpenStreetMap"
+ },
+ "IZM-0028": {
+  "ad": "Ödemiş Belediyesi Kültür Merkezi",
+  "denendi": "2026-11-26T18:14:40+03:00"
+ },
+ "IZM-0029": {
+  "ad": "Han Tiyatrosu",
+  "denendi": "2026-11-26T18:14:40+03:00"
+ },
+ "IZM-0030": {
+  "ad": "Konak Metro Sanat Galerisi",
+  "denendi": "2026-11-26T18:14:40+03:00"
+ },
+ "IZM-0031": {
+  "ad": "Kültürpark Ahşap Sahne",
+  "denendi": "2026-11-26T18:14:40+03:00"
+ },
+ "IZM-0032": {
+  "ad": "DEÜ Güzel Sanatlar Fakültesi (Özdemir Nutku Sahnesi)",
+  "denendi": "2026-11-26T18:14:40+03:00"
+ },
+ "IZM-0033": {
+  "ad": "Tiyatro Peron / Peron Sanat",
+  "denendi": "2026-11-26T18:14:40+03:00"
+ },
+ "IZM-0034": {
+  "ad": "Bostanlı Suat Taşer Tiyatrosu",
+  "denendi": "2026-11-26T18:14:40+03:00"
+ },
+ "IZM-0035": {
+  "ad": "Beydağ Belediyesi Kültür Merkezi",
+  "denendi": "2026-11-26T18:14:40+03:00"
+ },
+ "IZM-0036": {
+  "ad": "Sahne Tozu Tiyatrosu Haldun Dormen Sahnesi",
+  "denendi": "2026-11-26T18:14:40+03:00"
+ },
+ "IZM-0037": {
+  "ad": "Bayetav Sanat",
+  "denendi": "2026-11-26T18:14:40+03:00"
+ },
+ "IZM-0038": {
+  "ad": "Batı Sahne",
+  "denendi": "2026-11-26T18:14:40+03:00"
+ },
+ "IZM-0039": {
+  "ad": "Foça Beşkapılar Kalesi Amfi Tiyatro",
+  "denendi": "2026-11-26T18:14:40+03:00"
+ },
+ "IZM-0040": {
+  "ad": "UrlaDam",
+  "denendi": "2026-11-26T18:14:40+03:00"
+ },
+ "IZM-0042": {
+  "ad": "Gündoğdu Meydanı",
+  "boylam": 27.139629,
+  "bulundu": "2026-11-26T18:14:40+03:00",
+  "enlem": 38.435722,
+  "kaynak": "OpenStreetMap"
+ },
+ "IZM-0043": {
+  "ad": "Kültürpark Kaskatlı Havuz",
+  "denendi": "2026-11-26T18:14:40+03:00"
+ },
+ "IZM-0044": {
+  "ad": "Cumhuriyet Meydanı",
+  "boylam": 27.134329,
+  "bulundu": "2026-11-26T18:14:40+03:00",
+  "enlem": 38.429042,
+  "kaynak": "OpenStreetMap"
+ },
+ "IZM-0045": {
+  "ad": "Vasıf Çınar Meydanı",
+  "denendi": "2026-11-26T18:14:40+03:00"
+ },
+ "IZM-0046": {
+  "ad": "İnciraltı Süleyman Demirel Meydanı",
+  "denendi": "2026-11-26T18:14:40+03:00"
+ },
+ "IZM-0047": {
+  "ad": "İnciraltı Kent Ormanı",
+  "boylam": 27.060896,
+  "bulundu": "2026-11-26T18:14:40+03:00",
+  "enlem": 38.410353,
+  "kaynak": "OpenStreetMap"
+ },
+ "IZM-0048": {
+  "ad": "Kadifekale",
+  "boylam": 27.144956,
+  "bulundu": "2026-11-26T18:14:40+03:00",
+  "enlem": 38.413784,
+  "kaynak": "OpenStreetMap"
+ },
+ "IZM-0049": {
+  "ad": "Konak Meydanı",
+  "boylam": 27.12864,
+  "bulundu": "2026-11-26T18:14:40+03:00",
+  "enlem": 38.419013,
+  "kaynak": "OpenStreetMap"
+ },
+ "IZM-0050": {
+  "ad": "Karşıyaka Vapur İskelesi",
+  "boylam": 27.120462,
+  "bulundu": "2026-11-26T18:14:40+03:00",
+  "enlem": 38.454924,
+  "kaynak": "OpenStreetMap"
+ },
+ "IZM-0051": {
+  "ad": "İnciraltı Demokrasi Meydanı",
+  "denendi": "2026-11-26T18:14:40+03:00"
+ },
+ "IZM-0052": {
+  "ad": "Karaburun Cumhuriyet Meydanı",
+  "denendi": "2026-11-26T18:14:40+03:00"
+ },
+ "IZM-0053": {
+  "ad": "Menemen Cumhuriyet Meydanı",
+  "denendi": "2026-11-26T18:14:40+03:00"
+ },
+ "IZM-0054": {
+  "ad": "Çeşme Cumhuriyet Meydanı",
+  "boylam": 26.302477,
+  "bulundu": "2026-11-26T18:14:40+03:00",
+  "enlem": 38.324115,
+  "kaynak": "OpenStreetMap"
+ },
+ "IZM-0055": {
+  "ad": "Gaziemir Atatürk Bulvarı Festival Alanı",
+  "denendi": "2026-11-26T18:14:40+03:00"
+ },
+ "IZM-0056": {
+  "ad": "Lozan Meydanı",
+  "boylam": 27.141658,
+  "bulundu": "2026-11-26T18:14:40+03:00",
+  "enlem": 38.42993,
+  "kaynak": "OpenStreetMap"
+ },
+ "IZM-0057": {
+  "ad": "Uğur Mumcu Parkı",
+  "boylam": 27.117513,
+  "bulundu": "2026-11-26T18:14:40+03:00",
+  "enlem": 38.402914,
+  "kaynak": "OpenStreetMap"
+ },
+ "IZM-0058": {
+  "ad": "Yurtoğlu Parkı",
+  "denendi": "2026-11-26T18:14:40+03:00"
+ },
+ "IZM-0059": {
+  "ad": "Çetin Emeç Sanat Galerisi",
+  "boylam": 27.132918,
+  "bulundu": "2026-11-26T18:14:40+03:00",
+  "enlem": 38.421875,
+  "kaynak": "OpenStreetMap"
+ },
+ "IZM-0060": {
+  "ad": "Seferihisar Kültür Merkezi",
+  "denendi": "2026-11-26T18:14:40+03:00"
+ },
+ "IZM-0061": {
+  "ad": "Yeşilyurt Mustafa Necati Kültür Merkezi",
+  "denendi": "2026-11-26T18:14:40+03:00"
+ },
+ "IZM-0062": {
+  "ad": "Çiğli Belediyesi Kültür Merkezi",
+  "denendi": "2026-11-26T18:14:40+03:00"
+ },
+ "IZM-0063": {
+  "ad": "Bornova Kültür Merkezi",
+  "boylam": 27.211147,
+  "bulundu": "2026-11-26T18:14:40+03:00",
+  "enlem": 38.463372,
+  "kaynak": "OpenStreetMap"
+ },
+ "IZM-0064": {
+  "ad": "Nazım Hikmet Kültür Merkezi (Güzelyalı)",
+  "boylam": 27.130175,
+  "bulundu": "2026-11-26T18:14:40+03:00",
+  "enlem": 38.418273,
+  "kaynak": "OpenStreetMap"
+ },
+ "IZM-0065": {
+  "ad": "Foça Reha Midilli Kültür Merkezi",
+  "denendi": "2026-11-26T18:14:40+03:00"
+ },
+ "IZM-0066": {
+  "ad": "Fuar İzmir",
+  "boylam": 27.119658,
+  "bulundu": "2026-11-26T18:14:40+03:00",
+  "enlem": 38.347218,
+  "kaynak": "OpenStreetMap"
+ },
+ "IZM-0067": {
+  "ad": "İnciraltı Açıkhava Tiyatrosu",
+  "denendi": "2026-11-26T18:14:40+03:00"
+ },
+ "IZM-0068": {
+  "ad": "Aliağa Kültür Merkezi",
+  "boylam": 26.978936,
+  "bulundu": "2026-11-26T18:14:40+03:00",
+  "enlem": 38.799725,
+  "kaynak": "OpenStreetMap"
+ },
+ "IZM-0069": {
+  "ad": "Buca Olimpik Yüzme Havuzu Kongre Merkezi",
+  "denendi": "2026-11-26T18:14:40+03:00"
+ },
+ "IZM-0070": {
+  "ad": "Çamdibi Nedret Güvenç Sahnesi",
+  "denendi": "2026-11-26T18:14:40+03:00"
+ },
+ "IZM-0071": {
+  "ad": "Çiğli Fakir Baykurt Konferans Salonu",
+  "denendi": "2026-11-26T18:14:40+03:00"
+ }
+}
