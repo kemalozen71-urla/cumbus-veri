@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-26T07:30+03:00",
+ "guncelleme": "2026-11-26T11:18+03:00",
  "sehir": "İzmir",
  "kategoriler": [
   "Kültür-Sanat",
@@ -47,6 +47,25 @@
    "mekanId": "IZM-0006",
    "mekanMetni": "",
    "acikKapali": "Kapalı",
+   "kaynak": "İzmir Büyükşehir Belediyesi açık veri (CC BY 4.0)"
+  },
+  {
+   "id": "izbb-ec3ca89f-cad1-46ca-daa6-08deed55fa49",
+   "ad": "İki Akıntı Arasında",
+   "aciklama": "İki Akıntı Arasında, Clarissa Pinkola Estés’in Kurtlarla Koşan Kadınlar kitabında yer alan İskelet Kadın masalının açtığı metaforik alanı, Karşıyaka Vapur İskelesi’nin gündelik hareketi ve geçiş halleriyle buluşturuyor. Denizin dibine atılan, unutulan ve yeniden yüzeye çıkan İskelet Kadın; ölüm ve yaşam, kayıp ve dönüşüm, görünmezlik ve yeniden ortaya çıkış arasında salınan kadim bir anlatının taşıyıcısıdır. Sergi, masalın kendisini yeniden anlatmaktan çok, onun açtığı çağrışım alanını iskele mekânının kendine özgü ritmiyle ilişkilendiriyor.\n Deniz ile kara arasındaki bu geçiş mekânı, her gün binlerce yolcunun geliş ve gidişlerine tanıklık ediyor. Bekleme, ayrılma, kavuşma, yola çıkma ve geri dönme halleri burada sürekli yeniden üretiliyor. İskelet Kadın’ın suyun derinliklerinden yüzeye çıkışıyla iskelenin taşıdığı bu geçiş deneyimi arasında şiirsel bir yakınlık kuruluyor. \n 2024 yılında Kentler Arası Misafir Sanatçı Programı kapsamında bir araya gelen ve Misi Köyü’nün kültürel mirası etrafında ortak bir bellek deneyimi paylaşan Ayça Su Değirmenci, Çiğdem Üçüncü, Damla Yalçın ve Yekateryna Grygorenko, bu kez İskele Sergileri kapsamında yeniden bir araya geliyor. Farklı üretim pratiklerini ortak bir duygu alanında buluşturan bu sergide sanatçılar, ortak bir hikâyeyi açıklamayı ya da tek bir kavramsal çerçeve üretmeyi değil; İskelet Kadın anlatısının çağrıştırdığı imgelerin, duyguların ve dönüşüm ihtimallerinin farklı üretim biçimleri aracılığıyla nasıl karşılık bulduğunu araşt",
+   "kategori": "Kültür-Sanat",
+   "tur": "Sergi",
+   "baslangic": "2026-07-17T16:00+03:00",
+   "bitis": "2026-12-31T17:00+03:00",
+   "ucretsiz": null,
+   "yasSiniri": "",
+   "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-07-29/78da84ce-6730-40a5-b0a5-d005f53a8342-e42vxc1e.jpeg",
+   "biletUrl": null,
+   "kaynakUrl": "https://kultursanat.izmir.bel.tr",
+   "organizator": "Kültür ve Sanat Şube Müdürlüğü",
+   "mekanId": "IZM-0050",
+   "mekanMetni": "",
+   "acikKapali": "Açık",
    "kaynak": "İzmir Büyükşehir Belediyesi açık veri (CC BY 4.0)"
   },
   {
