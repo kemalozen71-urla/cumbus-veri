@@ -27,6 +27,9 @@ jobs:
       - run: pip install requests
       - name: En güncel veriyle başla
         run: git pull --ff-only origin main
+      - name: Mekân konumları (OpenStreetMap)
+        run: python toplayici/konumla.py
+        continue-on-error: true
       - run: python toplayici/topla.py
       - name: Sinema seansları
         run: python toplayici/seanslar.py
@@ -40,6 +43,7 @@ jobs:
           git config user.email "bot@cumbus.local"
           git add mekanlar.json etkinlikler.json eslesmeyen_mekanlar.json kaynak_ornegi.json
           [ -f seanslar.json ] && git add seanslar.json
+          [ -f konum_onbellek.json ] && git add konum_onbellek.json
           git add sektorler || true
           git commit -m "Etkinlik verisi ($(date +%F\ %H:%M))" || echo "Değişiklik yok"
           git pull --rebase

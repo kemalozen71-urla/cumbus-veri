@@ -131,7 +131,32 @@ def mekanlari_oku():
                 "boylam": sayi(r.get("Boylam")),
                 "durum": r.get("Durum") or "",
             })
+    konum_tamamla(mekanlar)
     return mekanlar
+
+
+def konum_tamamla(mekanlar):
+    """Koordinatı olmayan mekânlar: önce OSM önbelleği, yoksa ilçe merkezi (yaklaşık)."""
+    sys.path.insert(0, str(Path(__file__).resolve().parent))
+    from ilceler import ILCE_MERKEZ
+    yol = KOK / "konum_onbellek.json"
+    onbellek = json.loads(yol.read_text(encoding="utf-8")) if yol.exists() else {}
+    say = {"tablo": 0, "osm": 0, "ilce": 0, "yok": 0}
+    for m in mekanlar:
+        if m["enlem"] is not None and m["boylam"] is not None:
+            say["tablo"] += 1
+            continue
+        k = onbellek.get(m["id"]) or {}
+        if k.get("enlem"):
+            m["enlem"], m["boylam"] = k["enlem"], k["boylam"]
+            say["osm"] += 1
+        elif m["ilce"] in ILCE_MERKEZ:
+            m["enlem"], m["boylam"] = ILCE_MERKEZ[m["ilce"]]
+            m["konumYaklasik"] = True
+            say["ilce"] += 1
+        else:
+            say["yok"] += 1
+    print(f"konumlar: {say}")
 
 
 def eslestirici(mekanlar):

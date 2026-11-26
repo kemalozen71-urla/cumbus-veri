@@ -67,6 +67,7 @@ Arama sonucundaki her aday için:
 - Bitmiş (bitişi ya da başlangıcı dünden önce olan) kayıtları dosyadan çıkar.
 - Aynı etkinlik iki kez olmasın (ad + tarih + mekân).
 - Mekân `mekanlar.csv`'de yoksa ve kalıcı bir mekânsa `mekanlar.csv` sonuna yeni IZM numarasıyla ekle (adres ve ilçe doğrulanmış olmalı).
+- **Konum (Yakınımda özelliği buna bağlı):** `konum_onbellek.json`'a bak. Etkinliği olan bir mekânın `mekanlar.csv`'de Enlem/Boylam'ı boşsa ve önbellekte de konumu yoksa (ya da yalnızca `denendi` varsa), mekânın resmi sitesindeki, Google Maps/Apple Maps bağlantısındaki ya da güvenilir bir sayfadaki koordinatı bul ve `mekanlar.csv`'nin Enlem/Boylam sütunlarına 5–6 basamakla yaz. Koordinatın ilçeyle uyuştuğunu kontrol et (İzmir içinde, ilçe merkezine 30 km'den yakın). Her turda en az 10 mekân tamamla; önce çocuk mekânları ve etkinliği olan mekânlar. Emin olmadığın koordinatı yazma.
 - Yeni ve işe yarar kaynakları `kaynaklar.csv` sonuna KYN numarasıyla ekle; sağlıksız çıkan eski kaynakları `Not` sütununda belirt.
 
 ## 5. Raporla

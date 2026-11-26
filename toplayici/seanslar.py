@@ -31,18 +31,7 @@ H = {
 }
 
 # İlçe merkezleri (yaklaşık). Sinemanın kendi konumu yoksa mesafe buradan hesaplanır.
-ILCE_MERKEZ = {
-    "Aliağa": (38.800, 26.972), "Balçova": (38.389, 27.050), "Bayındır": (38.218, 27.648),
-    "Bayraklı": (38.462, 27.165), "Bergama": (39.120, 27.180), "Beydağ": (38.085, 28.210),
-    "Bornova": (38.466, 27.220), "Buca": (38.388, 27.175), "Çeşme": (38.324, 26.304),
-    "Çiğli": (38.495, 27.070), "Dikili": (39.070, 26.890), "Foça": (38.670, 26.757),
-    "Gaziemir": (38.320, 27.130), "Güzelbahçe": (38.370, 26.890), "Karabağlar": (38.370, 27.120),
-    "Karaburun": (38.640, 26.510), "Karşıyaka": (38.460, 27.110), "Kemalpaşa": (38.430, 27.420),
-    "Kınık": (39.087, 27.380), "Kiraz": (38.230, 28.205), "Konak": (38.418, 27.129),
-    "Menderes": (38.250, 27.130), "Menemen": (38.610, 27.070), "Narlıdere": (38.395, 26.990),
-    "Ödemiş": (38.230, 27.970), "Seferihisar": (38.197, 26.840), "Selçuk": (37.950, 27.370),
-    "Tire": (38.090, 27.730), "Torbalı": (38.150, 27.360), "Urla": (38.320, 26.765),
-}
+from ilceler import ILCE_MERKEZ  # noqa: E402
 SEMT_ILCE = {"alsancak": "Konak", "mavisehir": "Karşıyaka", "tinaztepe": "Buca", "bostanli": "Karşıyaka"}
 # Bölge listesinde çıkmayan ama Beyazperde'de seans yayımlayan sinemalar
 EK_SINEMALAR = [
