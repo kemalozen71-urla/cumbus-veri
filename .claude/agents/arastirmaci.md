@@ -53,7 +53,7 @@ Arama sonucundaki her aday için:
   "kategori": "Kültür-Sanat | Konser | Sinema | Spor | Festival | Fuar | Çocuk",
   "tur": "ör. Futbol, Çocuk tiyatrosu, İmza günü",
   "baslangic": "2026-11-29T19:00+03:00", "bitis": null,
-  "ucretsiz": true/false/null, "yasSiniri": "",
+  "ucretsiz": true/false/null, "ucret": "ör. 250 TL ya da 145–350 TL (bilinmiyorsa boş)", "yasSiniri": "",
   "gorsel": null, "biletUrl": "bilet sayfası ya da null",
   "kaynakUrl": "doğruladığın sayfa",
   "organizator": "", "mekanId": "mekanlar.csv'de varsa IZM-xxxx, yoksa null",
@@ -63,6 +63,7 @@ Arama sonucundaki her aday için:
   "dogrulandi": "2026-11-26", "dogrulamaNotu": "nereden ve nasıl teyit edildi"
 }
 ```
+- **Ücret bilgisi zorunlu alan gibi davran:** etkinliğin ücretsiz mi ücretli mi olduğunu sayfadan teyit et (`ucretsiz`: true/false). Teyit edemiyorsan `null` bırak; uygulama bunu "Ücret bilinmiyor" diye gösterir. Ücretliyse bilet fiyatını ya da fiyat aralığını `ucret` alanına yaz.
 - Bitmiş (bitişi ya da başlangıcı dünden önce olan) kayıtları dosyadan çıkar.
 - Aynı etkinlik iki kez olmasın (ad + tarih + mekân).
 - Mekân `mekanlar.csv`'de yoksa ve kalıcı bir mekânsa `mekanlar.csv` sonuna yeni IZM numarasıyla ekle (adres ve ilçe doğrulanmış olmalı).
