@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-26T11:19+03:00",
+ "guncelleme": "2026-11-26T11:38+03:00",
  "sehir": "İzmir",
  "mekanlar": [
   {
@@ -2953,6 +2953,60 @@
    "enlem": null,
    "boylam": null,
    "durum": "Kontrol edilmeli"
+  },
+  {
+   "id": "IZM-0165",
+   "ad": "Kemeraltı Nazım Hikmet Kültür Merkezi",
+   "ilce": "Konak",
+   "semt": "Kemeraltı",
+   "acikKapali": "Kapalı",
+   "kategori": "Kültür-Sanat",
+   "tur": "Kültür merkezi / sahne",
+   "adres": "OS-KA Pasajı, Anafartalar Cd. No:20, 35250 Konak",
+   "telefon": "",
+   "ulasim": "",
+   "googleMaps": "https://www.google.com/maps/search/?api=1&query=Naz%C4%B1m%20Hikmet%20K%C3%BClt%C3%BCr%20Merkezi%2C%20OS-KA%20Pasaj%C4%B1%2C%20Anafartalar%20Cd.%20No%3A20%2C%20Konak%2C%20%C4%B0zmir",
+   "appleMaps": "https://maps.apple.com/?q=Kemeralt%C4%B1%20Naz%C4%B1m%20Hikmet%20K%C3%BClt%C3%BCr%20Merkezi&address=OS-KA%20Pasaj%C4%B1%2C%20Anafartalar%20Cd.%20No%3A20%2C%20Konak%2C%20%C4%B0zmir",
+   "web": "",
+   "enlem": null,
+   "boylam": null,
+   "durum": "Aktif (Kasım-Aralık 2026 bilet satışında)"
+  },
+  {
+   "id": "IZM-0166",
+   "ad": "Paribu Cineverse MaviBahçe",
+   "ilce": "Karşıyaka",
+   "semt": "Mavişehir",
+   "acikKapali": "Kapalı",
+   "kategori": "Sinema",
+   "tur": "Sinema",
+   "adres": "Mavişehir Mah. Caher Dudayev Blv. (MaviBahçe AVM), 35540 Karşıyaka",
+   "telefon": "",
+   "ulasim": "",
+   "googleMaps": "https://www.google.com/maps/search/?api=1&query=Paribu%20Cineverse%20MaviBah%C3%A7e%2C%20Caher%20Dudayev%20Bulvar%C4%B1%2C%20Kar%C5%9F%C4%B1yaka%2C%20%C4%B0zmir",
+   "appleMaps": "https://maps.apple.com/?q=Paribu%20Cineverse%20MaviBah%C3%A7e&address=Caher%20Dudayev%20Bulvar%C4%B1%2C%20Mavi%C5%9Fehir%2C%20Kar%C5%9F%C4%B1yaka%2C%20%C4%B0zmir",
+   "web": "https://www.paribucineverse.com",
+   "enlem": null,
+   "boylam": null,
+   "durum": "Aktif (Beyazperde'de seans var)"
+  },
+  {
+   "id": "IZM-0167",
+   "ad": "Paribu Cineverse Karşıyaka Hilltown",
+   "ilce": "Karşıyaka",
+   "semt": "Yalı / Mavişehir",
+   "acikKapali": "Kapalı",
+   "kategori": "Sinema",
+   "tur": "Sinema",
+   "adres": "Yalı Mah. 6522 Sk. No:3 (Hilltown AVM), 35550 Karşıyaka",
+   "telefon": "",
+   "ulasim": "",
+   "googleMaps": "https://www.google.com/maps/search/?api=1&query=Paribu%20Cineverse%20Hilltown%2C%206522%20Sk.%20No%3A3%2C%20Kar%C5%9F%C4%B1yaka%2C%20%C4%B0zmir",
+   "appleMaps": "https://maps.apple.com/?q=Paribu%20Cineverse%20Kar%C5%9F%C4%B1yaka%20Hilltown&address=6522%20Sk.%20No%3A3%2C%20Yal%C4%B1%2C%20Kar%C5%9F%C4%B1yaka%2C%20%C4%B0zmir",
+   "web": "https://www.paribucineverse.com",
+   "enlem": null,
+   "boylam": null,
+   "durum": "Aktif (Beyazperde'de seans var)"
   }
  ]
 }
