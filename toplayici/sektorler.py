@@ -32,7 +32,7 @@ def sinema(m):
 
 def konser(m):
     t = _metin(m)
-    if spor(m):
+    if spor(m) or sinema(m):
         return False
     return m.get("Kategori") == "Konser" or any(k in t for k in (
         "konser", "tiyatro", "sahne", "opera", "canli muzik", "salon"))
