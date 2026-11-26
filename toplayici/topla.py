@@ -263,6 +263,57 @@ def yaz(ad, veri):
     (KOK / ad).write_text(json.dumps(veri, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
 
 
+def arastirma_etkinlikleri(bul, mekan_sozlugu, mevcut):
+    """Araştırmacı ajanın doğruladığı etkinlikler (arastirma/etkinlikler.json)."""
+    yol = KOK / "arastirma" / "etkinlikler.json"
+    if not yol.exists():
+        return []
+    try:
+        liste = json.loads(yol.read_text(encoding="utf-8")).get("etkinlikler") or []
+    except (ValueError, AttributeError):
+        print("arastirma/etkinlikler.json okunamadı")
+        return []
+    dun = (datetime.now(TR) - timedelta(days=1)).isoformat()
+    gorulen = {(sadelestir(e["ad"]), (e["baslangic"] or "")[:10]) for e in mevcut}
+    cikti = []
+    for e in liste:
+        if not isinstance(e, dict) or not e.get("ad") or not e.get("baslangic"):
+            continue
+        son = e.get("bitis") or e["baslangic"]
+        if son < dun[:len(son)]:
+            continue
+        anahtar = (sadelestir(e["ad"]), e["baslangic"][:10])
+        if anahtar in gorulen:
+            continue
+        gorulen.add(anahtar)
+        mekan_id = e.get("mekanId")
+        if mekan_id not in mekan_sozlugu:
+            mekan_id = bul(e.get("mekanMetni") or "") if e.get("mekanMetni") else None
+        mekan = mekan_sozlugu.get(mekan_id) or {}
+        kategori = e.get("kategori") if e.get("kategori") in KATEGORILER else "Kültür-Sanat"
+        cikti.append({
+            "id": str(e.get("id") or "ara-" + str(abs(hash(anahtar)))[:10]),
+            "ad": e["ad"],
+            "aciklama": (e.get("aciklama") or "")[:1500],
+            "kategori": kategori,
+            "tur": e.get("tur") or "",
+            "baslangic": e["baslangic"],
+            "bitis": e.get("bitis"),
+            "ucretsiz": e.get("ucretsiz") if isinstance(e.get("ucretsiz"), bool) else None,
+            "yasSiniri": e.get("yasSiniri") or "",
+            "gorsel": e.get("gorsel"),
+            "biletUrl": e.get("biletUrl"),
+            "kaynakUrl": e.get("kaynakUrl"),
+            "organizator": e.get("organizator") or "",
+            "mekanId": mekan_id,
+            "mekanMetni": "" if mekan_id else (e.get("mekanMetni") or ""),
+            "acikKapali": e.get("acikKapali") or mekan.get("acikKapali"),
+            "kaynak": e.get("kaynak") or "Cümbüş araştırması",
+        })
+    print(f"araştırma: {len(cikti)} etkinlik eklendi")
+    return cikti
+
+
 def main():
     mekanlar = mekanlari_oku()
     sozluk = {m["id"]: m for m in mekanlar}
@@ -274,6 +325,7 @@ def main():
         return
     bul = eslestirici(mekanlar)
     etkinlikler, eslesmeyen = izbb_etkinlikleri(bul, sozluk)
+    etkinlikler += arastirma_etkinlikleri(bul, sozluk, etkinlikler)
     etkinlikler.sort(key=lambda e: e["baslangic"] or "9999")
     yaz("etkinlikler.json", {
         "guncelleme": simdi,
