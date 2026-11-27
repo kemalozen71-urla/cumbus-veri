@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: [toplayici/**, arastirma/**, mekanlar.csv, mekan_adlari.json, .github/workflows/topla.yml]
+    paths: [toplayici/**, arastirma/**, mekanlar.csv, yerler.csv, mekan_adlari.json, .github/workflows/topla.yml]
 
 permissions:
   contents: write
@@ -41,7 +41,7 @@ jobs:
         run: |
           git config user.name "cumbus-bot"
           git config user.email "bot@cumbus.local"
-          git add mekanlar.json etkinlikler.json eslesmeyen_mekanlar.json kaynak_ornegi.json
+          git add mekanlar.json yerler.json etkinlikler.json eslesmeyen_mekanlar.json kaynak_ornegi.json
           [ -f seanslar.json ] && git add seanslar.json
           [ -f konum_onbellek.json ] && git add konum_onbellek.json
           git add sektorler || true

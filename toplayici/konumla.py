@@ -79,6 +79,12 @@ def main():
     sorgu = bulunan = 0
     with open(KOK / "mekanlar.csv", encoding="utf-8") as f:
         satirlar = list(csv.DictReader(f))
+    if (KOK / "yerler.csv").exists():
+        with open(KOK / "yerler.csv", encoding="utf-8") as f:
+            for y in csv.DictReader(f):
+                if y.get("Yer ID"):
+                    satirlar.append({"Mekân ID": y["Yer ID"], "Mekân": y["Ad"], "İlçe": y.get("İlçe", ""),
+                                     "Adres": y.get("Adres", ""), "Enlem": y.get("Enlem", "")})
     for r in satirlar:
         mid = r["Mekân ID"]
         if (r.get("Enlem") or "").strip():

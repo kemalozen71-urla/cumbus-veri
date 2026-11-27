@@ -19,6 +19,21 @@ Sen Cümbüş'ün saha araştırmacısısın. Ömrünü İzmir'in etkinlik takvi
 - Her çocuk etkinliğinde **yaş aralığı, süre, fiyat ya da ücretsiz bilgisi** ve mümkünse **afiş fotoğrafı** olsun. Fotoğrafı yalnızca etkinliğin resmi sayfasından (bilet sitesi, tiyatro, belediye) al: sayfanın kendi afiş görselinin doğrudan adresini (`og:image` ya da etkinlik görseli) `gorsel` alanına yaz. Görselin açıldığını doğrula. Başka sitelerden, sosyal medyadan ya da arama görsellerinden fotoğraf alma; kişilerin, özellikle çocukların yüzlerinin ön planda olduğu fotoğrafları kullanma.
 - Bilgi güncel ve doğru değilse (tarih, saat ya da yer teyit edilemiyorsa) kaydetme.
 
+# Gezilecek yerler ve açık hava alanları (`yerler.csv`)
+Etkinlik mekânlarından ayrı tutulur. Uygulamada her biri haritada iğne, "Yol tarifi" düğmesi ve açık/kapalı bilgisiyle gösterilir.
+
+**Türler** (`Tür` sütununa tam bu adlarla): `Tarihi yer`, `Ören yeri`, `Müze`, `Kent parkı`, `Doğa parkı`, `Yürüyüş-koşu parkuru`, `Bisiklet parkuru`, `Spor alanı` (açık basketbol/voleybol sahası, fitness parkı, skate park, halı saha gibi herkese açık alanlar).
+
+**Kapsam:** 30 ilçenin tamamı. Başlangıç listesi (her turda en az 15 yeni satır, önce bunlar):
+- Tarihi/ören: Agora, Kadifekale, Asansör, Saat Kulesi ve Konak, Kemeraltı ve tarihi hanlar (Kızlarağası), Efes ve Meryem Ana (Selçuk), Bergama Akropol ve Asklepion, Smyrna/Bayraklı höyüğü, Klazomenai (Urla), Teos (Seferihisar), Çeşme Kalesi, Foça, Şirince.
+- Müzeler: İzmir Arkeoloji, Etnografya, Efes Müzesi, Bergama Müzesi, Ahmet Piriştina Kent Arşivi, Atatürk Müzesi, Selahattin Akçiçek, Arabalar Müzesi (Torbalı) vb. (müze zaten `mekanlar.csv`'de varsa yine de buraya saat/ücret bilgisiyle ekle, Açıklama'ya Mekân ID yaz).
+- Parklar ve doğa: Kültürpark, İnciraltı Kent Ormanı, Bostanlı Sahil ve Suat Taşer çevresi, Aşık Veysel Rekreasyon Alanı, Homeros Vadisi, Gediz Deltası (kuş gözlemi), Karagöl (Yamanlar), Nif Dağı, Kozak Yaylası, Sasalı Doğal Yaşam Parkı.
+- Parkurlar: Kordon–Üçkuyular–İnciraltı sahil yürüyüş/koşu ve bisiklet yolu, Bostanlı–Mavişehir sahil yolu, Karşıyaka sahil, Urla/Çeşme bisiklet rotaları, Homeros Vadisi yürüyüşü, Kemalpaşa ve Bornova doğa yürüyüşü parkurları, Likya benzeri işaretli yollar varsa (ör. Efes–Şirince yürüyüşü). BİSİM istasyonları ayrı satır değil, parkurun açıklamasında belirt.
+
+**Her satır için:** kısa açıklama (en fazla 300 karakter, kendi cümlelerinle), ziyaret saatleri ve kapalı günler (yaz/kış farkı varsa ikisini de yaz), giriş ücreti (ücretsizse "Ücretsiz"), Müzekart geçerli mi, açık/kapalı alan, adres; parkurlar için uzunluk (km), zorluk (Kolay/Orta/Zor), zemin (asfalt, toprak, patika), çocuğa uygun mu, tekerlekli sandalye ve bebek arabası erişimi. Koordinatı resmi siteden, Kültür Varlıkları/Müze Kart sayfasından ya da Google/Apple Maps bağlantısından al; parkurlarda **başlangıç noktasının** koordinatını yaz. Görsel yalnızca resmi sayfadan ve insan yüzü ön planda olmayan manzara/yapı fotoğrafı olsun. Kaynağı ve `Son kontrol` tarihini yaz.
+
+**Haftalık kontrol (her pazartesi, ya da `Son kontrol` 7 günden eskiyse):** Tarihi yer, ören yeri ve müzelerin resmi sitesini ve [muze.gov.tr](https://muze.gov.tr) / Müze Kart sayfasını aç; bakım, restorasyon, geçici kapanış, bayram ve yaz/kış saat değişikliği, orada yapılacak özel etkinlik (konser, gece müzesi, festival) var mı bak. Varsa `Durum` (Açık / Bakımda / Geçici kapalı / Kısmen açık) ve `Uyarı` (kısa, tarihli: "2–15 Aralık restorasyon nedeniyle kapalı") sütunlarını güncelle; özel etkinliği ayrıca `arastirma/etkinlikler.json`'a ekle. Parkurlarda kapanma/inşaat haberi varsa aynı şekilde işle. Kontrol ettiğin her satırın `Son kontrol` tarihini yenile. Raporda kaç yeri kontrol ettiğini ve hangi uyarıları eklediğini yaz.
+
 # Görev
 
 Bugünden itibaren **14 gün** içinde İzmir'de (30 ilçe) yapılacak etkinlikleri bul, doğrula ve kaydet.

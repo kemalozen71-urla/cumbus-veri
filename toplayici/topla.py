@@ -14,6 +14,7 @@ import json
 import re
 import sys
 import unicodedata
+import urllib.parse
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
@@ -133,6 +134,58 @@ def mekanlari_oku():
             })
     konum_tamamla(mekanlar)
     return mekanlar
+
+
+def yerleri_oku():
+    """yerler.csv (gezilecek yerler, parklar, parkurlar) -> liste; harita bağlantıları koordinattan üretilir."""
+    yol = KOK / "yerler.csv"
+    if not yol.exists():
+        return []
+    sys.path.insert(0, str(Path(__file__).resolve().parent))
+    from ilceler import ILCE_MERKEZ
+    onbellek_yol = KOK / "konum_onbellek.json"
+    onbellek = json.loads(onbellek_yol.read_text(encoding="utf-8")) if onbellek_yol.exists() else {}
+
+    def sayi(x):
+        try:
+            return round(float(str(x).replace(",", ".")), 6)
+        except (TypeError, ValueError):
+            return None
+
+    yerler = []
+    with open(yol, encoding="utf-8") as f:
+        for r in csv.DictReader(f):
+            if not (r.get("Yer ID") or "").strip() or not (r.get("Ad") or "").strip():
+                continue
+            e, b = sayi(r.get("Enlem")), sayi(r.get("Boylam"))
+            yaklasik = False
+            if e is None or b is None:
+                k = onbellek.get(r["Yer ID"]) or {}
+                if k.get("enlem"):
+                    e, b = k["enlem"], k["boylam"]
+                elif r.get("İlçe") in ILCE_MERKEZ:
+                    (e, b), yaklasik = ILCE_MERKEZ[r["İlçe"]], True
+            ad = r["Ad"].strip()
+            q = urllib.parse.quote(ad)
+            yerler.append({
+                "id": r["Yer ID"].strip(), "ad": ad, "tur": r.get("Tür") or "",
+                "ilce": r.get("İlçe") or "", "semt": r.get("Semt") or "",
+                "acikKapali": r.get("Açık / Kapalı") or "Açık",
+                "aciklama": r.get("Açıklama") or "", "saatler": r.get("Ziyaret saatleri") or "",
+                "kapaliGunler": r.get("Kapalı günler") or "", "ucret": r.get("Giriş ücreti") or "",
+                "muzekart": r.get("Müzekart") or "", "uzunlukKm": sayi(r.get("Uzunluk (km)")),
+                "zorluk": r.get("Zorluk") or "", "zemin": r.get("Zemin") or "",
+                "cocugaUygun": r.get("Çocuğa uygun") or "", "erisilebilirlik": r.get("Erişilebilirlik") or "",
+                "adres": r.get("Adres") or "", "enlem": e, "boylam": b, "konumYaklasik": yaklasik,
+                "web": r.get("Web sitesi") or "", "gorsel": r.get("Görsel") or None,
+                "durum": r.get("Durum") or "", "uyari": r.get("Uyarı") or "",
+                "sonKontrol": r.get("Son kontrol") or "", "kaynak": r.get("Kaynak") or "",
+                "googleMaps": f"https://www.google.com/maps/search/?api=1&query={e},{b}" if e and not yaklasik
+                else f"https://www.google.com/maps/search/?api=1&query={q}%20{urllib.parse.quote(r.get('İlçe') or '')}%20İzmir",
+                "appleMaps": f"https://maps.apple.com/?ll={e},{b}&q={q}" if e and not yaklasik
+                else f"https://maps.apple.com/?q={q}%20{urllib.parse.quote(r.get('İlçe') or '')}%20İzmir",
+            })
+    return yerler
 
 
 def konum_tamamla(mekanlar):
@@ -367,6 +420,9 @@ def main():
     simdi = iso(datetime.now(TR))
     yaz("mekanlar.json", {"guncelleme": simdi, "sehir": "İzmir", "mekanlar": mekanlar})
     print(f"mekanlar.json: {len(mekanlar)} mekân")
+    yerler = yerleri_oku()
+    yaz("yerler.json", {"guncelleme": simdi, "sehir": "İzmir", "yerler": yerler})
+    print(f"yerler.json: {len(yerler)} yer")
 
     if "--sadece-mekan" in sys.argv:
         return
