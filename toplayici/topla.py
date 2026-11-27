@@ -286,6 +286,33 @@ def ucret_duzeltmeleri(etkinlikler):
     print(f"ücret düzeltmesi: {say} etkinlik")
 
 
+ALT_KATEGORI_KURALLARI = [
+    ("Opera ve Bale", r"\bopera|\bbale\b|balet"),
+    ("Müzikal", r"\bmuzikal\b"),
+    ("Stand-up", r"stand.?up|talk show|tek kisilik komedi gosterisi"),
+    ("Dans", r"\bdans|flamenko|tango|modern dans"),
+    ("Söyleşi ve İmza", r"soylesi|imza gunu|\bimza\b|panel|konferans|sempozyum|siir|edebiyat|kitap okuma|sohbet"),
+    ("Atölye", r"atolye|workshop|\bkurs\b|sahne arkasi|egitim programi"),
+    ("Film gösterimi", r"film gosterim|gosterim|belgesel|film festival|sinema gunleri|kisa film"),
+    ("Sergi", r"\bsergi|muze|fotograf|resim|heykel|bienal"),
+    ("Tiyatro", r"tiyatro|\boyun\b|komedi|dram|trajedi|dogaclama|\bfars\b|sahne"),
+]
+
+
+def alt_kategori_bul(e) -> str:
+    """Kültür-Sanat etkinliğinin alt başlığı: önce tür, sonra ad, sonra açıklamanın başı."""
+    if e.get("kategori") != "Kültür-Sanat":
+        return ""
+    for metin in (e.get("tur") or "", e.get("ad") or "", (e.get("aciklama") or "")[:250]):
+        m = sadelestir(metin)
+        if not m or m in ("genel", "diger"):
+            continue
+        for ad, desen in ALT_KATEGORI_KURALLARI:
+            if re.search(desen, m):
+                return ad
+    return "Diğer"
+
+
 def yas_araligi(metin: str):
     """'3-10', '7+', '6 yaş ve üzeri', '0-3 ay' gibi metinleri (en küçük, en büyük) yaşa çevirir.
     Bilinmiyorsa (None, None). Üst sınır yoksa en büyük yaş None."""
@@ -477,6 +504,7 @@ def main():
     ucret_duzeltmeleri(etkinlikler)
     for e in etkinlikler:
         e["yasMin"], e["yasMax"] = yas_araligi(e.get("yasSiniri", ""))
+        e["altKategori"] = alt_kategori_bul(e)
     yaz("etkinlikler.json", {
         "guncelleme": simdi,
         "sehir": "İzmir",

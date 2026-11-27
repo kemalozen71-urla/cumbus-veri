@@ -52,6 +52,8 @@ Sorguda tarih kullan ("bu hafta", "29 Kasım", "Aralık 2026"). Başlıklar ve �
 - **İlçe ilçe:** her ilçe için "<ilçe> etkinlik bu hafta", "<ilçe> konser", "<ilçe> çocuk tiyatrosu", "<ilçe> maç" gibi taramalar. Özellikle Karşıyaka, Bornova, Buca, Bayraklı, Çiğli, Karabağlar, Konak, Urla, Çeşme, Seferihisar, Menemen.
 - **Sinema eksikleri:** Beyazperde'de olmayan ya da seansı boş görünen sinemalar (ör. Karşıyaka: Paribu Cineverse Mavibahçe, Hilltown, EgePark). Kendi sitelerinde ya da başka seans sitelerinde seans yayımlıyorlar mı, not et.
 
+**Kültür-Sanat alt başlıkları:** Uygulamada Kültür-Sanat; Tiyatro, Stand-up, Sergi, Opera ve Bale, Müzikal, Dans, Söyleşi ve İmza, Atölye, Film gösterimi kutularına ayrılır. Zayıf kalan başlıkları her turda ayrıca ara: söyleşi, imza günü, şiir/edebiyat akşamı (kitapçılar, kütüphaneler, kültür merkezleri), film gösterimi ve festivali (sinematek, kültür merkezleri, konsolosluk kültür enstitüleri), dans gösterisi, müzikal, atölye (seramik, resim, fotoğraf). `tur` alanına alt başlığı açıkça belirten bir ifade yaz (ör. "Söyleşi", "İmza günü", "Film gösterimi", "Dans gösterisi", "Müzikal", "Atölye").
+
 ## 3. Her bağlantıyı doğrula
 Arama sonucundaki her aday için:
 1. Sayfayı **WebFetch ile aç**. Açılmıyorsa, 404/yönlendirme/boşsa: "sağlıksız" say, kaydetme.
