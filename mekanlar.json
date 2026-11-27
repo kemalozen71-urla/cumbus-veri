@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-27T11:22+03:00",
+ "guncelleme": "2026-11-27T11:56+03:00",
  "sehir": "İzmir",
  "mekanlar": [
   {
@@ -3326,6 +3326,61 @@
    "enlem": 38.32,
    "boylam": 26.765,
    "durum": "Aktif (Kasım–Aralık 2026 etkinlik)",
+   "konumYaklasik": true
+  },
+  {
+   "id": "IZM-0180",
+   "ad": "Yeni Buca Stadı (Buca Arena)",
+   "ilce": "Buca",
+   "semt": "Evka-1",
+   "acikKapali": "Açık",
+   "kategori": "Spor",
+   "tur": "Futbol stadı",
+   "adres": "Buca (Evka-1 civarı)",
+   "telefon": "",
+   "ulasim": "",
+   "googleMaps": "https://www.google.com/maps/search/?api=1&query=38.395,27.19309",
+   "appleMaps": "https://maps.apple.com/?ll=38.395,27.19309&q=Yeni%20Buca%20Stad%C4%B1%20%28Buca%20Arena%29",
+   "web": "",
+   "enlem": 38.395,
+   "boylam": 27.19309,
+   "durum": "Aktif (Kasım 2026 maç)"
+  },
+  {
+   "id": "IZM-0181",
+   "ad": "Bornova Aziz Kocaoğlu Stadyumu",
+   "ilce": "Bornova",
+   "semt": "Doğanlar",
+   "acikKapali": "Açık",
+   "kategori": "Spor",
+   "tur": "Futbol stadı",
+   "adres": "Doğanlar Mah. 1412 Sk. No:3, 35050 Bornova",
+   "telefon": "",
+   "ulasim": "",
+   "googleMaps": "https://www.google.com/maps/search/?api=1&query=38.44703,27.26182",
+   "appleMaps": "https://maps.apple.com/?ll=38.44703,27.26182&q=Bornova%20Aziz%20Kocao%C4%9Flu%20Stadyumu",
+   "web": "",
+   "enlem": 38.44703,
+   "boylam": 27.26182,
+   "durum": "Aktif (Kasım 2026 maç)"
+  },
+  {
+   "id": "IZM-0182",
+   "ad": "Aliağa Atatürk Stadı",
+   "ilce": "Aliağa",
+   "semt": "Siteler",
+   "acikKapali": "Açık",
+   "kategori": "Spor",
+   "tur": "Futbol stadı",
+   "adres": "Siteler Mah. Aygaz Cad. No:42, 35800 Aliağa",
+   "telefon": "",
+   "ulasim": "",
+   "googleMaps": "https://www.google.com/maps/search/?api=1&query=Alia%C4%9Fa%20Atat%C3%BCrk%20Stad%C4%B1%2C%20Siteler%20Mah.%20Aygaz%20Cad.%20No%3A42%2C%2035800%20Alia%C4%9Fa%2C%20%C4%B0zmir",
+   "appleMaps": "https://maps.apple.com/?q=Alia%C4%9Fa%20Atat%C3%BCrk%20Stad%C4%B1&address=Siteler%20Mah.%20Aygaz%20Cad.%20No%3A42%2C%2035800%20Alia%C4%9Fa%2C%20%C4%B0zmir",
+   "web": "",
+   "enlem": 38.8,
+   "boylam": 26.972,
+   "durum": "Aktif (Kasım 2026 maç)",
    "konumYaklasik": true
   }
  ]

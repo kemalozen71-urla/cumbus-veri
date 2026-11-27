@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-27T11:22+03:00",
+ "guncelleme": "2026-11-27T11:56+03:00",
  "sehir": "İzmir",
  "kategoriler": [
   "Kültür-Sanat",
@@ -726,8 +726,8 @@
    "biletUrl": null,
    "kaynakUrl": "https://canligaste.com/super-lig-13-hafta-1-lig-16-hafta-maclari-oynanacak/958324",
    "organizator": "Bucaspor 1928",
-   "mekanId": null,
-   "mekanMetni": "Yeni Buca Stadı (Buca Arena), Buca",
+   "mekanId": "IZM-0180",
+   "mekanMetni": "",
    "acikKapali": "Açık",
    "kaynak": "Canlı Gaste (AA haftanın programı)"
   },
@@ -746,8 +746,8 @@
    "biletUrl": null,
    "kaynakUrl": "https://canligaste.com/super-lig-13-hafta-1-lig-16-hafta-maclari-oynanacak/958324",
    "organizator": "Aliağa Futbol A.Ş.",
-   "mekanId": null,
-   "mekanMetni": "Aliağa Atatürk Stadı, Aliağa",
+   "mekanId": "IZM-0182",
+   "mekanMetni": "",
    "acikKapali": "Açık",
    "kaynak": "Canlı Gaste (AA haftanın programı)"
   },
