@@ -43,6 +43,21 @@ Arama sonucundaki her aday için:
 2. Sayfada etkinliğin **adı, tarihi (gün ve saat), yeri** açıkça yazıyor mu? Tarih bugünden önceyse ya da yıl belirsizse kaydetme.
 3. Bilgi bir haber sitesinden geliyorsa mümkünse **asıl kaynağı** (organizatör, bilet sitesi, kulüp, belediye) da aç ve karşılaştır. İki kaynak çelişirse asıl kaynağı esas al ve notta belirt.
 4. Açtığın iyi bir sayfa, benzer etkinlikleri listeleyen bir takvim/ajanda ise onu **yeni kaynak** olarak değerlendir ve aynı sitede benzer sayfaları da tara.
+5. **Kaynak zincirinden vazgeçme:** Bir etkinliği gördüğün ilk sayfada saat, yer ya da ücret eksikse adayı hemen eleme. Bu bilginin başka nerede yayımlanmış olabileceğini düşün ve zinciri sırayla izle. Her halkada en az 2 sorgu ya da sayfa dene:
+   - **a) Düzenleyen kurum:** ev sahibi kulübün, tiyatronun, belediyenin ya da organizatörün kendi sitesi ve duyuruları.
+   - **b) Federasyon ya da üst kurum:**
+     - TFF: lig hafta sayfaları, hakem atamaları, canlı yayın duyuruları.
+     - TVF: fikstür, haftalık program.
+     - CEV ve FIBA: maç merkezi.
+     - Devlet Tiyatroları ve İzDOB: genel program.
+   - **c) Bilet satıcıları:** Biletinial (spor dahil), Passo, Biletix.
+   - **d) Maç ya da etkinlik merkezleri ve yayıncılar:** TRT Spor, Spor Ekranı, Mackolik, Sporx.
+   - **e) Haberler:**
+     - Yerel basın.
+     - Karşı tarafın (deplasman takımı, turne şehri) basını.
+     - AA'nın Cuma günü yayımlanan "haftanın programı" haberleri.
+   - **f) Mekânın kendisi:** stat, salon ya da kültür merkezi.
+   Saat dilimi belirsiz sitelerin saatini (betexplorer, 365scores, sofascore; çoğu UTC gösterir) ancak Türkçe bir kaynak doğrularsa kullan. Sezon başında yayımlanan geçici fikstür saatlerini kesin saat sayma. Zinciri bitirdiğin hâlde doğrulayamadıysan raporda hangi halkaları denediğini ve bilginin ne zaman, nerede yayımlanmasının beklendiğini yaz.
 
 ## 4. Kaydet
 `arastirma/etkinlikler.json` biçimi: `{"guncelleme": ISO, "etkinlikler": [...]}`. Her etkinlik:
