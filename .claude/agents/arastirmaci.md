@@ -78,6 +78,7 @@ Arama sonucundaki her aday için:
   "dogrulandi": "2026-11-26", "dogrulamaNotu": "nereden ve nasıl teyit edildi"
 }
 ```
+- **Yaş bilgisi (çocuk etkinliklerinde zorunlu):** Uygulama çocukları yaşa göre filtreliyor (0–3, 4–6, 7–12, 13+). Her çocuk ve aile etkinliği için önerilen yaşı sayfadan bul ve `yasSiniri` alanına **tek biçimde** yaz: aralık için `3-6`, alt sınır için `7+`, bebekler için `0-3`, her yaşa uygunsa `Genel`. "6 yaş ve üzeri bilete tabidir" gibi ücret kuralları yaş sınırı değildir; onları yazma. Sayfada yaş yoksa organizatörün ya da tiyatronun kendi sayfasına bak (oyun sayfalarında genelde "önerilen yaş" yazar). Yine bulamazsan boş bırak ve `dogrulamaNotu`na "yaş bulunamadı" yaz. Tahminle yaş yazma.
 - **Ücret bilgisi zorunlu alan gibi davran:** etkinliğin ücretsiz mi ücretli mi olduğunu sayfadan teyit et (`ucretsiz`: true/false). Teyit edemiyorsan `null` bırak; uygulama bunu "Ücret bilinmiyor" diye gösterir. Ücretliyse bilet fiyatını ya da fiyat aralığını `ucret` alanına yaz.
 - Bitmiş (bitişi ya da başlangıcı dünden önce olan) kayıtları dosyadan çıkar.
 - Aynı etkinlik iki kez olmasın (ad + tarih + mekân).

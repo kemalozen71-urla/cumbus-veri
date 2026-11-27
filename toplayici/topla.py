@@ -193,6 +193,26 @@ KAT_KURALLARI = [
 ]
 
 
+def yas_araligi(metin: str):
+    """'3-10', '7+', '6 yaş ve üzeri', '0-3 ay' gibi metinleri (en küçük, en büyük) yaşa çevirir.
+    Bilinmiyorsa (None, None). Üst sınır yoksa en büyük yaş None."""
+    s = (metin or "").lower()
+    if not s or "bilete tabi" in s or "ücret" in s:
+        return None, None
+    m = re.search(r"(\d{1,2})\s*(?:-|–|ile)\s*(\d{1,2})", s)
+    if m:
+        a, b = int(m.group(1)), int(m.group(2))
+        if " ay" in s and b <= 36:  # bebek etkinlikleri: aylar
+            return 0, max(0, b // 12)
+        return (a, b) if a <= b else (b, a)
+    m = re.search(r"(\d{1,2})\s*(?:\+|yaş ve üzeri|yaş üstü|yaşından büyük)", s)
+    if m:
+        return int(m.group(1)), None
+    if "genel" in s or "her yaş" in s:
+        return 0, None
+    return None, None
+
+
 def kategori_bul(tur: str, ad: str, yas: str) -> str:
     t = sadelestir(tur)
     for kat, kelimeler in KAT_KURALLARI:
@@ -354,6 +374,8 @@ def main():
     etkinlikler, eslesmeyen = izbb_etkinlikleri(bul, sozluk)
     etkinlikler += arastirma_etkinlikleri(bul, sozluk, etkinlikler)
     etkinlikler.sort(key=lambda e: e["baslangic"] or "9999")
+    for e in etkinlikler:
+        e["yasMin"], e["yasMax"] = yas_araligi(e.get("yasSiniri", ""))
     yaz("etkinlikler.json", {
         "guncelleme": simdi,
         "sehir": "İzmir",
