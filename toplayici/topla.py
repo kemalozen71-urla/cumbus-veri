@@ -246,6 +246,46 @@ KAT_KURALLARI = [
 ]
 
 
+BILETLI = re.compile(r"bilet\s*sat[ıi][şs]|biletinial|biletix|passo\.com|bubilet|mobilet|bilet fiyat|giri[şs] [üu]cret", re.I)
+
+
+def fiyat_bul(metin: str) -> str:
+    """Açıklamadaki TL fiyatlarından '250 TL' ya da '150–350 TL' üretir; yoksa ''."""
+    sayilar = []
+    for m in re.finditer(r"(?:₺\s*(\d{2,5})(?:[.,]\d{2})?)|(?:(\d{2,5})(?:[.,]\d{2})?\s*(?:TL|₺|lira))", metin or "", re.I):
+        n = int(m.group(1) or m.group(2))
+        if 10 <= n <= 20000:
+            sayilar.append(n)
+    if not sayilar:
+        return ""
+    a, b = min(sayilar), max(sayilar)
+    return f"{a} TL" if a == b else f"{a}–{b} TL"
+
+
+def ucret_duzeltmeleri(etkinlikler):
+    """arastirma/ucretler.json: ajanın bilet sitelerinden doğruladığı ücretler (kimliğe göre)."""
+    yol = KOK / "arastirma" / "ucretler.json"
+    if not yol.exists():
+        return
+    try:
+        d = json.loads(yol.read_text(encoding="utf-8")).get("ucretler") or {}
+    except (ValueError, AttributeError):
+        return
+    say = 0
+    for e in etkinlikler:
+        k = d.get(e["id"])
+        if not k:
+            continue
+        if isinstance(k.get("ucretsiz"), bool):
+            e["ucretsiz"] = k["ucretsiz"]
+        if k.get("ucret"):
+            e["ucret"] = k["ucret"]
+        if k.get("biletUrl") and not e.get("biletUrl"):
+            e["biletUrl"] = k["biletUrl"]
+        say += 1
+    print(f"ücret düzeltmesi: {say} etkinlik")
+
+
 def yas_araligi(metin: str):
     """'3-10', '7+', '6 yaş ve üzeri', '0-3 ay' gibi metinleri (en küçük, en büyük) yaşa çevirir.
     Bilinmiyorsa (None, None). Üst sınır yoksa en büyük yaş None."""
@@ -332,6 +372,9 @@ def izbb_etkinlikleri(bul, mekan_sozlugu):
             u = sadelestir(ucretsiz)
             ucretsiz = True if ("ucretsiz" in u or u.strip() in ("true", "evet")) else (
                 False if u.strip() else None)
+        ucret = fiyat_bul(aciklama)
+        if ucretsiz is None and (ucret or BILETLI.search(aciklama)):
+            ucretsiz = False
         gorsel = sec(r, "gorselUrl", "Resim", "BuyukAfis", "KucukAfis", "Gorsel", "Afis", "ResimUrl")
         kid = sec(r, "Id", "EtkinlikId", "ID")
         cikti.append({
@@ -343,11 +386,12 @@ def izbb_etkinlikleri(bul, mekan_sozlugu):
             "baslangic": iso(basla),
             "bitis": iso(bitis),
             "ucretsiz": ucretsiz if isinstance(ucretsiz, bool) else None,
-            "ucret": "",
+            "ucret": ucret if ucretsiz is False else "",
             "yasSiniri": yas,
             "gorsel": gorsel if isinstance(gorsel, str) and gorsel.startswith("http") else None,
             "biletUrl": sec(r, "BiletSatisLinki", "BiletLinki", "BiletUrl"),
-            "kaynakUrl": sec(r, "EtkinlikUrl", "Url", "Link") or "https://kultursanat.izmir.bel.tr",
+            "kaynakUrl": sec(r, "EtkinlikUrl", "Url", "Link")
+            or (f"https://kultursanat.izmir.bel.tr/etkinlik/{kid}" if kid else "https://kultursanat.izmir.bel.tr"),
             "organizator": temiz_metin(adlar(sec(r, "organizator", "Duzenleyen", "Organizatoru"))),
             "mekanId": mekan_id,
             "mekanMetni": mekan_metni,
@@ -430,6 +474,7 @@ def main():
     etkinlikler, eslesmeyen = izbb_etkinlikleri(bul, sozluk)
     etkinlikler += arastirma_etkinlikleri(bul, sozluk, etkinlikler)
     etkinlikler.sort(key=lambda e: e["baslangic"] or "9999")
+    ucret_duzeltmeleri(etkinlikler)
     for e in etkinlikler:
         e["yasMin"], e["yasMax"] = yas_araligi(e.get("yasSiniri", ""))
     yaz("etkinlikler.json", {

@@ -1,0 +1,12 @@
+{
+ "aciklama": "Ajanın bilet sitelerinden doğruladığı ücretler. Anahtar: etkinlikler.json içindeki id.",
+ "ucretler": {
+  "izbb-de844503-6f92-4c32-9fb1-b2c1cbbcffa6": {
+   "ucretsiz": false,
+   "ucret": "250 TL",
+   "kaynakUrl": "https://kultursanat.izmir.bel.tr/etkinlik/de844503-6f92-4c32-9fb1-b2c1cbbcffa6",
+   "dogrulandi": "2026-11-27",
+   "not": "Resmi salon planında tüm bloklar 250 TL (kullanıcı teyidi)"
+  }
+ }
+}
