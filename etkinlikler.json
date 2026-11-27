@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-27T21:18+03:00",
+ "guncelleme": "2026-11-27T21:51+03:00",
  "sehir": "İzmir",
  "kategoriler": [
   "Kültür-Sanat",
@@ -31,7 +31,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "İzmir Büyükşehir Belediyesi açık veri (CC BY 4.0)",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Sergi"
   },
   {
    "id": "izbb-6c42f24c-82ac-471c-835d-cc1f9af29c91",
@@ -53,7 +54,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "İzmir Büyükşehir Belediyesi açık veri (CC BY 4.0)",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Sergi"
   },
   {
    "id": "izbb-ec3ca89f-cad1-46ca-daa6-08deed55fa49",
@@ -75,7 +77,8 @@
    "acikKapali": "Açık",
    "kaynak": "İzmir Büyükşehir Belediyesi açık veri (CC BY 4.0)",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Sergi"
   },
   {
    "id": "izbb-e7b55c19-8ea6-4d27-91a6-9e0f4d7951f4",
@@ -97,7 +100,8 @@
    "acikKapali": "Duruma göre",
    "kaynak": "İzmir Büyükşehir Belediyesi açık veri (CC BY 4.0)",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Sergi"
   },
   {
    "id": "izbb-a6b0ed8d-f32b-467f-8b47-b5aed07264dd",
@@ -119,7 +123,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "İzmir Büyükşehir Belediyesi açık veri (CC BY 4.0)",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Sergi"
   },
   {
    "id": "izbb-78fd032f-7616-418c-826f-72a9d6818c6a",
@@ -141,7 +146,8 @@
    "acikKapali": null,
    "kaynak": "İzmir Büyükşehir Belediyesi açık veri (CC BY 4.0)",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Sergi"
   },
   {
    "id": "izbb-b0ceb058-bd0c-4196-8a7d-35939a76d019",
@@ -163,7 +169,8 @@
    "acikKapali": null,
    "kaynak": "İzmir Büyükşehir Belediyesi açık veri (CC BY 4.0)",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Sergi"
   },
   {
    "id": "izbb-b87e2a71-4076-4a69-82cf-c0695ab211c3",
@@ -185,7 +192,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "İzmir Büyükşehir Belediyesi açık veri (CC BY 4.0)",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Diğer"
   },
   {
    "id": "izbb-bc568da4-2946-475f-851d-8e93eeb74502",
@@ -207,7 +215,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "İzmir Büyükşehir Belediyesi açık veri (CC BY 4.0)",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Sergi"
   },
   {
    "id": "izbb-31d75d2f-81eb-4905-a036-53c71bd04153",
@@ -229,7 +238,8 @@
    "acikKapali": null,
    "kaynak": "İzmir Büyükşehir Belediyesi açık veri (CC BY 4.0)",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Sergi"
   },
   {
    "id": "izbb-61524520-336b-4d20-9240-f0a4d341960c",
@@ -251,7 +261,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "İzmir Büyükşehir Belediyesi açık veri (CC BY 4.0)",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Sergi"
   },
   {
    "id": "izbb-e244ec1a-5712-46ff-9c7c-04133ea1fa41",
@@ -273,7 +284,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "İzmir Büyükşehir Belediyesi açık veri (CC BY 4.0)",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Sergi"
   },
   {
    "id": "izbb-9866a6fa-e9c6-49af-9ee6-c0f77f4d1da1",
@@ -295,7 +307,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "İzmir Büyükşehir Belediyesi açık veri (CC BY 4.0)",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Diğer"
   },
   {
    "id": "izbb-2213ac80-9d3a-4ae3-82e2-049e82398942",
@@ -317,7 +330,8 @@
    "acikKapali": null,
    "kaynak": "İzmir Büyükşehir Belediyesi açık veri (CC BY 4.0)",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Sergi"
   },
   {
    "id": "izbb-688ebb2e-b032-4bc4-9405-5a7c860a4710",
@@ -339,51 +353,8 @@
    "acikKapali": null,
    "kaynak": "İzmir Büyükşehir Belediyesi açık veri (CC BY 4.0)",
    "yasMin": null,
-   "yasMax": null
-  },
-  {
-   "id": "izbb-fb0091a8-7130-454a-93d8-561e077410ec",
-   "ad": "Yenilmez",
-   "aciklama": "YAZAN: TORBEN BETTS\nÇEVİREN: NAZLI GÖZDE YOLCU\nYÖNETEN: OZAN ÇOLAK \nYARDIMCI YÖNETMEN: SELİN KAHRAMAN \nSAHNE TASARIMI: ANIL ATEŞ IŞIK \nKOSTÜM TASARIMI: DENİZ BİLGİLİ \nIŞIK TASARIM: AYŞE SEDEF AYTER\n\nOYUNCULAR: \nEMİLY: IŞIL KESKİN \nOLİVER: CANDAŞ YILANCI \nDAWN: FERAHİ AKSAVAŞ\nALAN: BURAK TALI\n\nSAHNE AMİRİ: NİMET ERDEM\nTEKNİK SORUMLU: HAYRİ KURT \nIŞIK UYGULAMA: SEMİH PAMUKÇU\nKONDÜVİT: MEHMET UĞUR YILMAZ \nSAHNE MAKİNİSTİ: ALİ KIRMIZIAY\nSAHNE MAKİNİSTİ: HAKAN DAĞLI \nSAHNE TERZİSİ: TÜRKAN EZGİ ERCAN, BERNA YILMAZ KART",
-   "kategori": "Kültür-Sanat",
-   "tur": "Tiyatro, Genel",
-   "baslangic": "2026-11-27T20:00+03:00",
-   "bitis": "2026-11-27T21:30+03:00",
-   "ucretsiz": null,
-   "ucret": "",
-   "yasSiniri": "16 yaş ve üzeri",
-   "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-11-12/6bf0a2f1-8da1-4e1a-b1d5-88be2b247149-g0hfgjd3.jpeg",
-   "biletUrl": null,
-   "kaynakUrl": "https://kultursanat.izmir.bel.tr/etkinlik/fb0091a8-7130-454a-93d8-561e077410ec",
-   "organizator": "Şehir Tiyatroları Şube Müdürlüğü",
-   "mekanId": null,
-   "mekanMetni": "",
-   "acikKapali": null,
-   "kaynak": "İzmir Büyükşehir Belediyesi açık veri (CC BY 4.0)",
-   "yasMin": 16,
-   "yasMax": null
-  },
-  {
-   "id": "izbb-de844503-6f92-4c32-9fb1-b2c1cbbcffa6",
-   "ad": "İzmir Devlet Senfoni Orkestrası 27 Kasım 2026 Konseri",
-   "aciklama": "İzmir Devlet Senfoni Orkestrası'nın 27 Kasım 2026 Cuma akşamı saat 20.00’de Ahmed Adnan Saygun Sanat Merkezi’nde gerçekleştireceği konseri Hasan Niyazi Tura yönetecek. Konsere solist olarak Piyanist Florian Uhlig katılacak.\nProgram:\nW.A.MOZART / Idomeno Uvertür (İzmir’de ilk Seslendiriliş)\nR.SCHUMANN / Piyano Konçertosu\nW.A MOZART / Senfoni No.29\n\nBilet satış: biletinial.com\nİletişim: 0(232) 463 06 85 / 86\nGişe: 0(232) 463 06 80\n\nEtkinlik Kuralları:\n-Etkinlik başlangıç saatinden en az 1 saat önce biletle birlikte sanat merkezi kapısında olacak şekilde hazır olunması gerekmektedir.\n-Salon kapıları etkinlik başlamadan yarım saat önce açılır.\n-Seyirci etkinlik başladıktan sonra sadece ilk 15 dakika alkış aralarında salona alınır.\n-Salona su dışında yiyecek, içecek kesinlikle alınmaz.\n-Etkinlikler sırasında sessiz olunması ve telefonların kapalı/sessiz konumda tutulması gerekmektedir.\n-Etkinlik bitiminde çıkışlar aynı kapıdan yapılır.\n-Konser ya da etkinlik bittikten sonra kutlama, imza ve fotoğraf çekimi 1. kat fuaye alanında gerçekleşir.\n-Yağışlı günlerde vestiyer kullanılması gerekmektedir, ıslak şemsiye ile salona girilmez.\n-Etkinlik bittikten sonra sahneye çıkmak yasaktır.\n-Etkinlik mekanına kamera ve fotoğraf makinası sokmak yasaktır.",
-   "kategori": "Konser",
-   "tur": "Konser, Genel",
-   "baslangic": "2026-11-27T20:00+03:00",
-   "bitis": "2026-11-27T21:30+03:00",
-   "ucretsiz": false,
-   "ucret": "250 TL",
-   "yasSiniri": "6 yaş ve üzeri",
-   "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-10-26/309a81a0-5326-4c8d-804a-bdeb4220815e-h4fijzaj.jpeg",
-   "biletUrl": null,
-   "kaynakUrl": "https://kultursanat.izmir.bel.tr/etkinlik/de844503-6f92-4c32-9fb1-b2c1cbbcffa6",
-   "organizator": "AASSM Şube Müdürlüğü",
-   "mekanId": "IZM-0001",
-   "mekanMetni": "",
-   "acikKapali": "Kapalı",
-   "kaynak": "İzmir Büyükşehir Belediyesi açık veri (CC BY 4.0)",
-   "yasMin": 6,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Sergi"
   },
   {
    "id": "ara-bir-dus-gibi-20261127-20",
@@ -405,7 +376,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Yeni Bakış",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Tiyatro"
   },
   {
    "id": "ara-jarozzy-20261127",
@@ -427,7 +399,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 18,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "ara-bagdat-ruzgarinda-dokuz-kadin-20261127-2000",
@@ -449,7 +422,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 16,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Tiyatro"
   },
   {
    "id": "ara-rustemoglu-cemal-20261127-2000",
@@ -471,7 +445,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 8,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Tiyatro"
   },
   {
    "id": "ara-toremiz-bu-muydu-20261127-2030",
@@ -493,7 +468,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 16,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Tiyatro"
   },
   {
    "id": "ara-prometheus-maske-20261127-2030",
@@ -515,7 +491,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 16,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Tiyatro"
   },
   {
    "id": "ara-batu-mutlugil-20261127",
@@ -537,7 +514,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "ara-buyuk-ev-ablukada-20261127",
@@ -559,7 +537,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 6,
-   "yasMax": 14
+   "yasMax": 14,
+   "altKategori": ""
   },
   {
    "id": "ara-oi-va-voi-20261127",
@@ -581,7 +560,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "ara-selcuk-zeytin-festivali-2026",
@@ -603,7 +583,8 @@
    "acikKapali": "Açık",
    "kaynak": "Yeni Bakış",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "ara-karlar-ulkesi-kar-partisi-20261128",
@@ -625,7 +606,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 3,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "ara-noel-babanin-geyikleri-20261128",
@@ -647,7 +629,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 2,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "ara-pijimaske-is-basina-20261128",
@@ -669,7 +652,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "izmirmag + bilettakvimi",
    "yasMin": 2,
-   "yasMax": 10
+   "yasMax": 10,
+   "altKategori": ""
   },
   {
    "id": "ara-ters-yuz-baykus-20261128",
@@ -691,7 +675,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 3,
-   "yasMax": 6
+   "yasMax": 6,
+   "altKategori": ""
   },
   {
    "id": "ara-sirin-mavisler-zorlu-yaris-20261128",
@@ -713,7 +698,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 3,
-   "yasMax": 10
+   "yasMax": 10,
+   "altKategori": ""
   },
   {
    "id": "ara-bir-dus-gibi-20261128-15",
@@ -735,7 +721,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Yeni Bakış",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Tiyatro"
   },
   {
    "id": "ara-bagdat-ruzgarinda-dokuz-kadin-20261128-1500",
@@ -757,7 +744,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 16,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Tiyatro"
   },
   {
    "id": "ara-bucaspor-bigaspor-20261128-1530",
@@ -779,7 +767,8 @@
    "acikKapali": "Açık",
    "kaynak": "Canlı Gaste (AA haftanın programı)",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "ara-aliaga-kastamonuspor-20261128-1530",
@@ -801,7 +790,8 @@
    "acikKapali": "Açık",
    "kaynak": "Canlı Gaste (AA haftanın programı)",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "ara-hayalbazlar-dus-pesinde-20261128",
@@ -823,7 +813,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 3,
-   "yasMax": 10
+   "yasMax": 10,
+   "altKategori": ""
   },
   {
    "id": "izbb-33118b1e-fbb6-46e3-a2f1-dd4ec991cfb7",
@@ -845,7 +836,8 @@
    "acikKapali": "Duruma göre",
    "kaynak": "İzmir Büyükşehir Belediyesi açık veri (CC BY 4.0)",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "ara-paw-patrol-festival-macerasi-20261128",
@@ -867,7 +859,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 3,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "ara-pink-pig-20261128",
@@ -889,7 +882,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 3,
-   "yasMax": 10
+   "yasMax": 10,
+   "altKategori": ""
   },
   {
    "id": "ara-altinordu-bahcelievler-voleybol-20261128-1600",
@@ -911,7 +905,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "ara-napolitan-caz-bademler-20261128-1900",
@@ -933,7 +928,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "izmirmag + Biletinial",
    "yasMin": 18,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "izbb-a50064dd-6230-445d-b539-dcbd6f05f05c",
@@ -955,7 +951,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "İzmir Büyükşehir Belediyesi açık veri (CC BY 4.0)",
    "yasMin": 6,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "izbb-66d0be51-7a81-4e38-a0eb-ab0fb2506eca",
@@ -977,7 +974,31 @@
    "acikKapali": null,
    "kaynak": "İzmir Büyükşehir Belediyesi açık veri (CC BY 4.0)",
    "yasMin": 10,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
+  },
+  {
+   "id": "izbb-fb0091a8-7130-454a-93d8-561e077410ec",
+   "ad": "Yenilmez",
+   "aciklama": "YAZAN: TORBEN BETTS\nÇEVİREN: NAZLI GÖZDE YOLCU\nYÖNETEN: OZAN ÇOLAK \nYARDIMCI YÖNETMEN: SELİN KAHRAMAN \nSAHNE TASARIMI: ANIL ATEŞ IŞIK \nKOSTÜM TASARIMI: DENİZ BİLGİLİ \nIŞIK TASARIM: AYŞE SEDEF AYTER\n\nOYUNCULAR: \nEMİLY: IŞIL KESKİN \nOLİVER: CANDAŞ YILANCI \nDAWN: FERAHİ AKSAVAŞ\nALAN: BURAK TALI\n\nSAHNE AMİRİ: NİMET ERDEM\nTEKNİK SORUMLU: HAYRİ KURT \nIŞIK UYGULAMA: SEMİH PAMUKÇU\nKONDÜVİT: MEHMET UĞUR YILMAZ \nSAHNE MAKİNİSTİ: ALİ KIRMIZIAY\nSAHNE MAKİNİSTİ: HAKAN DAĞLI \nSAHNE TERZİSİ: TÜRKAN EZGİ ERCAN, BERNA YILMAZ KART",
+   "kategori": "Kültür-Sanat",
+   "tur": "Tiyatro, Genel",
+   "baslangic": "2026-11-28T20:00+03:00",
+   "bitis": "2026-11-28T21:30+03:00",
+   "ucretsiz": null,
+   "ucret": "",
+   "yasSiniri": "16 yaş ve üzeri",
+   "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-11-12/6bf0a2f1-8da1-4e1a-b1d5-88be2b247149-g0hfgjd3.jpeg",
+   "biletUrl": null,
+   "kaynakUrl": "https://kultursanat.izmir.bel.tr/etkinlik/fb0091a8-7130-454a-93d8-561e077410ec",
+   "organizator": "Şehir Tiyatroları Şube Müdürlüğü",
+   "mekanId": null,
+   "mekanMetni": "",
+   "acikKapali": null,
+   "kaynak": "İzmir Büyükşehir Belediyesi açık veri (CC BY 4.0)",
+   "yasMin": 16,
+   "yasMax": null,
+   "altKategori": "Tiyatro"
   },
   {
    "id": "ara-giselle-izdob-20261128",
@@ -999,7 +1020,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 7,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Opera ve Bale"
   },
   {
    "id": "ara-rustemoglu-cemal-20261128-2000",
@@ -1021,7 +1043,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 8,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Tiyatro"
   },
   {
    "id": "ara-dogu-demirkol-20261128",
@@ -1043,7 +1066,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 8,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Stand-up"
   },
   {
    "id": "ara-sark-discisi-maske-20261128-2030",
@@ -1065,7 +1089,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 16,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Tiyatro"
   },
   {
    "id": "ara-goksel-20261128",
@@ -1087,7 +1112,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 6,
-   "yasMax": 14
+   "yasMax": 14,
+   "altKategori": ""
   },
   {
    "id": "ara-bocek-oteli-20261129-11",
@@ -1109,7 +1135,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial + Yeni Bakış",
    "yasMin": 4,
-   "yasMax": 9
+   "yasMax": 9,
+   "altKategori": ""
   },
   {
    "id": "ara-aysin-koruk-cocuk-cini-20261129",
@@ -1131,7 +1158,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "bilettakvimi + izmirmag",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "ara-kugu-golu-cocuk-balesi-20261129-13",
@@ -1153,7 +1181,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 0,
-   "yasMax": 3
+   "yasMax": 3,
+   "altKategori": ""
   },
   {
    "id": "ara-ters-yuz-20261129",
@@ -1175,7 +1204,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 2,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "ara-hayalbazlar-dus-pesinde-20261129",
@@ -1197,7 +1227,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 3,
-   "yasMax": 10
+   "yasMax": 10,
+   "altKategori": ""
   },
   {
    "id": "ara-pink-pig-20261129",
@@ -1219,7 +1250,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 3,
-   "yasMax": 10
+   "yasMax": 10,
+   "altKategori": ""
   },
   {
    "id": "ara-gumus-patenler-20261129",
@@ -1241,7 +1273,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 7,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "ara-arkas-tvfsporlisesi-voleybol-20261129-1400",
@@ -1263,7 +1296,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "ara-arven-ormani-koru-20261129",
@@ -1285,7 +1319,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 2,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "ara-pijimaske-is-basina-20261129",
@@ -1307,7 +1342,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "izmirmag + bilettakvimi",
    "yasMin": 2,
-   "yasMax": 10
+   "yasMax": 10,
+   "altKategori": ""
   },
   {
    "id": "izbb-596d0fea-6bab-44b4-f89c-08de33e55467",
@@ -1329,7 +1365,8 @@
    "acikKapali": null,
    "kaynak": "İzmir Büyükşehir Belediyesi açık veri (CC BY 4.0)",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Tiyatro"
   },
   {
    "id": "ara-hansel-ve-gretel-20261129",
@@ -1351,7 +1388,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 3,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "ara-altay-kepez-20261129-1500",
@@ -1373,7 +1411,8 @@
    "acikKapali": "Açık",
    "kaynak": "Akdeniz Manşet; Yeni Asır; TFF",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "ara-buyuculer-okulu-20261129",
@@ -1395,7 +1434,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 3,
-   "yasMax": 12
+   "yasMax": 12,
+   "altKategori": ""
   },
   {
    "id": "ara-noel-babanin-geyikleri-20261129",
@@ -1417,7 +1457,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 2,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "izbb-0679f07d-8725-4c48-8df3-a90d337f5508",
@@ -1439,7 +1480,8 @@
    "acikKapali": null,
    "kaynak": "İzmir Büyükşehir Belediyesi açık veri (CC BY 4.0)",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "ara-paw-patrol-surpriz-20261129",
@@ -1461,7 +1503,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 2,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "ara-sirin-mavisler-zorlu-yaris-20261129",
@@ -1483,7 +1526,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 3,
-   "yasMax": 10
+   "yasMax": 10,
+   "altKategori": ""
   },
   {
    "id": "ara-goztepe-thy-voleybol-20261129-1700",
@@ -1505,7 +1549,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "ara-hayvan-ciftligi-20261129",
@@ -1527,7 +1572,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Tiyatro"
   },
   {
    "id": "ara-musti-kusti-20261129-1900",
@@ -1549,7 +1595,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 14,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Stand-up"
   },
   {
    "id": "ara-ercan-kokturk-20261129",
@@ -1571,7 +1618,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "ara-shirley-valentine-20261129-bostanli",
@@ -1593,7 +1641,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 12,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Tiyatro"
   },
   {
    "id": "ara-nalan-20261129-2030",
@@ -1615,7 +1664,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 16,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Tiyatro"
   },
   {
    "id": "ara-goztepe-trabzonspor-20261130",
@@ -1637,7 +1687,8 @@
    "acikKapali": "Açık",
    "kaynak": "Sporx",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "izbb-37b50ce1-e2b9-43fe-9991-3be7fea1e2c6",
@@ -1659,7 +1710,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "İzmir Büyükşehir Belediyesi açık veri (CC BY 4.0)",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "ara-shirley-valentine-20261130-istinye",
@@ -1681,7 +1733,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 12,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Tiyatro"
   },
   {
    "id": "izbb-6567d531-9da7-4d3a-8ebc-1d1b9730a909",
@@ -1703,7 +1756,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "İzmir Büyükşehir Belediyesi açık veri (CC BY 4.0)",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Diğer"
   },
   {
    "id": "izbb-04a74eb4-c2c4-4144-bc77-fa7039cd7649",
@@ -1725,7 +1779,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "İzmir Büyükşehir Belediyesi açık veri (CC BY 4.0)",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "ara-giselle-izdob-20261201",
@@ -1747,7 +1802,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 7,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Opera ve Bale"
   },
   {
    "id": "ara-olun-bizi-ayirana-dek-20261201-urla",
@@ -1769,7 +1825,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 12,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Tiyatro"
   },
   {
    "id": "ara-kurtlar-sofrasi-20261201-2000",
@@ -1791,7 +1848,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 13,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Tiyatro"
   },
   {
    "id": "ara-yalancinin-resmi-20261201-2000",
@@ -1813,7 +1871,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 8,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Tiyatro"
   },
   {
    "id": "ara-balli-sut-20261201-2000",
@@ -1835,7 +1894,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 16,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Tiyatro"
   },
   {
    "id": "ara-rammstein-symphonic-aassm-20261201-2000",
@@ -1857,7 +1917,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "İzBB Kültür Sanat (AASSM Aralık programı)",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "ara-pinar-fidan-20261201",
@@ -1879,7 +1940,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 18,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Stand-up"
   },
   {
    "id": "izbb-99b515e3-8746-4ce6-8c7d-79382f2e1572",
@@ -1901,7 +1963,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "İzmir Büyükşehir Belediyesi açık veri (CC BY 4.0)",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Sergi"
   },
   {
    "id": "ara-dayanisma-konseri-20261202",
@@ -1923,7 +1986,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "izbb-bf082387-135a-461b-bab4-0651c4a2f1e7",
@@ -1945,7 +2009,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "İzmir Büyükşehir Belediyesi açık veri (CC BY 4.0)",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "ara-olun-bizi-ayirana-dek-20261202-istinye",
@@ -1967,7 +2032,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 12,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Tiyatro"
   },
   {
    "id": "ara-kurtlar-sofrasi-20261202-2000",
@@ -1989,7 +2055,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 13,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Tiyatro"
   },
   {
    "id": "ara-yalancinin-resmi-20261202-2000",
@@ -2011,7 +2078,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 8,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Tiyatro"
   },
   {
    "id": "ara-bulasikcilar-20261202",
@@ -2033,7 +2101,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 9,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Tiyatro"
   },
   {
    "id": "ara-kankaranlik-20261202-2030",
@@ -2055,7 +2124,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 16,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Tiyatro"
   },
   {
    "id": "ara-giselle-izdob-20261203",
@@ -2077,7 +2147,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 7,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Opera ve Bale"
   },
   {
    "id": "ara-olun-bizi-ayirana-dek-20261203-bostanli",
@@ -2099,7 +2170,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 12,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Tiyatro"
   },
   {
    "id": "ara-kurtlar-sofrasi-20261203-2000",
@@ -2121,7 +2193,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 13,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Tiyatro"
   },
   {
    "id": "ara-yalancinin-resmi-20261203-2000",
@@ -2143,7 +2216,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 8,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Tiyatro"
   },
   {
    "id": "ara-bir-ogretmen-bin-yurek-20261203-2000",
@@ -2165,7 +2239,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "ara-goztepe-erciyes38-20261203",
@@ -2187,7 +2262,8 @@
    "acikKapali": "Açık",
    "kaynak": "Sporx",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "ara-meksika-acmazi-20261203-2030",
@@ -2209,7 +2285,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 16,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Stand-up"
   },
   {
    "id": "ara-dugum-gunun-kutlu-olsun-20261203-2030",
@@ -2231,7 +2308,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 16,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Tiyatro"
   },
   {
    "id": "izbb-7b73de69-4bbc-4f2b-8266-c330176c0a50",
@@ -2253,7 +2331,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "İzmir Büyükşehir Belediyesi açık veri (CC BY 4.0)",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "ara-kurtlar-sofrasi-20261204-2000",
@@ -2275,7 +2354,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 13,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Tiyatro"
   },
   {
    "id": "ara-yalancinin-resmi-20261204-2000",
@@ -2297,7 +2377,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 8,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Tiyatro"
   },
   {
    "id": "ara-mefisto-20261204-2030",
@@ -2319,7 +2400,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 8,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Tiyatro"
   },
   {
    "id": "ara-buyucunun-olumu-20261204-2030",
@@ -2341,7 +2423,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 16,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Tiyatro"
   },
   {
    "id": "ara-batu-akdeniz-20261204",
@@ -2363,7 +2446,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 18,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "ara-kalben-20261204",
@@ -2385,7 +2469,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 6,
-   "yasMax": 14
+   "yasMax": 14,
+   "altKategori": ""
   },
   {
    "id": "ara-gokhan-turkmen-soldout-20261204-2100",
@@ -2407,7 +2492,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletix",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "ara-arkas-kisin-renkleri-20261205",
@@ -2429,7 +2515,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Arkas Sanat",
    "yasMin": 2,
-   "yasMax": 3
+   "yasMax": 3,
+   "altKategori": ""
   },
   {
    "id": "ara-3d-hologram-sirki-20261205-13",
@@ -2451,7 +2538,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 2,
-   "yasMax": 12
+   "yasMax": 12,
+   "altKategori": ""
   },
   {
    "id": "ara-kubik-prens-20261205-13",
@@ -2473,7 +2561,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 4,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "ara-ringonun-dunyasi-20261205-13",
@@ -2495,7 +2584,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 3,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "ara-serhat-abinin-bilim-fabrikasi-20261205",
@@ -2517,7 +2607,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletix",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "ara-arkas-bir-manzaranin-icinde-20261205",
@@ -2539,7 +2630,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Arkas Sanat",
    "yasMin": 8,
-   "yasMax": 12
+   "yasMax": 12,
+   "altKategori": ""
   },
   {
    "id": "ara-giselle-izdob-20261205",
@@ -2561,7 +2653,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 7,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Opera ve Bale"
   },
   {
    "id": "ara-kurtlar-sofrasi-20261205-1500",
@@ -2583,7 +2676,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 13,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Tiyatro"
   },
   {
    "id": "ara-yalancinin-resmi-20261205-1500",
@@ -2605,7 +2699,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 8,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Tiyatro"
   },
   {
    "id": "ara-altekma-sultanbeyli-voleybol-20261205-1600",
@@ -2627,7 +2722,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "ara-cilek-ve-limon-20261205",
@@ -2649,7 +2745,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 3,
-   "yasMax": 11
+   "yasMax": 11,
+   "altKategori": ""
   },
   {
    "id": "ara-meliksah-altuntas-20261205",
@@ -2671,7 +2768,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 18,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Stand-up"
   },
   {
    "id": "izbb-f4e43878-fc61-4087-8146-3b675e6a70c6",
@@ -2693,7 +2791,8 @@
    "acikKapali": null,
    "kaynak": "İzmir Büyükşehir Belediyesi açık veri (CC BY 4.0)",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "ara-mevlan-kurtishi-20261205",
@@ -2715,7 +2814,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "ara-3-sap-dogaclama-maske-20261205-2000",
@@ -2737,7 +2837,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 16,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Tiyatro"
   },
   {
    "id": "ara-kurk-mantolu-madonna-urla-20261205-2030",
@@ -2759,7 +2860,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 12,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Tiyatro"
   },
   {
    "id": "ara-tanri-misafiri-20261205-2030",
@@ -2781,7 +2883,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 16,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Tiyatro"
   },
   {
    "id": "ara-ozbi-20261205",
@@ -2803,7 +2906,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 6,
-   "yasMax": 14
+   "yasMax": 14,
+   "altKategori": ""
   },
   {
    "id": "ara-hakan-kufundur-90lar-20261205-2100",
@@ -2825,7 +2929,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletix",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "ara-emre-aydin-hayal-20261205-2200",
@@ -2847,7 +2952,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletix",
    "yasMin": 18,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "ara-seksendort-ooze-20261205-2200",
@@ -2869,7 +2975,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletix",
    "yasMin": 18,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "ara-bocek-oteli-20261206-11",
@@ -2891,7 +2998,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 4,
-   "yasMax": 9
+   "yasMax": 9,
+   "altKategori": ""
   },
   {
    "id": "ara-music-for-babies-20261206-12",
@@ -2913,7 +3021,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "ara-kubik-prens-20261206-13",
@@ -2935,7 +3044,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 4,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "ara-paw-patrol-pati-devriyesi-20261206",
@@ -2957,7 +3067,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 2,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "ara-tobi-ve-lumi-ormanda-20261206",
@@ -2979,7 +3090,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Mahalli Gündem",
    "yasMin": 5,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "ara-yuko-20261206",
@@ -3001,7 +3113,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 5,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "ara-paw-patrol-surpriz-20261206",
@@ -3023,7 +3136,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 2,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "ara-ari-viz-viz-20261206",
@@ -3045,7 +3159,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 3,
-   "yasMax": 6
+   "yasMax": 6,
+   "altKategori": ""
   },
   {
    "id": "ara-paw-patrol-kis-festivali-20261206",
@@ -3067,7 +3182,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 2,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "ara-iki-kadin-maske-20261206-1900",
@@ -3089,7 +3205,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 16,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Tiyatro"
   },
   {
    "id": "ara-aura-factory-20261206-2000",
@@ -3111,7 +3228,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletix",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "ara-kizim-nerede-20261206-2000",
@@ -3133,7 +3251,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 16,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Tiyatro"
   },
   {
    "id": "ara-ozel-bir-rica-20261206",
@@ -3155,7 +3274,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "iTicket",
    "yasMin": 12,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Tiyatro"
   },
   {
    "id": "izbb-59e145f0-8377-49c8-af7d-cd34ba0d16e8",
@@ -3177,7 +3297,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "İzmir Büyükşehir Belediyesi açık veri (CC BY 4.0)",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "ara-italyan-gecesi-izdob-20261207",
@@ -3199,7 +3320,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 7,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "ara-ne-prosto-orchestra-20261207",
@@ -3221,7 +3343,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 7,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "ara-izmir-oda-orkestrasi-oda-muzigi-aassm-20261207-2000",
@@ -3243,7 +3366,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "İzBB Kültür Sanat (AASSM Aralık programı)",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "ara-samanyolunu-bilir-misiniz-20261207-istinye",
@@ -3265,7 +3389,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 7,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Tiyatro"
   },
   {
    "id": "ara-dt-mutfak-20261208-1300",
@@ -3287,7 +3412,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 8,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Atölye"
   },
   {
    "id": "ara-giselle-izdob-20261208",
@@ -3309,7 +3435,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 7,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Opera ve Bale"
   },
   {
    "id": "ara-kurtlar-sofrasi-20261208-2000",
@@ -3331,7 +3458,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 13,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Tiyatro"
   },
   {
    "id": "ara-radyo-yu-humayun-20261208-2000",
@@ -3353,7 +3481,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 12,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Tiyatro"
   },
   {
    "id": "ara-deu-konservatuvar-ogrenci-orkestrasi-aassm-20261208-2000",
@@ -3375,7 +3504,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "İzBB Kültür Sanat (AASSM Aralık programı)",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "ara-soner-sarikabadayi-20261208",
@@ -3397,7 +3527,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "iTicket",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "ara-sesler-salih-bademci-20261208-2030",
@@ -3419,7 +3550,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 8,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Tiyatro"
   },
   {
    "id": "ara-ay-carmela-20261208-2030",
@@ -3441,7 +3573,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 15,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Tiyatro"
   },
   {
    "id": "ara-italyan-gecesi-izdob-20261209",
@@ -3463,7 +3596,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 7,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "ara-kurtlar-sofrasi-20261209-2000",
@@ -3485,7 +3619,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 13,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Tiyatro"
   },
   {
    "id": "ara-radyo-yu-humayun-20261209-2000",
@@ -3507,7 +3642,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 12,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Tiyatro"
   },
   {
    "id": "ara-karsilikli-ahkamlar-20261209-2000",
@@ -3529,7 +3665,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Stand-up"
   },
   {
    "id": "ara-her-sey-biraz-yalan-20261209",
@@ -3551,7 +3688,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 16,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Tiyatro"
   },
   {
    "id": "ara-samanyolunu-bilir-misiniz-20261209-hikmet-simsek",
@@ -3573,7 +3711,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 7,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Tiyatro"
   },
   {
    "id": "ara-soytari-kral-lear-20261209-2030",
@@ -3595,7 +3734,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 12,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Tiyatro"
   },
   {
    "id": "ara-oyunun-oyunu-tepekule-20261209-2030",
@@ -3617,7 +3757,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletix",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Tiyatro"
   },
   {
    "id": "ara-kusursuz-20261209-2030",
@@ -3639,7 +3780,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 16,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Tiyatro"
   },
   {
    "id": "ara-right-in-tool-soldout-20261209-2100",
@@ -3661,7 +3803,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletix",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "izbb-f0bebfa0-522a-4e7d-a0da-14516b5e124e",
@@ -3683,7 +3826,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "İzmir Büyükşehir Belediyesi açık veri (CC BY 4.0)",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Diğer"
   },
   {
    "id": "izbb-7f67784a-771f-42d2-9fa9-6bb301396d8d",
@@ -3705,7 +3849,8 @@
    "acikKapali": null,
    "kaynak": "İzmir Büyükşehir Belediyesi açık veri (CC BY 4.0)",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Tiyatro"
   },
   {
    "id": "ara-kurtlar-sofrasi-20261210-2000",
@@ -3727,7 +3872,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 13,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Tiyatro"
   },
   {
    "id": "ara-radyo-yu-humayun-20261210-2000",
@@ -3749,7 +3895,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 12,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Tiyatro"
   },
   {
    "id": "ara-tosca-izdob-20261210-2000",
@@ -3771,7 +3918,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 7,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Opera ve Bale"
   },
   {
    "id": "ara-gonul-makami-idktmk-20261210-2000",
@@ -3793,7 +3941,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "ara-bosanma-teklifi-20261210-2030",
@@ -3815,7 +3964,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 13,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Tiyatro"
   },
   {
    "id": "ara-ahmet-kaya-kardes-turkuler-20261210-2030",
@@ -3837,7 +3987,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 6,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "ara-kankaranlik-20261210-2030",
@@ -3859,7 +4010,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "Biletinial",
    "yasMin": 16,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": "Tiyatro"
   },
   {
    "id": "ara-cem-adrian-aassm-20261210-2100",
@@ -3881,7 +4033,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "İzBB Kültür Sanat (AASSM Aralık programı)",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "izbb-7229c42b-2ffe-405d-a743-57a453943e33",
@@ -3903,7 +4056,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "İzmir Büyükşehir Belediyesi açık veri (CC BY 4.0)",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "izbb-104722ab-f99a-4df5-a254-7136101c6b31",
@@ -3925,7 +4079,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "İzmir Büyükşehir Belediyesi açık veri (CC BY 4.0)",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "izbb-4cef9728-98b0-4b56-98d7-f7cc654e7cb2",
@@ -3947,7 +4102,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "İzmir Büyükşehir Belediyesi açık veri (CC BY 4.0)",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "izbb-09946c80-8962-42ba-b236-fad87384b7a3",
@@ -3969,7 +4125,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "İzmir Büyükşehir Belediyesi açık veri (CC BY 4.0)",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "izbb-09de0606-a6a1-404a-9ffd-e83ebb009883",
@@ -3991,7 +4148,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "İzmir Büyükşehir Belediyesi açık veri (CC BY 4.0)",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "izbb-c9cfebe8-d001-4f41-ad2f-7b94b99a151e",
@@ -4013,7 +4171,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "İzmir Büyükşehir Belediyesi açık veri (CC BY 4.0)",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "izbb-c82eddba-c8db-45f7-91f5-cb64ce2aa2d1",
@@ -4035,7 +4194,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "İzmir Büyükşehir Belediyesi açık veri (CC BY 4.0)",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "izbb-a0ba4c69-056a-4f15-88cc-91a2e9ea408d",
@@ -4057,7 +4217,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "İzmir Büyükşehir Belediyesi açık veri (CC BY 4.0)",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "izbb-5e1c2306-f198-42ae-8ac6-8d9418311ec0",
@@ -4079,7 +4240,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "İzmir Büyükşehir Belediyesi açık veri (CC BY 4.0)",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   },
   {
    "id": "izbb-951ab129-77cb-4c12-a848-bfcb6a46a4fc",
@@ -4101,7 +4263,8 @@
    "acikKapali": "Kapalı",
    "kaynak": "İzmir Büyükşehir Belediyesi açık veri (CC BY 4.0)",
    "yasMin": null,
-   "yasMax": null
+   "yasMax": null,
+   "altKategori": ""
   }
  ]
 }
