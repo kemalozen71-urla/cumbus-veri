@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-27T11:56+03:00",
+ "guncelleme": "2026-11-27T12:05+03:00",
  "sehir": "İzmir",
  "mekanlar": [
   {
@@ -3366,7 +3366,7 @@
   },
   {
    "id": "IZM-0182",
-   "ad": "Aliağa Atatürk Stadı",
+   "ad": "Aliağa Atatürk Stadyumu",
    "ilce": "Aliağa",
    "semt": "Siteler",
    "acikKapali": "Açık",
@@ -3375,8 +3375,8 @@
    "adres": "Siteler Mah. Aygaz Cad. No:42, 35800 Aliağa",
    "telefon": "",
    "ulasim": "",
-   "googleMaps": "https://www.google.com/maps/search/?api=1&query=Alia%C4%9Fa%20Atat%C3%BCrk%20Stad%C4%B1%2C%20Siteler%20Mah.%20Aygaz%20Cad.%20No%3A42%2C%2035800%20Alia%C4%9Fa%2C%20%C4%B0zmir",
-   "appleMaps": "https://maps.apple.com/?q=Alia%C4%9Fa%20Atat%C3%BCrk%20Stad%C4%B1&address=Siteler%20Mah.%20Aygaz%20Cad.%20No%3A42%2C%2035800%20Alia%C4%9Fa%2C%20%C4%B0zmir",
+   "googleMaps": "https://www.google.com/maps/search/?api=1&query=Alia%C4%9Fa%20Atat%C3%BCrk%20Stadyumu%2C%20Siteler%20Mah.%20Aygaz%20Cad.%20No%3A42%2C%2035800%20Alia%C4%9Fa%2C%20%C4%B0zmir",
+   "appleMaps": "https://maps.apple.com/?q=Alia%C4%9Fa%20Atat%C3%BCrk%20Stadyumu&address=Siteler%20Mah.%20Aygaz%20Cad.%20No%3A42%2C%2035800%20Alia%C4%9Fa%2C%20%C4%B0zmir",
    "web": "",
    "enlem": 38.8,
    "boylam": 26.972,
