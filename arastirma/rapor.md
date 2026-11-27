@@ -98,3 +98,39 @@
 4. Çocuk görsel adaylarını (`gorselAday`) elle kontrol et; Music for Babies afişine bir kez daha bakılması önerildi.
 5. Koordinatı eksik çocuk mekânları için resmi site / harita bağlantısı ara.
 6. Arama bütçesi konulara daha dengeli dağıtılmalı: bu tur ilçe/söyleşi başlığı bütçenin büyük kısmını kullandı, spor ve sahne erken durdu.
+
+---
+
+## Ek: spor için kaynak zinciri taraması (27 Kasım 2026, akşam)
+
+Saati ya da statı belli olmadığı için elenen maçlar zincirleme yeniden arandı. Sıra şöyleydi: önce ev sahibi kulüp, sonra federasyon (TFF, TVF, CEV), bilet satıcısı, maç merkezleri, yerel basın ve deplasman takımının basını, en son stat ya da salon. Bu turda yaklaşık 37 arama yapıldı ve 50 sayfa açıldı.
+
+**Eklenen 6 maç (toplam kayıt 156):**
+
+| Maç | Tarih ve saat | Yer | Kaynak |
+|---|---|---|---|
+| Bucaspor 1928 – Bigaspor (3. Lig) | 28 Kas 15:30 | Yeni Buca Stadı | AA haftalık program ve TFF canlı yayın listesi. Önceki 12:30, UTC saatiydi. |
+| Aliağa FK – Kastamonuspor (2. Lig) | 28 Kas 15:30 | Aliağa Atatürk Stadı | AA (stat), TFF listesi ve Kastamonu basını (saat) |
+| Altınordu – Bahçelievler (voleybol, Kadınlar 1. Lig) | 28 Kas 16:00 | TVF Atatürk Voleybol Salonu | Biletinial, 75 TL'den |
+| Arkas Spor – TVF Spor Lisesi (voleybol, Erkekler 1. Lig) | 29 Kas 14:00 | TVF Atatürk Voleybol Salonu | Biletinial, 75 TL'den |
+| Göztepe Yuppo – THY (Sultanlar Ligi) | 29 Kas 17:00 | TVF Atatürk Voleybol Salonu | Biletinial ve Voleybol Aktüel hakem listesi, 350–1.000 TL |
+| Altekma – Sultanbeyli (Efeler Ligi) | 5 Ara 16:00 | TVF Atatürk Voleybol Salonu | Biletinial ve Spor Ekranı, 200 TL'den |
+
+**Hâlâ eklenmeyenler:**
+- **Aras Kargo – ZAON Kifissia (CEV):** İki maç da 2 ve 3 Aralık'ta Atina'da oynanacak (AA, Volleyweek). İzmir'de maç yok.
+- **Aras Kargo – Beşiktaş:** Maç 6 Aralık'tan 7 Aralık'a alındı. Yeni saati (16:00) yalnızca Spor Ekranı veriyor. Biletinial ya da TVF yayımlayınca eklenecek.
+- **Aras Kargo – Manisa (29 Kas):** Ertelendi.
+- **Karşıyaka – Eskişehirspor, Menemen FK – Kastamonuspor (6 Ara) ve Gaziemir – Bigaspor (5 Ara):** Elde yalnızca sezon başındaki geçici fikstür saatleri var. Bu saatlerin değiştiği görüldü (ör. Eskişehirspor – Denizli maçı 15:00 görünüyordu, 15:30'da oynandı). AA'nın 15. hafta programı (4 Aralık civarı) yayımlanınca eklenmeli. Menemen'in iç sahası İlçe Stadı, Gaziemir'inki Bornova Aziz Kocaoğlu.
+
+**Mekân:**
+- Yeni Buca Stadı, Bornova Aziz Kocaoğlu Stadyumu ve Aliağa Atatürk Stadı `mekanlar.csv`'de yok. Sokak adresleri doğrulanamadığı için eklenmediler.
+- Wikipedia koordinatları: Buca Arena 38.39500 / 27.19278, Aziz Kocaoğlu 38.44694 / 27.26222.
+- Önceki notta Aziz Kocaoğlu için önerilen IZM-0156 aslında İzmir Atatürk Stadyumu'nun kimliği.
+
+**En verimli kaynaklar (KYN-105 – KYN-108 eklendi):**
+- AA'nın Cuma günü yayımlanan futbol programı: alt ligler için saati ve statı birlikte veriyor.
+- TFF canlı yayın duyuruları.
+- Biletinial Spor: voleybolda saat, salon ve fiyatı birlikte veriyor.
+- Voleybol Aktüel: TVF programlarını ve hakem listelerini aktarıyor.
+
+**Saat dilimi uyarısı:** Betexplorer, 365scores ve Sofascore saatleri UTC gösteriyor (Türkiye saatinden 3 saat geri). Bu sitelerden alınan saat mutlaka Türkçe bir kaynakla karşılaştırılmalı.
