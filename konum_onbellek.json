@@ -659,5 +659,179 @@
  "IZM-0137": {
   "ad": "İzmir Karaca Sineması",
   "denendi": "2026-11-26T19:28:56+03:00"
+ },
+ "IZM-0138": {
+  "ad": "Paribu Cineverse Point Bornova",
+  "boylam": 27.20978,
+  "bulundu": "2026-11-27T05:15:22+03:00",
+  "enlem": 38.430687,
+  "kaynak": "OpenStreetMap"
+ },
+ "IZM-0139": {
+  "ad": "Paribu Cineverse Forum Bornova",
+  "boylam": 27.211404,
+  "bulundu": "2026-11-27T05:15:22+03:00",
+  "enlem": 38.450843,
+  "kaynak": "OpenStreetMap"
+ },
+ "IZM-0140": {
+  "ad": "Paribu Cineverse İzmir Park",
+  "denendi": "2026-11-27T05:15:22+03:00"
+ },
+ "IZM-0141": {
+  "ad": "Paribu Cineverse Optimum İzmir",
+  "denendi": "2026-11-27T05:15:22+03:00"
+ },
+ "IZM-0142": {
+  "ad": "İstinyePark Renk Sineması",
+  "denendi": "2026-11-27T05:15:22+03:00"
+ },
+ "IZM-0143": {
+  "ad": "Folkart Cinema Pink",
+  "denendi": "2026-11-27T05:15:22+03:00"
+ },
+ "IZM-0144": {
+  "ad": "Agora Balçova Sineması",
+  "boylam": 27.052482,
+  "bulundu": "2026-11-27T05:15:22+03:00",
+  "enlem": 38.394977,
+  "kaynak": "OpenStreetMap"
+ },
+ "IZM-0145": {
+  "ad": "Konak Pier AVM Sineması",
+  "denendi": "2026-11-27T05:15:22+03:00"
+ },
+ "IZM-0146": {
+  "ad": "Park Bornova AVM Sineması",
+  "denendi": "2026-11-27T05:15:22+03:00"
+ },
+ "IZM-0147": {
+  "ad": "Bornova Batı Sineması",
+  "denendi": "2026-11-27T05:15:22+03:00"
+ },
+ "IZM-0148": {
+  "ad": "Novada Menemen My CineLife",
+  "denendi": "2026-11-27T05:15:22+03:00"
+ },
+ "IZM-0149": {
+  "ad": "Sinema Çeşme",
+  "denendi": "2026-11-27T05:15:22+03:00"
+ },
+ "IZM-0150": {
+  "ad": "Torbalı Sinevizyon",
+  "denendi": "2026-11-27T05:15:22+03:00"
+ },
+ "IZM-0151": {
+  "ad": "Tire Şehir Sineması",
+  "denendi": "2026-11-27T05:15:22+03:00"
+ },
+ "IZM-0152": {
+  "ad": "Tire Seha Gidel Sineması",
+  "denendi": "2026-11-27T05:15:22+03:00"
+ },
+ "IZM-0153": {
+  "ad": "Bergama BerKM Sinegama",
+  "denendi": "2026-11-27T05:15:22+03:00"
+ },
+ "IZM-0155": {
+  "ad": "Alsancak Mustafa Denizli Stadyumu",
+  "boylam": 27.150791,
+  "bulundu": "2026-11-27T05:15:22+03:00",
+  "enlem": 38.437323,
+  "kaynak": "OpenStreetMap"
+ },
+ "IZM-0156": {
+  "ad": "İzmir Atatürk Stadyumu",
+  "boylam": 27.178011,
+  "bulundu": "2026-11-27T05:15:22+03:00",
+  "enlem": 38.434984,
+  "kaynak": "OpenStreetMap"
+ },
+ "IZM-0159": {
+  "ad": "İzmir Atatürk Voleybol Salonu",
+  "boylam": 27.148115,
+  "bulundu": "2026-11-27T05:15:22+03:00",
+  "enlem": 38.438634,
+  "kaynak": "OpenStreetMap"
+ },
+ "IZM-0161": {
+  "ad": "Tarihi Asansör",
+  "boylam": 27.117479,
+  "bulundu": "2026-11-27T05:15:22+03:00",
+  "enlem": 38.408629,
+  "kaynak": "OpenStreetMap"
+ },
+ "IZM-0162": {
+  "ad": "Hayal Kahvesi İzmir",
+  "denendi": "2026-11-27T05:15:22+03:00"
+ },
+ "IZM-0163": {
+  "ad": "Hayal Kahvesi Optimum İzmir",
+  "boylam": 27.134816,
+  "bulundu": "2026-11-27T05:15:22+03:00",
+  "enlem": 38.337856,
+  "kaynak": "OpenStreetMap"
+ },
+ "IZM-0164": {
+  "ad": "Skaff PSM Alsancak",
+  "denendi": "2026-11-27T05:15:22+03:00"
+ },
+ "IZM-0166": {
+  "ad": "Paribu Cineverse MaviBahçe",
+  "boylam": 27.074859,
+  "bulundu": "2026-11-27T05:15:22+03:00",
+  "enlem": 38.474618,
+  "kaynak": "OpenStreetMap"
+ },
+ "IZM-0167": {
+  "ad": "Paribu Cineverse Karşıyaka Hilltown",
+  "denendi": "2026-11-27T05:15:22+03:00"
+ },
+ "IZM-0168": {
+  "ad": "Alsancak Gazi Ortaokulu Tiyatro Salonu",
+  "denendi": "2026-11-27T05:15:22+03:00"
+ },
+ "IZM-0169": {
+  "ad": "İzmir Çocuk Tiyatrosu",
+  "denendi": "2026-11-27T05:15:22+03:00"
+ },
+ "IZM-0170": {
+  "ad": "Baykuş Çocuk Tiyatrosu",
+  "denendi": "2026-11-27T05:15:22+03:00"
+ },
+ "IZM-0171": {
+  "ad": "Maske Sanat Tiyatrosu",
+  "denendi": "2026-11-27T05:15:22+03:00"
+ },
+ "IZM-0172": {
+  "ad": "Tiyatro Durağı Kültür ve Sanat Merkezi",
+  "denendi": "2026-11-27T05:15:22+03:00"
+ },
+ "IZM-0173": {
+  "ad": "Boyoz Akademi Sanat Merkezi",
+  "denendi": "2026-11-27T05:15:22+03:00"
+ },
+ "IZM-0174": {
+  "ad": "Bademler Sanat Köyü",
+  "denendi": "2026-11-27T05:15:22+03:00"
+ },
+ "IZM-0175": {
+  "ad": "Buca Işılay Saygın Çocuk Kütüphanesi",
+  "denendi": "2026-11-27T05:15:22+03:00"
+ },
+ "IZM-0176": {
+  "ad": "Canopy by Hilton İzmir Bomonti",
+  "boylam": 27.163963,
+  "bulundu": "2026-11-27T05:15:22+03:00",
+  "enlem": 38.434614,
+  "kaynak": "OpenStreetMap"
+ },
+ "IZM-0178": {
+  "ad": "Urla Hakan Çeken Kültür Merkezi",
+  "denendi": "2026-11-27T05:15:22+03:00"
+ },
+ "IZM-0179": {
+  "ad": "Avlu Urla",
+  "denendi": "2026-11-27T05:15:22+03:00"
  }
 }

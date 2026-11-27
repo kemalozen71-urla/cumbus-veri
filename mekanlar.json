@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-26T19:30+03:00",
+ "guncelleme": "2026-11-27T05:16+03:00",
  "sehir": "İzmir",
  "mekanlar": [
   {
@@ -70,10 +70,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Tarihi%20Havagaz%C4%B1%20Fabrikas%C4%B1%20K%C3%BClt%C3%BCr%20Merkezi%2C%20Umurbey%20Mah.%2C%20Alsancak%20%28Alsancak%20Liman%C4%B1%20kar%C5%9F%C4%B1s%C4%B1%29%2C%20Konak%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=Tarihi%20Havagaz%C4%B1%20Fabrikas%C4%B1%20K%C3%BClt%C3%BCr%20Merkezi&address=Umurbey%20Mah.%2C%20Alsancak%20%28Alsancak%20Liman%C4%B1%20kar%C5%9F%C4%B1s%C4%B1%29%2C%20Konak%2C%20%C4%B0zmir",
    "web": "kultursanat.izmir.bel.tr",
-   "enlem": 38.418,
-   "boylam": 27.129,
-   "durum": "Aktif (CSV'de son 18 ayda etkinlik)",
-   "konumYaklasik": true
+   "enlem": 38.44021,
+   "boylam": 27.151797,
+   "durum": "Aktif (CSV'de son 18 ayda etkinlik)"
   },
   {
    "id": "IZM-0005",
@@ -162,10 +161,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Kar%C5%9F%C4%B1yaka%20Hikmet%20%C5%9Eim%C5%9Fek%20Sanat%20Merkezi%2C%20Yal%C4%B1%20Mah.%206445%20Sk.%20No%3A23%2C%2035550%20Kar%C5%9F%C4%B1yaka%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=Kar%C5%9F%C4%B1yaka%20Hikmet%20%C5%9Eim%C5%9Fek%20Sanat%20Merkezi&address=Yal%C4%B1%20Mah.%206445%20Sk.%20No%3A23%2C%2035550%20Kar%C5%9F%C4%B1yaka%2C%20%C4%B0zmir",
    "web": "karsiyaka.bel.tr (ilçe belediyesi)",
-   "enlem": 38.46,
-   "boylam": 27.11,
-   "durum": "Aktif (CSV'de son 18 ayda etkinlik)",
-   "konumYaklasik": true
+   "enlem": 38.468152,
+   "boylam": 27.086695,
+   "durum": "Aktif (CSV'de son 18 ayda etkinlik)"
   },
   {
    "id": "IZM-0010",
@@ -380,16 +378,15 @@
    "acikKapali": "Duruma göre",
    "kategori": "Kültür-Sanat",
    "tur": "Kongre merkezi",
-   "adres": "",
+   "adres": "Anadolu Cad. No:40, Bayraklı",
    "telefon": "",
    "ulasim": "",
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Tepekule%20Kongre%20ve%20Sergi%20Merkezi%2C%20Bayrakl%C4%B1%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=Tepekule%20Kongre%20ve%20Sergi%20Merkezi&address=Bayrakl%C4%B1%2C%20%C4%B0zmir",
    "web": "",
-   "enlem": 38.462,
-   "boylam": 27.165,
-   "durum": "Aktif (CSV'de son 18 ayda etkinlik)",
-   "konumYaklasik": true
+   "enlem": 38.453545,
+   "boylam": 27.170778,
+   "durum": "Aktif (CSV'de son 18 ayda etkinlik)"
   },
   {
    "id": "IZM-0022",
@@ -534,10 +531,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Han%20Tiyatrosu%2C%20Alsancak%201479%20Sk.%20No%3A10%2FB%2C%2035220%20Konak%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=Han%20Tiyatrosu&address=Alsancak%201479%20Sk.%20No%3A10%2FB%2C%2035220%20Konak%2C%20%C4%B0zmir",
    "web": "Bilet platformları",
-   "enlem": 38.418,
-   "boylam": 27.129,
-   "durum": "Açık (web teyitli)",
-   "konumYaklasik": true
+   "enlem": 38.439833,
+   "boylam": 27.143549,
+   "durum": "Açık (web teyitli)"
   },
   {
    "id": "IZM-0030",
@@ -628,10 +624,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Bostanl%C4%B1%20Suat%20Ta%C5%9Fer%20Tiyatrosu%2C%20Bostanl%C4%B1%20Mah.%20Hasan%20Ali%20Y%C3%BCcel%20Blv.%2C%2035540%20Kar%C5%9F%C4%B1yaka%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=Bostanl%C4%B1%20Suat%20Ta%C5%9Fer%20Tiyatrosu&address=Bostanl%C4%B1%20Mah.%20Hasan%20Ali%20Y%C3%BCcel%20Blv.%2C%2035540%20Kar%C5%9F%C4%B1yaka%2C%20%C4%B0zmir",
    "web": "Bilet platformları + karsiyaka.bel.tr (ilçe belediyesi)",
-   "enlem": 38.46,
-   "boylam": 27.11,
-   "durum": "Açık (web teyitli)",
-   "konumYaklasik": true
+   "enlem": 38.454311,
+   "boylam": 27.099699,
+   "durum": "Açık (web teyitli)"
   },
   {
    "id": "IZM-0035",
@@ -2038,7 +2033,7 @@
    "semt": "Göztepe",
    "acikKapali": "Kapalı",
    "kategori": "Kültür-Sanat",
-   "tur": "Müze / galeri",
+   "tur": "Müze / galeri / çocuk programı",
    "adres": "",
    "telefon": "",
    "ulasim": "",
@@ -2175,10 +2170,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Bornova%20K%C3%BClt%C3%BCr%20ve%20Sanat%20Merkezi%20%28Bozkurt%20Kuru%C3%A7%2C%20Necdet%20Ayd%C4%B1n%2C%20Rak%C4%B1m%20Elkutlu%20salonlar%C4%B1%29%2C%20Ergene%20550%20Sk.%20No%3A33%2C%2035040%20Bornova%20%28kaynaklar%20aras%C4%B1nda%20farkl%C4%B1%20adres%20var%2C%20do%C4%9Frulanmal%C4%B1%29%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=Bornova%20K%C3%BClt%C3%BCr%20ve%20Sanat%20Merkezi%20%28Bozkurt%20Kuru%C3%A7%2C%20Necdet%20Ayd%C4%B1n%2C%20Rak%C4%B1m%20Elkutlu%20salonlar%C4%B1%29&address=Ergene%20550%20Sk.%20No%3A33%2C%2035040%20Bornova%20%28kaynaklar%20aras%C4%B1nda%20farkl%C4%B1%20adres%20var%2C%20do%C4%9Frulanmal%C4%B1%29%2C%20%C4%B0zmir",
    "web": "",
-   "enlem": 38.466,
-   "boylam": 27.22,
-   "durum": "Açık (web teyitli)",
-   "konumYaklasik": true
+   "enlem": 38.464217,
+   "boylam": 27.2113,
+   "durum": "Açık (web teyitli)"
   },
   {
    "id": "IZM-0118",
@@ -2381,10 +2375,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Ooze%20Venue%2C%20Erzene%20Mah.%20Kaz%C4%B1m%20Karabekir%20Cd.%20No%3A46%2C%2035040%20Bornova%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=Ooze%20Venue&address=Erzene%20Mah.%20Kaz%C4%B1m%20Karabekir%20Cd.%20No%3A46%2C%2035040%20Bornova%2C%20%C4%B0zmir",
    "web": "oozevenue.com",
-   "enlem": 38.466,
-   "boylam": 27.22,
-   "durum": "Açık (web teyitli)",
-   "konumYaklasik": true
+   "enlem": 38.464607,
+   "boylam": 27.221719,
+   "durum": "Açık (web teyitli)"
   },
   {
    "id": "IZM-0129",
@@ -2438,10 +2431,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Cliff%20Venue%2C%20Erzene%20Mah.%20Fevzi%20%C3%87akmak%20Cd.%20No%3A25C%2C%2035040%20Bornova%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=Cliff%20Venue&address=Erzene%20Mah.%20Fevzi%20%C3%87akmak%20Cd.%20No%3A25C%2C%2035040%20Bornova%2C%20%C4%B0zmir",
    "web": "",
-   "enlem": 38.466,
-   "boylam": 27.22,
-   "durum": "Açık (web teyitli)",
-   "konumYaklasik": true
+   "enlem": 38.463611,
+   "boylam": 27.2156,
+   "durum": "Açık (web teyitli)"
   },
   {
    "id": "IZM-0132",
@@ -2568,10 +2560,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Paribu%20Cineverse%20Point%20Bornova%2C%20Point%20Bornova%2C%204174%20Sk.%20No%3A4%20Ba%C4%9Fburnu%20Mevkii%2C%2035080%20Bornova%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=Paribu%20Cineverse%20Point%20Bornova&address=Point%20Bornova%2C%204174%20Sk.%20No%3A4%20Ba%C4%9Fburnu%20Mevkii%2C%2035080%20Bornova%2C%20%C4%B0zmir",
    "web": "",
-   "enlem": 38.466,
-   "boylam": 27.22,
-   "durum": "Açık (web teyitli)",
-   "konumYaklasik": true
+   "enlem": 38.430687,
+   "boylam": 27.20978,
+   "durum": "Açık (web teyitli)"
   },
   {
    "id": "IZM-0139",
@@ -2587,10 +2578,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Paribu%20Cineverse%20Forum%20Bornova%2C%20Forum%20Bornova%20AVM%2C%20Bornova%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=Paribu%20Cineverse%20Forum%20Bornova&address=Forum%20Bornova%20AVM%2C%20Bornova%2C%20%C4%B0zmir",
    "web": "",
-   "enlem": 38.466,
-   "boylam": 27.22,
-   "durum": "Açık (web teyitli)",
-   "konumYaklasik": true
+   "enlem": 38.450843,
+   "boylam": 27.211404,
+   "durum": "Açık (web teyitli)"
   },
   {
    "id": "IZM-0140",
@@ -2682,10 +2672,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Agora%20Bal%C3%A7ova%20Sinemas%C4%B1%2C%20Agora%20AVM%2C%20Bal%C3%A7ova%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=Agora%20Bal%C3%A7ova%20Sinemas%C4%B1&address=Agora%20AVM%2C%20Bal%C3%A7ova%2C%20%C4%B0zmir",
    "web": "",
-   "enlem": 38.389,
-   "boylam": 27.05,
-   "durum": "Açık (web teyitli)",
-   "konumYaklasik": true
+   "enlem": 38.394977,
+   "boylam": 27.052482,
+   "durum": "Açık (web teyitli)"
   },
   {
    "id": "IZM-0145",
@@ -2872,10 +2861,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=G%C3%BCrsel%20Aksel%20Stadyumu%2C%20Mehmet%20Ali%20Akman%20Mah.%20%C4%B0n%C3%B6n%C3%BC%20Cad.%20No%3A640%2C%2035290%20Konak%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=G%C3%BCrsel%20Aksel%20Stadyumu&address=Mehmet%20Ali%20Akman%20Mah.%20%C4%B0n%C3%B6n%C3%BC%20Cad.%20No%3A640%2C%2035290%20Konak%2C%20%C4%B0zmir",
    "web": "",
-   "enlem": 38.418,
-   "boylam": 27.129,
-   "durum": "Açık (web teyitli)",
-   "konumYaklasik": true
+   "enlem": 38.396821,
+   "boylam": 27.07595,
+   "durum": "Açık (web teyitli)"
   },
   {
    "id": "IZM-0155",
@@ -2891,10 +2879,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Alsancak%20Mustafa%20Denizli%20Stadyumu%2C%20Alsancak%2C%20Konak%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=Alsancak%20Mustafa%20Denizli%20Stadyumu&address=Alsancak%2C%20Konak%2C%20%C4%B0zmir",
    "web": "",
-   "enlem": 38.418,
-   "boylam": 27.129,
-   "durum": "Açık (web teyitli)",
-   "konumYaklasik": true
+   "enlem": 38.437323,
+   "boylam": 27.150791,
+   "durum": "Açık (web teyitli)"
   },
   {
    "id": "IZM-0156",
@@ -2910,8 +2897,8 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=%C4%B0zmir%20Atat%C3%BCrk%20Stadyumu%2C%20%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=%C4%B0zmir%20Atat%C3%BCrk%20Stadyumu&address=%2C%20%C4%B0zmir",
    "web": "",
-   "enlem": null,
-   "boylam": null,
+   "enlem": 38.434984,
+   "boylam": 27.178011,
    "durum": "Kontrol edilmeli"
   },
   {
@@ -2964,10 +2951,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=%C4%B0zmir%20Atat%C3%BCrk%20Voleybol%20Salonu%2C%20Alsancak%2C%20Konak%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=%C4%B0zmir%20Atat%C3%BCrk%20Voleybol%20Salonu&address=Alsancak%2C%20Konak%2C%20%C4%B0zmir",
    "web": "",
-   "enlem": 38.418,
-   "boylam": 27.129,
-   "durum": "Kontrol edilmeli",
-   "konumYaklasik": true
+   "enlem": 38.438634,
+   "boylam": 27.148115,
+   "durum": "Kontrol edilmeli"
   },
   {
    "id": "IZM-0160",
@@ -3001,10 +2987,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Tarihi%20Asans%C3%B6r%2C%20Dario%20Moreno%20Sk.%2C%20Konak%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=Tarihi%20Asans%C3%B6r&address=Dario%20Moreno%20Sk.%2C%20Konak%2C%20%C4%B0zmir",
    "web": "",
-   "enlem": 38.418,
-   "boylam": 27.129,
-   "durum": "Aktif (İzBB etkinlik akışında)",
-   "konumYaklasik": true
+   "enlem": 38.408629,
+   "boylam": 27.117479,
+   "durum": "Aktif (İzBB etkinlik akışında)"
   },
   {
    "id": "IZM-0162",
@@ -3039,10 +3024,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Hayal%20Kahvesi%20Optimum%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=Hayal%20Kahvesi%20Optimum&address=Optimum%20AVM%2C%20Gaziemir%2C%20%C4%B0zmir",
    "web": "https://www.hayalkahvesi.com.tr",
-   "enlem": 38.32,
-   "boylam": 27.13,
-   "durum": "Kontrol edilmeli",
-   "konumYaklasik": true
+   "enlem": 38.337856,
+   "boylam": 27.134816,
+   "durum": "Kontrol edilmeli"
   },
   {
    "id": "IZM-0164",
@@ -3077,10 +3061,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Naz%C4%B1m%20Hikmet%20K%C3%BClt%C3%BCr%20Merkezi%2C%20OS-KA%20Pasaj%C4%B1%2C%20Anafartalar%20Cd.%20No%3A20%2C%20Konak%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=Kemeralt%C4%B1%20Naz%C4%B1m%20Hikmet%20K%C3%BClt%C3%BCr%20Merkezi&address=OS-KA%20Pasaj%C4%B1%2C%20Anafartalar%20Cd.%20No%3A20%2C%20Konak%2C%20%C4%B0zmir",
    "web": "",
-   "enlem": 38.418,
-   "boylam": 27.129,
-   "durum": "Aktif (Kasım-Aralık 2026 bilet satışında)",
-   "konumYaklasik": true
+   "enlem": 38.418305,
+   "boylam": 27.130203,
+   "durum": "Aktif (Kasım-Aralık 2026 bilet satışında)"
   },
   {
    "id": "IZM-0166",
@@ -3096,10 +3079,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Paribu%20Cineverse%20MaviBah%C3%A7e%2C%20Caher%20Dudayev%20Bulvar%C4%B1%2C%20Kar%C5%9F%C4%B1yaka%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=Paribu%20Cineverse%20MaviBah%C3%A7e&address=Caher%20Dudayev%20Bulvar%C4%B1%2C%20Mavi%C5%9Fehir%2C%20Kar%C5%9F%C4%B1yaka%2C%20%C4%B0zmir",
    "web": "https://www.paribucineverse.com",
-   "enlem": 38.46,
-   "boylam": 27.11,
-   "durum": "Aktif (Beyazperde'de seans var)",
-   "konumYaklasik": true
+   "enlem": 38.474618,
+   "boylam": 27.074859,
+   "durum": "Aktif (Beyazperde'de seans var)"
   },
   {
    "id": "IZM-0167",
@@ -3286,9 +3268,64 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Canopy%20by%20Hilton%20%C4%B0zmir%20Bomonti%2C%20Halkap%C4%B1nar%2C%20M%C3%BCrselpa%C5%9Fa%20Blv.%20No%3A172%2C%2035170%20Konak%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=Canopy%20by%20Hilton%20%C4%B0zmir%20Bomonti&address=Halkap%C4%B1nar%2C%20M%C3%BCrselpa%C5%9Fa%20Blv.%20No%3A172%2C%2035170%20Konak%2C%20%C4%B0zmir",
    "web": "https://www.hilton.com/tr/hotels/izmirpy-canopy-izmir-bomonti/",
-   "enlem": 38.418,
-   "boylam": 27.129,
-   "durum": "Aktif (6 Aralık 2026 etkinlik)",
+   "enlem": 38.434614,
+   "boylam": 27.163963,
+   "durum": "Aktif (6 Aralık 2026 etkinlik)"
+  },
+  {
+   "id": "IZM-0177",
+   "ad": "Menemen İlçe Stadı",
+   "ilce": "Menemen",
+   "semt": "Kazımpaşa",
+   "acikKapali": "Açık",
+   "kategori": "Spor",
+   "tur": "Futbol stadı",
+   "adres": "Kazımpaşa Mah. Atatürk Cad. No:154, 35660 Menemen",
+   "telefon": "",
+   "ulasim": "",
+   "googleMaps": "https://www.google.com/maps/search/?api=1&query=38.60203,27.07367",
+   "appleMaps": "https://maps.apple.com/?ll=38.60203,27.07367&q=Menemen%20%C4%B0l%C3%A7e%20Stad%C4%B1",
+   "web": "",
+   "enlem": 38.60203,
+   "boylam": 27.07367,
+   "durum": "Aktif (Kasım–Aralık 2026 etkinlik)"
+  },
+  {
+   "id": "IZM-0178",
+   "ad": "Urla Hakan Çeken Kültür Merkezi",
+   "ilce": "Urla",
+   "semt": "Yenikent",
+   "acikKapali": "Kapalı",
+   "kategori": "Kültür-Sanat",
+   "tur": "Kültür merkezi / tiyatro salonu",
+   "adres": "Yenikent, 75. Yıl Cumhuriyet Cd. 94 A, 35430 Urla",
+   "telefon": "",
+   "ulasim": "",
+   "googleMaps": "https://www.google.com/maps/search/?api=1&query=Urla%20Hakan%20%C3%87eken%20K%C3%BClt%C3%BCr%20Merkezi%2C%20Yenikent%2C%2075.%20Y%C4%B1l%20Cumhuriyet%20Cd.%2094%20A%2C%2035430%20Urla%2C%20%C4%B0zmir",
+   "appleMaps": "https://maps.apple.com/?q=Urla%20Hakan%20%C3%87eken%20K%C3%BClt%C3%BCr%20Merkezi&address=Yenikent%2C%2075.%20Y%C4%B1l%20Cumhuriyet%20Cd.%2094%20A%2C%2035430%20Urla%2C%20%C4%B0zmir",
+   "web": "",
+   "enlem": 38.32,
+   "boylam": 26.765,
+   "durum": "Aktif (Kasım–Aralık 2026 etkinlik)",
+   "konumYaklasik": true
+  },
+  {
+   "id": "IZM-0179",
+   "ad": "Avlu Urla",
+   "ilce": "Urla",
+   "semt": "Yeni Mahalle",
+   "acikKapali": "Kapalı",
+   "kategori": "Konser",
+   "tur": "Canlı müzik mekânı",
+   "adres": "Yeni Mh. Zafer Cd. No:69, Urla",
+   "telefon": "",
+   "ulasim": "",
+   "googleMaps": "https://www.google.com/maps/search/?api=1&query=Avlu%20Urla%2C%20Yeni%20Mh.%20Zafer%20Cd.%20No%3A69%2C%20Urla%2C%20%C4%B0zmir",
+   "appleMaps": "https://maps.apple.com/?q=Avlu%20Urla&address=Yeni%20Mh.%20Zafer%20Cd.%20No%3A69%2C%20Urla%2C%20%C4%B0zmir",
+   "web": "",
+   "enlem": 38.32,
+   "boylam": 26.765,
+   "durum": "Aktif (Kasım–Aralık 2026 etkinlik)",
    "konumYaklasik": true
   }
  ]
