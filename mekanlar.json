@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-27T21:51+03:00",
+ "guncelleme": "2026-11-28T05:01+03:00",
  "sehir": "İzmir",
  "mekanlar": [
   {
@@ -197,10 +197,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=K%C3%BClt%C3%BCrpark%20Atat%C3%BCrk%20A%C3%A7%C4%B1khava%20Tiyatrosu%2C%20Akdeniz%20Mah.%20Fuar%20Alan%C4%B1%20%28K%C3%BClt%C3%BCrpark%20i%C3%A7i%29%2C%2035210%20Konak%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=K%C3%BClt%C3%BCrpark%20Atat%C3%BCrk%20A%C3%A7%C4%B1khava%20Tiyatrosu&address=Akdeniz%20Mah.%20Fuar%20Alan%C4%B1%20%28K%C3%BClt%C3%BCrpark%20i%C3%A7i%29%2C%2035210%20Konak%2C%20%C4%B0zmir",
    "web": "Bilet platformları + kulturparkizmir.org / kultursanat.izmir.bel.tr",
-   "enlem": 38.418,
-   "boylam": 27.129,
-   "durum": "Açık (web teyitli)",
-   "konumYaklasik": true
+   "enlem": 38.42767,
+   "boylam": 27.134264,
+   "durum": "Açık (web teyitli)"
   },
   {
    "id": "IZM-0012",
@@ -697,10 +696,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Bat%C4%B1%20Sahne%2C%20%C3%96rnekk%C3%B6y%201847%2F5%20Sk.%20No%3A55A%2C%20Kar%C5%9F%C4%B1yaka%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=Bat%C4%B1%20Sahne&address=%C3%96rnekk%C3%B6y%201847%2F5%20Sk.%20No%3A55A%2C%20Kar%C5%9F%C4%B1yaka%2C%20%C4%B0zmir",
    "web": "Bilet platformları",
-   "enlem": 38.46,
-   "boylam": 27.11,
-   "durum": "Açık (web teyitli)",
-   "konumYaklasik": true
+   "enlem": 38.476961,
+   "boylam": 27.114798,
+   "durum": "Açık (web teyitli)"
   },
   {
    "id": "IZM-0039",
@@ -1403,10 +1401,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=%C3%87e%C5%9Fme%20%C3%87akabey%20K%C3%BClt%C3%BCr%20Merkezi%2C%20%C3%87e%C5%9Fme%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=%C3%87e%C5%9Fme%20%C3%87akabey%20K%C3%BClt%C3%BCr%20Merkezi&address=%C3%87e%C5%9Fme%2C%20%C4%B0zmir",
    "web": "cesme.bel.tr (ilçe belediyesi)",
-   "enlem": 38.324,
-   "boylam": 26.304,
-   "durum": "Kontrol edilmeli",
-   "konumYaklasik": true
+   "enlem": 38.328548,
+   "boylam": 26.315443,
+   "durum": "Kontrol edilmeli"
   },
   {
    "id": "IZM-0077",
@@ -2319,10 +2316,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=%C4%B0stinyeArt%20%25100%20Performans%20Arena%2C%20%C4%B0stinyePark%20AVM%2C%20Bal%C3%A7ova%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=%C4%B0stinyeArt%20%25100%20Performans%20Arena&address=%C4%B0stinyePark%20AVM%2C%20Bal%C3%A7ova%2C%20%C4%B0zmir",
    "web": "",
-   "enlem": 38.389,
-   "boylam": 27.05,
-   "durum": "Açık (web teyitli)",
-   "konumYaklasik": true
+   "enlem": 38.399362,
+   "boylam": 27.068295,
+   "durum": "Açık (web teyitli)"
   },
   {
    "id": "IZM-0126",
@@ -3116,10 +3112,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Alsancak%20Gazi%20Ortaokulu%20Tiyatro%20Salonu%2C%20K%C3%BClt%C3%BCr%20Mah.%20Talatpa%C5%9Fa%20Blv.%20No%3A22%2C%2035220%20Konak%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=Alsancak%20Gazi%20Ortaokulu%20Tiyatro%20Salonu&address=K%C3%BClt%C3%BCr%20Mah.%20Talatpa%C5%9Fa%20Blv.%20No%3A22%2C%2035220%20Konak%2C%20%C4%B0zmir",
    "web": "",
-   "enlem": 38.418,
-   "boylam": 27.129,
-   "durum": "Aktif (Kasım-Aralık 2026 çocuk oyunları satışta)",
-   "konumYaklasik": true
+   "enlem": 38.433928,
+   "boylam": 27.141423,
+   "durum": "Aktif (Kasım-Aralık 2026 çocuk oyunları satışta)"
   },
   {
    "id": "IZM-0169",
@@ -3173,10 +3168,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Maske%20Sanat%20Tiyatrosu%2C%20Kaz%C4%B1mdirik%20Mah.%20167%20Sk.%20No%3A8/A%2C%2035080%20Bornova%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=Maske%20Sanat%20Tiyatrosu&address=Kaz%C4%B1mdirik%20Mah.%20167%20Sk.%20No%3A8/A%2C%2035080%20Bornova%2C%20%C4%B0zmir",
    "web": "",
-   "enlem": 38.466,
-   "boylam": 27.22,
-   "durum": "Aktif (Kasım-Aralık 2026 satışta)",
-   "konumYaklasik": true
+   "enlem": 38.459364,
+   "boylam": 27.213226,
+   "durum": "Aktif (Kasım-Aralık 2026 satışta)"
   },
   {
    "id": "IZM-0172",
@@ -3192,10 +3186,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Tiyatro%20Dura%C4%9F%C4%B1%20K%C3%BClt%C3%BCr%20ve%20Sanat%20Merkezi%2C%20Kemeralt%C4%B1%20%C3%87ar%C5%9F%C4%B1s%C4%B1%20865%20Sk.%20No%3A25/A%2C%2035260%20Konak%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=Tiyatro%20Dura%C4%9F%C4%B1%20K%C3%BClt%C3%BCr%20ve%20Sanat%20Merkezi&address=Kemeralt%C4%B1%20%C3%87ar%C5%9F%C4%B1s%C4%B1%20865%20Sk.%20No%3A25/A%2C%2035260%20Konak%2C%20%C4%B0zmir",
    "web": "",
-   "enlem": 38.418,
-   "boylam": 27.129,
-   "durum": "Aktif (Kasım-Aralık 2026 satışta)",
-   "konumYaklasik": true
+   "enlem": 38.419515,
+   "boylam": 27.132385,
+   "durum": "Aktif (Kasım-Aralık 2026 satışta)"
   },
   {
    "id": "IZM-0173",
@@ -3211,10 +3204,9 @@
    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Boyoz%20Akademi%20Sanat%20Merkezi%2C%20Tuna%20Mah.%201713%20Sk.%20%28Tiyatro%20Sk.%29%20No%3A38%2C%20Kar%C5%9F%C4%B1yaka%2C%20%C4%B0zmir",
    "appleMaps": "https://maps.apple.com/?q=Boyoz%20Akademi%20Sanat%20Merkezi&address=Tuna%20Mah.%201713%20Sk.%20%28Tiyatro%20Sk.%29%20No%3A38%2C%20Kar%C5%9F%C4%B1yaka%2C%20%C4%B0zmir",
    "web": "",
-   "enlem": 38.46,
-   "boylam": 27.11,
-   "durum": "Aktif (Kasım 2026 çocuk oyunları Bubilet'te)",
-   "konumYaklasik": true
+   "enlem": 38.45693,
+   "boylam": 27.119112,
+   "durum": "Aktif (Kasım 2026 çocuk oyunları Bubilet'te)"
   },
   {
    "id": "IZM-0174",
