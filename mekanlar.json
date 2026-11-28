@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-28T07:24+03:00",
+ "guncelleme": "2026-11-28T08:41+03:00",
  "sehir": "İzmir",
  "mekanlar": [
   {
@@ -3373,6 +3373,25 @@
    "enlem": 38.794529,
    "boylam": 26.957494,
    "durum": "Aktif (Kasım 2026 maç)"
+  },
+  {
+   "id": "IZM-0183",
+   "ad": "Urla Belediyesi Aryom Kültür ve Sanat Merkezi",
+   "ilce": "Urla",
+   "semt": "Yeni Mahalle",
+   "acikKapali": "Kapalı",
+   "kategori": "Kültür-Sanat",
+   "tur": "Kültür merkezi / sergi",
+   "adres": "Yeni Mah. Demirciler Sok. No:33, Urla",
+   "telefon": "",
+   "ulasim": "",
+   "googleMaps": "https://www.google.com/maps/search/?api=1&query=Aryom%20K%C3%BClt%C3%BCr%20Merkezi%20Urla",
+   "appleMaps": "https://maps.apple.com/?q=Aryom%20K%C3%BClt%C3%BCr%20Merkezi%20Urla",
+   "web": "",
+   "enlem": 38.32,
+   "boylam": 26.765,
+   "durum": "Aktif (Kasım 2026)",
+   "konumYaklasik": true
   }
  ]
 }
