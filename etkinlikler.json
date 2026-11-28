@@ -1,5 +1,5 @@
 {
- "guncelleme": "2026-11-28T13:15+03:00",
+ "guncelleme": "2026-11-28T19:12+03:00",
  "sehir": "İzmir",
  "kategoriler": [
   "Kültür-Sanat",
@@ -653,29 +653,6 @@
    "kaynak": "Biletinial",
    "yasMin": 3,
    "yasMax": 10,
-   "altKategori": ""
-  },
-  {
-   "id": "izbb-33118b1e-fbb6-46e3-a2f1-dd4ec991cfb7",
-   "ad": "Dario Moreno Anısına İnanç Menekşe Konseri",
-   "aciklama": "Etkinlik: Dario Moreno Anısına İnanç Menekşe Konseri\nTarih: 28 Kasım 2026\nSaat: 16.00\nMekân: Tarihi Asansör\nKatılım: Ücretsizdir.",
-   "kategori": "Konser",
-   "tur": "Konser, Genel",
-   "baslangic": "2026-11-28T16:00+03:00",
-   "bitis": "2026-11-28T17:00+03:00",
-   "ucretsiz": true,
-   "ucret": "",
-   "yasSiniri": "",
-   "gorsel": "https://kultursanatapi.izmir.bel.tr/uploads/event/26-11-23/fd338939-313b-4098-8373-bcc6084bb545-qmklpaq0.jpg",
-   "biletUrl": null,
-   "kaynakUrl": "https://kultursanat.izmir.bel.tr/etkinlik/33118b1e-fbb6-46e3-a2f1-dd4ec991cfb7",
-   "organizator": "Etkinlik ve Organizasyon Şube Müdürlüğü",
-   "mekanId": "IZM-0161",
-   "mekanMetni": "Tarihi Asansör",
-   "acikKapali": "Duruma göre",
-   "kaynak": "İzmir Büyükşehir Belediyesi açık veri (CC BY 4.0)",
-   "yasMin": null,
-   "yasMax": null,
    "altKategori": ""
   },
   {
