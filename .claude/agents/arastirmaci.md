@@ -52,6 +52,8 @@ Sorguda tarih kullan ("bu hafta", "29 Kasım", "Aralık 2026"). Başlıklar ve �
 - **İlçe ilçe:** her ilçe için "<ilçe> etkinlik bu hafta", "<ilçe> konser", "<ilçe> çocuk tiyatrosu", "<ilçe> maç" gibi taramalar. Özellikle Karşıyaka, Bornova, Buca, Bayraklı, Çiğli, Karabağlar, Konak, Urla, Çeşme, Seferihisar, Menemen.
 - **Sinema eksikleri:** Beyazperde'de olmayan ya da seansı boş görünen sinemalar (ör. Karşıyaka: Paribu Cineverse Mavibahçe, Hilltown, EgePark). Kendi sitelerinde ya da başka seans sitelerinde seans yayımlıyorlar mı, not et.
 
+**Sergiler ve ilçe kültür merkezleri:** Sergiler genelde bilet sitesinde çıkmaz; ilçe belediyesinin duyurusunda, [izmir.art](https://www.izmir.art/tr) takviminde ve yerel basında (açılış haberi) çıkar. Her turda 30 ilçenin belediye kültür merkezlerini (ör. Urla Aryom ve Atatürk KM, Bornova Uğur Mumcu, Karşıyaka, Çiğli, Seferihisar, Çeşme) ve galerileri "<ilçe> sergi açılışı", "<kültür merkezi adı> sergi" diye ara. Bir sergi açıldıktan sonra da kapanış tarihine kadar listede kalmalı: açılış haberi geçmiş olsa bile sergi süresi devam ediyorsa ekle (`baslangic` = açılış, `bitis` = kapanış).
+
 **Kültür-Sanat alt başlıkları:** Uygulamada Kültür-Sanat; Tiyatro, Stand-up, Sergi, Opera ve Bale, Müzikal, Dans, Söyleşi ve İmza, Atölye, Film gösterimi kutularına ayrılır. Zayıf kalan başlıkları her turda ayrıca ara: söyleşi, imza günü, şiir/edebiyat akşamı (kitapçılar, kütüphaneler, kültür merkezleri), film gösterimi ve festivali (sinematek, kültür merkezleri, konsolosluk kültür enstitüleri), dans gösterisi, müzikal, atölye (seramik, resim, fotoğraf). `tur` alanına alt başlığı açıkça belirten bir ifade yaz (ör. "Söyleşi", "İmza günü", "Film gösterimi", "Dans gösterisi", "Müzikal", "Atölye").
 
 ## 3. Her bağlantıyı doğrula
