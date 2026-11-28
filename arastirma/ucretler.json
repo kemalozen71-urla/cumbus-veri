@@ -7,6 +7,70 @@
    "kaynakUrl": "https://kultursanat.izmir.bel.tr/etkinlik/de844503-6f92-4c32-9fb1-b2c1cbbcffa6",
    "dogrulandi": "2026-11-27",
    "not": "Resmi salon planında tüm bloklar 250 TL (kullanıcı teyidi)"
+  },
+  "izbb-7b73de69-4bbc-4f2b-8266-c330176c0a50": {
+   "ucretsiz": false,
+   "ucret": "430 TL",
+   "kaynakUrl": "https://biletinial.com/tr-tr/muzik/04-aralik-konseri-izdso",
+   "biletUrl": "https://biletinial.com/tr-tr/muzik/04-aralik-konseri-izdso",
+   "dogrulandi": "2026-11-28",
+   "not": "Biletinial 4 Aralık 2026 20:00 AASSM: tam 430 TL, indirimli 355 TL; ayrıca adı belirtilmeyen 215 TL'den başlayan kategori."
+  },
+  "izbb-7229c42b-2ffe-405d-a743-57a453943e33": {
+   "ucretsiz": false,
+   "ucret": "430 TL",
+   "kaynakUrl": "https://biletinial.com/tr-tr/muzik/11-aralik-konseri-izdso",
+   "biletUrl": "https://biletinial.com/tr-tr/muzik/11-aralik-konseri-izdso",
+   "dogrulandi": "2026-11-28",
+   "not": "Biletinial etkinlik sayfası: tam 430 TL, indirimli 355 TL (liste sayfası 215 TL'den gösteriyor)."
+  },
+  "izbb-66d0be51-7a81-4e38-a0eb-ab0fb2506eca": {
+   "ucretsiz": false,
+   "ucret": "250 TL",
+   "kaynakUrl": "https://www.aassm.org.tr/tr/Etkinlikler/Detay/-633863924",
+   "biletUrl": null,
+   "dogrulandi": "2026-11-28",
+   "not": "AASSM etkinlik sayfası: 28 Kasım 2026 20:00, Küçük Salon, 'Bilet Fiyatı: 250 TL' (tek fiyat). Satış kultursanatbilet ve gişeler."
+  },
+  "izbb-a50064dd-6230-445d-b539-dcbd6f05f05c": {
+   "ucretsiz": false,
+   "ucret": "",
+   "kaynakUrl": "https://www.aassm.org.tr/tr/Etkinlikler/Detay/-563806327",
+   "biletUrl": null,
+   "dogrulandi": "2026-11-28",
+   "not": "AASSM sayfası biletli olduğunu (kultursanatbilet + gişe) yazıyor, fiyat yok. kultursanatbilet.izmir.bel.tr oturum sayfası erişim izni olmadığı için açılamadı."
+  },
+  "izbb-688ebb2e-b032-4bc4-9405-5a7c860a4710": {
+   "ucretsiz": true,
+   "ucret": "",
+   "kaynakUrl": "https://www.aassm.org.tr/tr/Etkinlikler/Detay/-139690191",
+   "biletUrl": null,
+   "dogrulandi": "2026-11-28",
+   "not": "AASSM Aralık 2026 programı: 'Efes'ten Mimas'a Giden Yol I' fotoğraf sergisi 26 Kasım–31 Aralık zemin kat galerileri, ziyaret ücretsiz."
+  },
+  "izbb-99b515e3-8746-4ce6-8c7d-79382f2e1572": {
+   "ucretsiz": true,
+   "ucret": "",
+   "kaynakUrl": "https://www.aassm.org.tr/tr/Etkinlikler/Detay/-139690191",
+   "biletUrl": null,
+   "dogrulandi": "2026-11-28",
+   "not": "AASSM Aralık 2026 programı: 'Yüzeyin Ötesi' resim sergisi 2–31 Aralık alt kat galerisi, ziyaret ücretsiz."
+  },
+  "izbb-f0bebfa0-522a-4e7d-a0da-14516b5e124e": {
+   "ucretsiz": true,
+   "ucret": "",
+   "kaynakUrl": "https://www.aassm.org.tr/tr/Etkinlikler/Detay/-416402711",
+   "biletUrl": null,
+   "dogrulandi": "2026-11-28",
+   "not": "AASSM etkinlik sayfası: 10 Aralık 2026 20:00, 'Ücretsiz - Serbest Giriş'."
+  },
+  "izbb-2213ac80-9d3a-4ae3-82e2-049e82398942": {
+   "ucretsiz": true,
+   "ucret": "",
+   "kaynakUrl": "https://www.yenibakishaber.com/izmirde-23-29-kasim-etkinlik-takvimi-bu-hafta-neler-var",
+   "biletUrl": null,
+   "dogrulandi": "2026-11-28",
+   "not": "Yeni Bakış 23-29 Kasım takvimi: Çelebi'nin Rotası, Tarihi Bıçakçı Han, ücretsiz, 15 Aralık'a kadar. Kurum sayfası (kultursanat.izmir.bel.tr) robots nedeniyle açılamadı."
   }
  }
 }
